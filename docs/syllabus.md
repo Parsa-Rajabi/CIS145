@@ -4,9 +4,9 @@
 
 **CIS 145: Web Publishing (3)**
 
+---
 **Spring 2024**
 
----
 **Section ON1 [CRN 50025]**
 - Mondays 8:30-11:20 AM - via Zoom
 
