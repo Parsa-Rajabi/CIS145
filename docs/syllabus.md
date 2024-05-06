@@ -70,7 +70,7 @@ TBA
 
 ## Passing Criteria
 
-Students must attain an overall passing grade (%50 or higher) on the weighted average of quizzes and exams in the course in order to obtain a clear pass (C- or better).
+Students must attain an overall passing grade (50% or higher) on the weighted average of quizzes and exams in the course in order to obtain a clear pass (C- or better).
 
 ## Course and Policies
 
