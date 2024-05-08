@@ -1,64 +1,81 @@
 # Resources
 
-## Reflective Writing  
-*   [A short guide to reflective writing](https://intranet.birmingham.ac.uk/as/libraryservices/library/skills/asc/documents/public/Short-Guide-Reflective-Writing.pdf)
-*   [How Reflecting On Your Work Can Make You A Better Designer](https://medium.com/center-centre-cohort-01/how-reflecting-on-your-work-can-make-you-a-better-designer-5ce2f3886f51)
-*   [Online Guide to Reflective Writing](https://nile.northampton.ac.uk/bbcswebdav/pid-1244383-dt-content-rid-3278540_1/courses/Centre-for-Achievement-and-Performance/Skills/Reflective%20Writing/Reflective%20Writing%20-%20Feb%202017.pdf)
-*   [Reflective Toolbox](http://writeonline.ca/media/documents/ReflectiveToolbox.pdf)
-*   [Reflective writing: a basic introduction](http://www.port.ac.uk/media/contacts-and-departments/student-support-services/ask/downloads/Reflective-writing---a-basic-introduction.pdf)
+On this page you will find some helpful resources, including how to connect to UFV server and what software is recommended. 
 
-## UX Platform Guideline Collections  
-*   [Android User Interface Design Guidelines](https://developer.android.com/guide/practices/ui_guidelines/index.html)
-*   [Google Material Design Guidelines](https://material.google.com/)
-*   [iOS Human Interface Design Guidelines (iPhone and iPad)](https://developer.apple.com/ios/human-interface-guidelines/)
-*   [KDE Human Interface Design Guidelines](https://community.kde.org/KDE_Visual_Design_Group/HIG)
-*   [OS X Human Interface Design Guidelines](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/index.html#//apple_ref/doc/uid/TP40002720-TPXREF101)
-*   [Windows App Design Guidelines (Touch)](https://msdn.microsoft.com/en-us/library/dn742468.aspx)
+## CIS Server
 
-## UX Templates  
-*   [Contextual Interview Form](http://userfocus.co.uk/pdf/cisheet.pdf)  
-*   [One Page User Research Plan](https://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/)  
-*   [Templates & Downloadable Documents | Usability.gov](http://www.usability.gov/how-to-and-tools/resources/templates.html)
-*   [cxpartners | Resources](http://www.cxpartners.co.uk/ux-resources/)
-*   [The PM Toolkit](http://thepmtoolkit.com/)
-*   [UX Project Checklist](http://uxchecklist.github.io/)
+In order to publish our websites to the internet, we will need to connect and interact with a web server. The server that we will be using in this course is [http://cisweb.ufv.ca](http://cisweb.ufv.ca). This is a UFV-hosted server that is maintained by the School of Computing. 
 
-## UX Design Checklists  
-*   [A Checklist for Designing Mobile Input Fields](http://www.nngroup.com/articles/mobile-input-checklist/)  
-*   [Mobile UX Checklist (PDF, by Mobify)](http://downloads.mobify.com.s3.amazonaws.com/ebooks/25-Ways-to-Make-Your-Mobile-E-Commerce-Revenue-Skyrocket-Mobify.pdf)  
-*   [One-Page Touch Interaction Design Checklist (PDF)](https://canvas.sfu.ca/courses/38847/files/folder/Handouts/Touch%20Interaction%20Checklist)
-*   [Usability checklist (Userium)](https://userium.com/)
-*   [UX Project Checklist](http://uxchecklist.github.io/)
+Follow the instructions below to connect to this server.
 
-## UX Technique Collections  
-*   [Methods | Usability.gov](http://www.usability.gov/how-to-and-tools/methods/)
-*   [Methods | Usability Body of Knowledge](http://www.usabilitybok.org/methods)
-*   [Usability Planner](http://usabilityplanner.org/#home)
-*   [UX Techniques (by UX Mastery)](http://uxmastery.com/resources/techniques)
+1. In order to connect to the server, you need to install an FTP (File Trasfer Protocal) software. 
+   1. If you don't have this install, [follow the instructions below](#ftp-clients).
+2. Open an FTP client such as WinSCP or FileZilla 
+3. Navigate to the connection manager and add a new site
+4. Use the information below to establish a connection to the server
 
-## UX Article Collections  
-*   [The UX Bookmark](http://www.theuxbookmark.com/)
-*   [User Experience Magazine (UXPA)](http://uxpamagazine.org/)
-*   [UI/UX Articles (Medium)](https://medium.com/ui-ux-articles)
+```
+host: cisweb.ufv.ca
+port: 22
+protocol: sftp
+username: (your student id - example: 30012345) - note: this should NOT be your name/email. Just numbers.
+password: (your UFV password - same as your Blackboard/UFV student email)
+```
 
-## UX eBooks  
-*   [50 UX Best Practices by Above the Fold (email address required)](http://www.userexperiencedesigns.com/)
-*   [Bright Ideas for User Experience Designers](http://www.userfocus.co.uk/ebooks/uxdesign.html)
-*   [The Fable of the User-Centered Designer](http://www.userfocus.co.uk/fable/)
+Once you have established a connection, you will see a list of files populated on the right handside of your screen. The left side of the application shows files on your computer while the right side is your dedicted CIS Web server folder.
 
-## UX Design MOOCs & Courses
-*   [Human-Computer Interaction | Coursera](https://www.coursera.org/course/hciucsd)
-*   [The Design of Everyday Things | Udacity](https://www.udacity.com/course/design101)
-*   [Rapid Wireframing: Finding the Right Product Design](https://www.skillshare.com/classes/design/Rapid-Wireframing-Finding-the-Right-Product-Design/1947996659)
+Your CIS web server home directory (folder) is `/home/cis145/studentID` for example: `/home/cis145/30012345`. Any files placed in this directory (folder) are accessible to the world using a web browser at `http://cisweb.ufv.ca/~studentID`.
 
-## UX Podcast Collections  
-*   [Design Critique: Products for People](http://designcritique.net/)
-*   [Podcasts - UIE Brain Sparks](http://www.uie.com/brainsparks/topics/podcasts/)
-*   [Boagworld Podcast](https://boagworld.com/show/)
-*   [User Experience Podcast](http://www.infodesign.com.au/uxpod)
+In order to test your server connection, upload a file from your computer to the sever using the FTP client. Then, go to `http://cisweb.ufv.ca/~studentID` where studentID is your own number. For example: `http://cisweb.ufv.ca/~300123456`.
 
-## UX Video Collections  
-*   [Google Developers Channel](https://www.youtube.com/user/GoogleDevelopers/search?query=user+experience+usability)  
-*   [Interaction Design Association Vimeo Channels](http://vimeo.com/ixdaglobal/channels)  
-*   [NNgroup YouTube Channel](https://www.youtube.com/user/NNgroup/videos)  
-*   [UX Mastery YouTube Channel](https://www.youtube.com/channel/UCXmQyv8sAjmvgCCgvRKi9hw)
+If you change from `/home/cis145/(studentid)` to its parent directory (..) your sftp client will not be able to read or write from the current directory. This is **intentional**, as you are not permitted to list all other home directories on the system. The simplest solution is to just change back to your home directory by changing to `(/home/cis145/(studentid))` or, depending on your sftp client, by clicking on home icon.
+
+### FAQ
+
+- Q: I don't have an FTP client installed. What do I do?
+  - A: Follow the [instructions below](#ftp-clients)
+
+- Q: I can't connect to the server. What do I do?
+  - A: Double check your connection information. Common mistakes include incorrect username/password. Your username is your student ID number and should only include numbers.
+
+- Q: I tried to login multiple times and I keep getting an error. What do I do?
+  - A: If you have multiple login errors, the server will ban your address for an interval ranging from a few minutes to a few hours, so if you have a password login error, carefully re-enter your correct username and password before retrying. 
+
+
+## Softwares
+
+In order to develop our websites, we will be using a code editor to write and oragnize code. You're welcome to use any code editor you'd like, below are some options for your consideration:
+
+### Code Editor
+
+- VSCode [**recommended**]
+    - Download it from [here](https://code.visualstudio.com/download).
+    - Make sure to download the correct version for your operating system.
+    - The stable build is recommended for most users
+
+- WebStorm [Download](https://www.jetbrains.com/webstorm/download)
+    - Part of intelij, a very powerful IDE
+
+- Atom [Download](https://atom.io/)
+    - Created by github, relatively new and very impressive editor.
+    - Recommended plugin: emmet
+
+- Notepad++ [Download](https://notepad-plus-plus.org)
+    - Well established, syntax highlighting editor
+
+- Sublime [Download](https://www.sublimetext.com/3)
+    - A very advanced and capable editor
+
+### FTP Clients
+
+- FileZila (Windows, Mac, Linux) [**recommended**]
+    - Download it from [here](https://filezilla-project.org/download.php?type=client).
+    - Make sure to download the correct version for your operating system.
+    - Install the **client version**
+
+- WinSCP (Windows)
+    - Download it from [here](https://winscp.net/eng/download.php).
+    - This is an SFTP client for Windows. It is simple, clean, and effective.
+
+
+
