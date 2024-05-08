@@ -1,4 +1,4 @@
-> # What’s Happening This Week
+<!-- > # What’s Happening This Week
 > ## How to explore the problem space?
 > ### Important Reminders
 > * [Journey Map](#) assignment <span class='badge'> Tue Jun 12th 11:59pm PDT</span>
@@ -15,4 +15,4 @@
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/">The Art of Guerrilla Usability Testing | UX Booth</a>
 
 ### Week 5 Slides to be Discussed
-[Usability Testing](https://www.google.ca/slides/about/)
+[Usability Testing](https://www.google.ca/slides/about/) -->
