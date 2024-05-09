@@ -1,5 +1,12 @@
 # Introduction to the Internet and World Wide Web
 
+This week, we'll learn more about the background of how internet came to be and the various protocals associated with it.
+
+Here is a video that provides an overview:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/guvsH5OFizE?si=czfM5UtarVW-9C6y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## The Internet
 The Internet is an interconnected network of computer networks that spans the world. It has become an integral part of our daily lives. You can’t watch a video or listen to music without being urged to visit a website or an app. Even newspapers and magazines have a place on the Internet.
 
