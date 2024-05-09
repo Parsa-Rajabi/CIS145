@@ -5,7 +5,7 @@ All course slides are password protected. Visit course info page to get the pass
 | **Wk#** | **Date** | **Topic** | **Course Notes** |
 |:---:|:---:|:---:|:---:|
 | 1 | May 6 + May 9 | Syllabus + Introduction | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiZ0d2QzZ6aFVWcVBDcjJUekRXRlMvV3BhRlJ3UkxvYWxqNCtrV0VTbXVlT2ZsOWREZ2oralplYzlVSWxBNjNidWRaa1M1Z3FJa3BYSVNWSWpGalh0YmRCS1Z4TmN5L2R1Z1JXVlczdDUwTHhpMTlmZlcvcEk3VVNHV2RDRm52ZHJJK3dQQXdSTlZ2S3Z3Tnk4L2VxMFcyNGdMU3M9IiwicyI6ImlMVkRQZzYzM3U3YXdCZ0g5b2JsUEE9PSIsImkiOiJZbjdsaVN5MTAwK0drd2dvIn0=) |
-| 2 | May 13 + May 16 | Intro to WWW + HTML | Part 1: <a href="https://parsa-rajabi.github.io/CIS145/#/week-2" target="_blank">Intro to WWW</a><br> Part 2: Intro to HTML (*to be released soon*) |
+| 2 | May 13 + May 16 | Intro to WWW + HTML | Part 1: <a href="https://parsa-rajabi.github.io/CIS145/#/week-2">Intro to WWW</a><br> Part 2: Intro to HTML (*to be released soon*) |
 
 <!-- | 2 | Jan 17 + Jan 18 | 2 | Intro to WWW + HTML | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiNVE1cldqandoSTZ0VncxZDFNUWpJMExETGNxMlJqQUdaRWRtZjYzeUk5MXJzWnc4T29yQWM3aWhPR0VXOFdIOUFvSDNwOFYzdE5hZHI4Ym9RUkJtOVMrQ3ZSeUtOTlkyYkttKzBIa3U3M1F5blJHemxpTjhKRzRGeDZsTEtBNis5WmI0L1l6MGdKVmNPWTlPNEJQdXRvWjBFM0k9IiwicyI6IlRLUm16dThsK2JUS3V6WDFZS0pBdWc9PSIsImkiOiJOaCtwenVIUS9CWUtKUjRrIn0=) |
 | 3 | Jan 24 + Jan 25 | 3 | HTML Basics | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiSmlaQUNNY1FXZjNOSGJXYkpDUjF2NEtmdERCd2lPR2pHMENmUUFFWmFVenhlQ2V3L29JV1ZzeFhZeGthUkkrRXhnWGJwUWNPQTNBSTZySzk4U1htcXFDRTd1Qi9pRmRIUE1YQTFxbXpJdGpIYmRXck0yaHYySFJJMnlnRGttWWl0aDZ1U213NzkxNUdwYmZpdDhHSGlJSk9GT2c9IiwicyI6IklLN0xNbGlRUGlXdW01NCs1SWF2TUE9PSIsImkiOiJIZmFKdERSRllPdHNWSlFGIn0=) |
