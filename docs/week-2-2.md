@@ -4,7 +4,7 @@ As part of this section, we'll learn more about what HTML is and how to write ou
 
 Here are 2 video that provide an overview:
 
-- **This video provides a high level overview of what we'll learn in this course. For this module, please focus on the first ~2 minutes of this question.**
+- **This video provides a high level overview of what we'll learn in this course. For this module, please focus on the first ~2 minutes of this video.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/salY_Sm6mv4?si=wdXe1k93M13YR4Aj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
