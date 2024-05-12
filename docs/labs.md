@@ -6,8 +6,8 @@ Labs are intended as exercise for you to learn new concepts and get hands on exp
 
 In order to get access to the labs, you will need to create an account on Khan Academy's platform. Follow the instructions below to sign up:
 
-- Join the CIS 145 Khan Academy's classroom using [this link](https://www.khanacademy.org/join/)
-   - If you get prompted, enter `` as the class code to join CIS 145 Summer 2024
+- Join the CIS 145 Khan Academy's classroom using [this link](https://www.khanacademy.org/join/9CAZFEXJ)
+   - If you get prompted, enter `9CAZFEXJ` as the class code to join CIS 145 Summer 2024
    - **You must use your `@student.ufv.ca` email account to sign up**
 
 ## Details 
