@@ -1,6 +1,5 @@
 # Assignments
 
-
 Course assignments are intended to be a practical application of the course material and a hands-on guide for your learning. We will be using **freeCodeCamp** as the platform to complete them. The freeCodeCamp curriculum is a series of challenges and assignments that you can complete to earn certifications in various programming languages and technologies
 
 **IMPORTANT: Some topics will be covered in class and some will be self-taught.** Although most topics will be covered in class, the order of the assignments may not align with the course schedule. We will do our best to align the assignments with the course material, however, some assignments may require you to learn new topics on your own until the class covers the topic later in the term
@@ -12,6 +11,21 @@ In order to get access to the assignments, you will need to create an account on
 - Go to [freeCodeCamp](https://www.freecodecamp.org/) and sign up for an account
   - You must use your stuednt `@student.ufv.ca` email account to sign up
 - Once you have signed up, you can start working on the assignments by visiting the [Responsive Web Design page](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+
+## Step by step instructions to sign up for freeCodeCamp:
+
+### Step 1: Click on "Get Started"
+![Join freeCodeCamp 1](images/assignment/freeCodeCamp-step-1-annotated.png)
+
+### Step 2: Click "Don't have an account yet? Sign up"
+![Join freeCodeCamp 2](images/assignment/freeCodeCamp-step-2-annotated.png)
+
+### Step 3: Sign up with your `@student.ufv.ca` email, and click on "Continue with Email"
+![Join freeCodeCamp 3](images/assignment/freeCodeCamp-step-3-annotated.png)
+
+### Step 4: Navigate to the [Responsive Web Design web page](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+![Join freeCodeCamp 4](images/assignment/freeCodeCamp-step-4-annotated.png)
 
 ## Details 
 
