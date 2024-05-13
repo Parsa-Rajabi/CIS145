@@ -59,13 +59,7 @@ Here are the steps to submit your screenshot to Blackboard:
 1. Go to myclasses/blackboard UFV
 2. Navigate to CIS 145 Course
 3. On the sidebar, select `Labs`
-
-![](images/submission-example-lab-sidebar.png)
-
 4. Find the respective lab
-
-![](images/submission-example-lab.png)
-
 5. Submit your screenshot before the deadline
 
 **Reminder:** All course elements (inlcuding but limited to) assignments, quizzes, weekly activities and exams are required to be submitted or completed by the specified due dates. Inability to adhere to these deadlines will lead to a score of zero, unless exceptional situations are considered on an individual basis, subject to the approval of the instructor and supported by legitimate documentation.

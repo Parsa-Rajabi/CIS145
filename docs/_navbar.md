@@ -1,3 +1,8 @@
+- [Syllabus](syllabus.md)
+- [Course Notes](lecture-notes.md)
+- [Labs](labs.md)
+- [Assignments](assignments.md)
+- [Resources](resources.md)
 <!-- * [Schedule](schedule.md)
 * [Topics](topics.md)
 * [Resources](resources.md)
