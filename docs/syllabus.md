@@ -66,7 +66,19 @@ ISBN: 9780135919941
 
 ## Course Evaluation
 
-TBA
+|              Item               | Weight |
+| :-----------------------------: | :----: |
+| Participation & Professionalism |   7%   |
+|          Learning Logs          |   8%   |
+|           Assignments           |  15%   |
+|              Labs               |  10%   |
+|             Quiz #1             |  10%   |
+|             Quiz #2             |  15%   |
+|         Final Component         |  35%   |
+|             *Total*             | *100%* |
+
+### Letter Grade Conversion
+![](images/grade_letters.png)
 
 ## Passing Criteria
 
