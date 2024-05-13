@@ -10,6 +10,15 @@ In order to get access to the labs, you will need to create an account on Khan A
    - If you get prompted, enter `9CAZFEXJ` as the class code to join CIS 145 Summer 2024
    - **You must use your `@student.ufv.ca` email account to sign up**
 
+### Step 1: Click on "Create a new account"
+![Join Khan Academy 1](images/labs/khan-step-1-annotated.png)
+
+### Step 2: Enter a date of birth (could be any date), and click on "Sign up with Email"
+![Join Khan Academy 2](images/labs/khan-step-2-annotated.png)
+
+### Step 3: Sign up with your `@student.ufv.ca` email, and click on "Sign up"
+![Join Khan Academy 3](images/labs/khan-step-3-annotated.png)
+
 ## Details 
 
 Labs will be assigned via Kha Academy on a regular basis (~weekly). Check your email from Khan Academy for specific items that need to be completed. Some of these items include videos, readings, hands-on activities and knowledge checks. In order to recieve a "completion checkmark", videos need to be watched in full (from beginning to end), .
