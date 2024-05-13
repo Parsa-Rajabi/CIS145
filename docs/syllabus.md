@@ -76,7 +76,11 @@ Students must attain an overall passing grade (50% or higher) on the weighted av
 
 ### Late Policy and Missed Items
 
-All course elements (including but limited to) labs, assignments, quizzes, weekly activities and exams are required to be submitted or completed by the specified due dates. Inability to adhere to these deadlines will lead to a score of zero, unless exceptional situations are considered on an individual basis, subject to the approval of the instructor and supported by legitimate documentation.
+Labs, assignments and learning logs can be submitted up to 24 hours after the due date with a `25% penalty`. After 24 hours, the submission will not be accepted and a score of zero will be recorded. 
+
+Quizzes and exams are to be completed on the specified date and time. A `1% penalty` will be applied for **every minute late**. Missed quizzes and exams will result in a score of zero.
+
+Exceptions will be considered on an individual basis, subject to the approval of the instructor and supported by legitimate documentation. 
 
 ### Remarking Policy
 
