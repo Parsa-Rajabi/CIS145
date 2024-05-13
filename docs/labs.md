@@ -50,7 +50,7 @@ Here is an example of how your screenshot(s) should look like. Make sure to incl
     - [Mac](https://support.apple.com/en-ca/HT201361)
 
 
-![](images/lab-example-annotated.png)
+![](images/labs/lab-completed-annotated.png)
 
 ### Blackboard Submission
 
