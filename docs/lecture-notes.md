@@ -9,7 +9,7 @@ All course slides are password protected. Visit course info page (on left naviga
 | 1 | May 6 + May 9 | Syllabus + Introduction | |[Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiZ0d2QzZ6aFVWcVBDcjJUekRXRlMvV3BhRlJ3UkxvYWxqNCtrV0VTbXVlT2ZsOWREZ2oralplYzlVSWxBNjNidWRaa1M1Z3FJa3BYSVNWSWpGalh0YmRCS1Z4TmN5L2R1Z1JXVlczdDUwTHhpMTlmZlcvcEk3VVNHV2RDRm52ZHJJK3dQQXdSTlZ2S3Z3Tnk4L2VxMFcyNGdMU3M9IiwicyI6ImlMVkRQZzYzM3U3YXdCZ0g5b2JsUEE9PSIsImkiOiJZbjdsaVN5MTAwK0drd2dvIn0=) |
 | 2 | May 13 + May 16 | Intro to WWW + HTML | Part 1: <a href="https://parsa-rajabi.github.io/CIS145/#/week-2-1">Intro to WWW</a><br> Part 2: <a href="https://parsa-rajabi.github.io/CIS145/#/week-2-2">Intro to HTML</a> |[Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiNmk5QVB4bUE0QzM2bCtRWXBGUmRLTjZBaGVvczdBV0NUZmNwRy94aVlTaURhSGVVbVdLTU5aL0RWWG82TGZxRnM3MTB3OUNVaCtaWDJEZlZlQ2hWS1BhU3NtbUFFd24xYXpzWWpQeXgvTlhybllwaHZUUEROYWZuY0p5b0tFMnNXMFIxRUxRRmNJWElEWXU4SjQ2UW5yUDFTT1E9IiwicyI6IjJnNE4rdGdpSk9qTUlnaWQxeGVqSlE9PSIsImkiOiJ4ZVpGSm9aY0x2VFEvcnVOIn0=) |
 3 | May 20 + May 23 | No Class | - | - |
-4 | May 27 + May 30 | HTML Basics | | |
+4 | May 27 + May 30 | HTML Basics | <a href="https://parsa-rajabi.github.io/CIS145/#/week-4">HTML Basics</a> | |
 5 | Jun 3 + Jun 6 | More HTML | | |
 6 | Jun 10 + Jun 13 | Quiz #1 (In-class, no lecture) | - | - |
 7 | Jun 17 + Jun 20 | CSS Basics | | |
@@ -28,7 +28,7 @@ All deadlines are at 11:59pm PST. Click on the lab # to view the Khan Academy mo
 **Course Late Policy:**
 > Labs, assignments and learning logs can be submitted up to 24 hours after the due date with a `25% penalty`. After 24 hours, the submission will not be accepted and a score of zero will be recorded. 
 
-Refer to [lab details](labs.md) page for submission instructions.
+Refer to [lab details](labs.md/#submission-process) page for submission instructions.
 
 |      Lab #      | Deadline |
 | :-------------: | :------: |
@@ -124,16 +124,16 @@ Refer to [lab details](labs.md) page for submission instructions.
 
 # Assignment Schedule
 
-All deadlines are at 11:59pm PST. Click on the assignment # to view the freeCodeCamp items associated with them.
+All deadlines are at 11:59pm PST.
 
 **Course Late Policy:**
 > Labs, assignments and learning logs can be submitted up to 24 hours after the due date with a `25% penalty`. After 24 hours, the submission will not be accepted and a score of zero will be recorded. 
 
-Refer to [assignment details page](assignments.md) for submission instructions.
+Refer to [assignment details page](assignments.md/#submission-process) for submission instructions.
 
 | Assignment # | Deadline |
-| ------------ | :------: |
-| [A1](#A1)    |  June 5  |
+| :----------: | :------: |
+|      A1      |  June 5  |
 <!-- | [A2](#A2)    |  July 3  |
 | [A3](#A3)    | July 24  |
 | [A4](#A4)    | July 31  | -->

@@ -4,14 +4,11 @@ As part of this section, we'll learn more HTML tags and how we can apply them to
 
 <!-- TODO: List all the ## headings here -- there must be a code way to do this -->
 
-
-Here are 2 videos that provide an overview:
+The video(s) below provide an overview of the topics for this week. Please watch the video(s) before proceeding with the content for this week.
 
 - **This video provides a high level overview of what we'll learn in this course. For this module, please focus on the first ~2 minutes of this video.**
 
-<!-- TODO: Find a video for this lesson -->
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/salY_Sm6mv4?si=wdXe1k93M13YR4Aj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://youtu.be/mbeT8mpmtHA?si=psgrklqfAucZNTCD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Phrase Elements
 
@@ -72,13 +69,6 @@ Here is another example:
 
 In order to use special symbols such as quotation marks, the greater-than sign `>`, the less-than sign `<`, and the copyright symbol `©` in your web page document, you need to use **special characters**, sometimes called *entity characters*.
 
-Here is an example:
-```html
-&copy; Copyright 2020 My Company. All rights reserved.
-```
-
-![](images/content/W4/html-special-char-example.png)
-
 Common special characters include:
 
 |          Name           |  Character  |   Code    |
@@ -91,6 +81,13 @@ Common special characters include:
 |        Long dash        |     `—`     | `&mdash;` |
 |      Vertical Bar       |    `\|`     | `&#124;`  |
 
+
+Here is an example:
+```html
+&copy; Copyright 2020 My Company. All rights reserved.
+```
+
+![](images/content/W4/html-special-char-example.png)
 
 ## HTML Lists
 
@@ -122,7 +119,7 @@ Example:
 
 More information about [HTML attributes here](week-2-2.md/#what-are-html-attributes). 
 
-The `Type` attribute for `<ol>` can hold various values, depending on the intended list symbol.
+The `type` attribute for `<ol>` can hold various values, depending on the intended list symbol.
 
 | Value |          Symbol          |
 | :---: | :----------------------: |
