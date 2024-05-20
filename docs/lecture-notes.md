@@ -28,7 +28,7 @@ All deadlines are at 11:59pm PST. Click on the lab # to view the Khan Academy mo
 **Course Late Policy:**
 > Labs, assignments and learning logs can be submitted up to 24 hours after the due date with a `25% penalty`. After 24 hours, the submission will not be accepted and a score of zero will be recorded. 
 
-Refer to [lab details](labs.md/#submission-process) page for submission instructions.
+Refer to [lab details](labs.md#submission-process) page for submission instructions.
 
 |      Lab #      | Deadline |
 | :-------------: | :------: |
@@ -129,7 +129,7 @@ All deadlines are at 11:59pm PST.
 **Course Late Policy:**
 > Labs, assignments and learning logs can be submitted up to 24 hours after the due date with a `25% penalty`. After 24 hours, the submission will not be accepted and a score of zero will be recorded. 
 
-Refer to [assignment details page](assignments.md/#submission-process) for submission instructions.
+Refer to [assignment details page](assignments.md#submission-process) for submission instructions.
 
 | Assignment # | Deadline |
 | :----------: | :------: |
