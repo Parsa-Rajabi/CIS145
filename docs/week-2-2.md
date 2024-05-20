@@ -2,7 +2,7 @@
 
 As part of this section, we'll learn more about what HTML is and how to write our first Hello World program.
 
-Here are 2 video that provide an overview:
+Here are 2 videos that provide an overview:
 
 - **This video provides a high level overview of what we'll learn in this course. For this module, please focus on the first ~2 minutes of this video.**
 
@@ -182,7 +182,7 @@ The `<title>` tag defines the title of the document and is used as the title o
 [9]    </body>
 [10]  </html>
 ```
-Note: the numbers in brackets represent the line number for the purpose of these notes. They should be present when writing code in the editor.
+Note: the numbers in brackets represent the line number for the purpose of these notes. They should NOT be present when writing code in the editor.
 
 ![](images/content/W2-2/title-tag.png)
 

@@ -1,6 +1,6 @@
-# Course Notes
+# Course Schedule
 
-All course slides are password protected. Visit course info page to get the password.
+All course slides are password protected. Visit course info page (on left navigation bar) to get the password.
 
 *Note: The course schedule is subject to change. Please check back regularly for updates.*
 
@@ -13,24 +13,144 @@ All course slides are password protected. Visit course info page to get the pass
 5 | Jun 3 + Jun 6 | More HTML | | |
 6 | Jun 10 + Jun 13 | Quiz #1 (In-class, no lecture) | - | - |
 7 | Jun 17 + Jun 20 | CSS Basics | | |
-8 | Jun 24 + Jun 27 | Advance CSS + Box Layout | | |
+8 | Jun 24 + Jun 27 | CSS Class/ID | | |
 9 | Jul 1 + Jul 4 | No Class | - | - |
 10 | Jul 8 + Jul 11 | Quiz #2 (In-class, no lecture) | - | - |
-11 | Jul 15 + Jul 18 | CSS Page Layout + HTML Tables | | |
-12 | Jul 22 + Jul 25 | HTML Tables + Forms | | |
+11 | Jul 15 + Jul 18 | CSS Page Layout | | |
+12 | Jul 22 + Jul 25 | HTML Tables +HTML Forms | | |
 13 | Jul 29 + Aug 1 | Intro to JS + jQuery  | | |
 
 
-<!-- | 2 | Jan 17 + Jan 18 | 2 | Intro to WWW + HTML | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiNVE1cldqandoSTZ0VncxZDFNUWpJMExETGNxMlJqQUdaRWRtZjYzeUk5MXJzWnc4T29yQWM3aWhPR0VXOFdIOUFvSDNwOFYzdE5hZHI4Ym9RUkJtOVMrQ3ZSeUtOTlkyYkttKzBIa3U3M1F5blJHemxpTjhKRzRGeDZsTEtBNis5WmI0L1l6MGdKVmNPWTlPNEJQdXRvWjBFM0k9IiwicyI6IlRLUm16dThsK2JUS3V6WDFZS0pBdWc9PSIsImkiOiJOaCtwenVIUS9CWUtKUjRrIn0=) |
-| 3 | Jan 24 + Jan 25 | 3 | HTML Basics | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiSmlaQUNNY1FXZjNOSGJXYkpDUjF2NEtmdERCd2lPR2pHMENmUUFFWmFVenhlQ2V3L29JV1ZzeFhZeGthUkkrRXhnWGJwUWNPQTNBSTZySzk4U1htcXFDRTd1Qi9pRmRIUE1YQTFxbXpJdGpIYmRXck0yaHYySFJJMnlnRGttWWl0aDZ1U213NzkxNUdwYmZpdDhHSGlJSk9GT2c9IiwicyI6IklLN0xNbGlRUGlXdW01NCs1SWF2TUE9PSIsImkiOiJIZmFKdERSRllPdHNWSlFGIn0=) |
-| 4 | Jan 31 + Feb 1 |  | Quiz 1 | - |
-| 5 | Feb 7 + Feb 8 | 4+5 | CSS Basics | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiYkdBM2kxVjl3SlcvNHptaCszdWNYeDY4YnlRN3dXckE5eFB0YmNzVm40c3Jxa3JscjZucGIvNlZaZ3RndWZQNUlmUmp2MFdmaXlUYU9RMGVyK0hlZkkxVTNqRE9XZXl3dDVXck1BVStxOFR0TDFIZkVVb3BaN1hjdW9NU091Ti85aGp5MmZ1UzZWWlBwb1hqbnNoaU5kb1Z1VDg9IiwicyI6ImpwSmJSbHh5WkFZNmtNOHlJdThZUlE9PSIsImkiOiJqbmV0WFh6UTJxSW9rVys0In0=) |
-| 6 | Feb 14 + Feb 15 |  | CSS IDs & Classes | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiRFF1UUdKa1lRNDdMaVVtTFB4clI2SjV5djcySHN6eDJUV2VrOHpyZ0djV3hCR0NvMVJUdUc2Ky9oRmxwdHA2WVpPRkNWSnFqeUcvbzBDcWxVTzBHOG03L05nMnhMWEFkWm1maXlhRmtMNThRSTlCT2lVY3c0NUd6WDFWbm1Bd3c3a3dCSVlNTW02L0psNUl3cTdIck4zMGFQdjQ9IiwicyI6IkhxZXU2bTBNa0ZRa3daZDJJaTF6enc9PSIsImkiOiJNNjRwUk12SlBVT3NnZWIyIn0=) |
-| _7_ | _Feb 21 + Feb 22_ | - | _Reading Break_ | - |
-| 8 | Feb 28 + Feb 29 | 6+7 | Advance CSS, Box Layout | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiMnEvc3RIWWR2MnptSngvdGhKcWdOdzFMakYzVlpUK1A3Mzk3V0pSaHNac20zWi9XVDUrWFIyaXU4UUhuY1hBSVV2SFRFeXJYbUsvejdMUVZBaWdseWp6NXNmVHFZaENVTDZQeUtqWlRFVFpWV3FIMjA2dW9FQ2l4T05ucW5MUkk1T05sV3ZxL3NYS1hRSlNDY2s0ZDIzdEhpRnM9IiwicyI6IjlkZ1RwbU56VFVCc3U2NUJMaHFrUEE9PSIsImkiOiJLSlpqa3NQY1RsSWZuWll5In0=) |
-| 9 | Mar 6 + Mar 7 |  | Quiz 2 | - |
-| 10 | Mar 13 + Mar 14 | 8 | CSS Page Layout & HTML Tables | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiMlZPcUtKNXZJWUpUdDh3bGgxQlJLRFFjNmo0dHBlUXI5SWFRTW96cGVUbGNKK3BlUzdjSWpOOTdaajRIVTNnQVpvMEdRc2w4bkpIVjVFOHJ1Y1FHWjNwM0RqeWdrbXBuRFRpS3QreGlVdWVPTnFZbkNGNFI0MGRQYmpKWVJPSFFMeEJadUcxR3o3bkZTMThzaElGaEpJN21WTzg9IiwicyI6Inh6cG9qQVBOejZIMnc2VEdtSFZNT2c9PSIsImkiOiIxeHpyb1JmY1dYR1pvbDZUIn0=) |
-| 11 | Mar 20 + Mar 21 |  | No class | check email announcement |
-| 12 | Mar 27 + Mar 28 | 9 | Responsive Web Design + HTML Forms | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiUXVTM21LSUljeGFkbHNVeW4vMnhLMVJTNWVodUZrcTYyU1pGTlRMVmp2WXVjNXhkYkJhVmgxODQ2d2k3cFFobEsxVGJLbFM1YWNPMVYzN05OOXdyVlRXMWxhMUJ0dXBPQ3lkOXByOHNsUFZ4cVlBMjFyQllzTXZhMElkZlVUbzdSY3BRRjZFT0V6alJCSVg3aWhsK3FzOFVSNjA9IiwicyI6Imxwbkt6NS9GTm5kSHFTU2xNdmszRUE9PSIsImkiOiJ5UWI0Z1FJcWp3NEdVUkNpIn0=) |
-| 13 | Apr 3 + Apr 4 |  | Intro to JS + jQuery | |
-| Final Exam | Apr 17 |  | 7-10pm PST - Online | - | -->
+# Lab Schedule
+
+All deadlines are at 11:59pm PST. Click on the lab # to view the Khan Academy modules associated with it.
+
+**Course Late Policy:**
+> Labs, assignments and learning logs can be submitted up to 24 hours after the due date with a `25% penalty`. After 24 hours, the submission will not be accepted and a score of zero will be recorded. 
+
+Refer to [lab details](labs.md) page for submission instructions.
+
+|      Lab #      | Deadline |
+| :-------------: | :------: |
+| [Lab 1](#lab-1) |  May 23  |
+| [Lab 2](#lab-2) |  May 30  |
+<!-- | [Lab 3](#lab-3) |  June 6  |
+|        -        | June 13  |
+| [Lab 4](#lab-4) | June 20  |
+| [Lab 5](#lab-5) | June 27  |
+| [Lab 6](#lab-6) |  July 4  |
+|        -        | July 11  |
+| [Lab 7](#lab-7) | July 18  |
+| [Lab 8](#lab-8) | July 25  |
+| [Lab 9](#lab-9) |  Aug 1   | -->
+
+
+## Lab 1
+
+**Intro to HTML**
+1. Welcome to the Web!
+2. HTML baiscs
+3. Quick tip: HTML tags
+4. Challenge: Write a Peom
+5. HTML: Text emphasis
+
+## Lab 2
+
+**Intro to HTML**
+1. Challenge: You can learn text tags 
+2. HTML: Lists
+3. Challenge: Wishlist
+4. HTML: Images
+5. Challenge: A picture-perfect trip
+   
+**More HTML tags**
+
+6. HTML links
+7. Challenge: Links for learning
+8. HTML internal links
+9. Challenge: Jump around
+10. HTML comments
+
+<!-- ## Lab 3
+
+**Further learning**
+
+1. Webpage design
+2. HTML validation
+   
+## Lab 4
+
+**CSS text properties**
+1. CSS Zen Garden
+2. CSS font-family property 
+3. Challenge: Fancy font families
+4. CSS font-size property
+5. Challenge: Great big font sizes
+6. CSS font style and shorthand
+7. Challenge: Famous font formats
+8. More CSS text properties 
+
+**Other ways to embed CSS**
+
+9. Using inline CSS styles
+10. Using external stylesheets
+
+## Lab 5
+
+**CSS text properties**
+1. CSS inheritance
+2. Project: Blog
+
+**More CSS selectors**
+
+3. Using multiple CSS classes
+4. Challenge: A classy gallery
+5. Combining CSS class and element selectors
+6. Challenge: Classes of elements
+7. CSS descendant selectors
+8. Challenge: Decendants of Khan
+9. Grouping CSS selectors
+10. CSS dynamic pseudo-classes
+11. Challenge: Grouped animals
+12. CSS specificity 
+
+
+## Lab X 
+**More HTML tags**
+1. HTML tables
+2. Challenge: The dinner table
+3. Project: Recipe book -->
+
+
+# Assignment Schedule
+
+All deadlines are at 11:59pm PST. Click on the assignment # to view the freeCodeCamp items associated with them.
+
+**Course Late Policy:**
+> Labs, assignments and learning logs can be submitted up to 24 hours after the due date with a `25% penalty`. After 24 hours, the submission will not be accepted and a score of zero will be recorded. 
+
+Refer to [assignment details page](assignments.md) for submission instructions.
+
+| Assignment # | Deadline |
+| ------------ | :------: |
+| [A1](#A1)    |  June 5  |
+<!-- | [A2](#A2)    |  July 3  |
+| [A3](#A3)    | July 24  |
+| [A4](#A4)    | July 31  | -->
+
+## A1
+- Learn HTML by Building a Cat Photo App
+- Learn Typography by Building a Nutrition Label
+
+<!-- ## A2
+- Learn Basic CSS by Building a Cafe Menu
+- Learn CSS Colors by Building a Set of Colored Markers
+
+## A3
+- Learn the CSS Box Model by Building a Rothko Painting
+- Learn CSS Flexbox by Building a Photo Gallery
+- Learn CSS Grid by Building a Magazine
+
+## A4
+- Learn HTML Forms by Building a Registration Form
+- Learn Accessibility by Building a Quiz -->
