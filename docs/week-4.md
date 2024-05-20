@@ -8,7 +8,7 @@ The video(s) below provide an overview of the topics for this week. Please watch
 
 - **This video provides a high level overview of what we'll learn in this course. For this module, please focus on the first ~2 minutes of this video.**
 
-<iframe width="560" height="315" src="https://youtu.be/mbeT8mpmtHA?si=psgrklqfAucZNTCD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mbeT8mpmtHA?si=Ju2oUeHTtNQ5bwBa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Phrase Elements
 
