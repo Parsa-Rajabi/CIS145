@@ -1,5 +1,6 @@
 - [Syllabus](syllabus.md)
 - [Course Notes](lecture-notes.md)
+- [Code Demo Files](https://github.com/Parsa-Rajabi/CIS145/tree/main/code-demo)
 - [Labs](labs.md)
 - [Assignments](assignments.md)
 - [Resources](resources.md)
