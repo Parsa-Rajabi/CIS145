@@ -4,6 +4,10 @@ On this page you will find some helpful resources, including how to connect to U
 
 ## CIS Server
 
+Video instructions:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iDRhtLTXY9k?si=-Jli-HRuG56EtHgL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 In order to publish our websites to the internet, we will need to connect and interact with a web server. The server that we will be using in this course is [http://cisweb.ufv.ca](http://cisweb.ufv.ca). This is a UFV-hosted server that is maintained by the School of Computing. 
 
 Follow the instructions below to connect to this server.
