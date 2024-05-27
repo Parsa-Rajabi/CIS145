@@ -2,6 +2,35 @@
 
 As part of this section, we'll learn more about what HTML is and how to write our first Hello World program.
 
+## Table of Contents
+
+- [Introduction to HTML](#introduction-to-html)
+  - [Table of Contents](#table-of-contents)
+  - [What is HTML?](#what-is-html)
+  - [What is a Web Page?](#what-is-a-web-page)
+  - [What are HTML Tags/Elements?](#what-are-html-tagselements)
+  - [What are HTML Attributes?](#what-are-html-attributes)
+  - [Anatomy of an HTML element](#anatomy-of-an-html-element)
+  - [Structure of HTML Document](#structure-of-html-document)
+    - [HTML DOCTYPE](#html-doctype)
+    - [`<html>` Element](#html-element)
+    - [HTML Head and Body](#html-head-and-body)
+      - [`<meta>`](#meta)
+    - [Viewport Meta](#viewport-meta)
+    - [More `<meta>` examples:](#more-meta-examples)
+    - [`<title>`](#title)
+  - [HTML Headings](#html-headings)
+  - [HTML Paragraphs](#html-paragraphs)
+  - [HTML Comments](#html-comments)
+  - [HTML Line Break](#html-line-break)
+  - [HTML Horizontal Rule](#html-horizontal-rule)
+  - [HTML Blockquote](#html-blockquote)
+  - [Summary of HTML Tags:](#summary-of-html-tags)
+  - [Nesting elements](#nesting-elements)
+  - [Empty/Void Element](#emptyvoid-element)
+
+
+
 Here are 2 videos that provide an overview:
 
 - **This video provides a high level overview of what we'll learn in this course. For this module, please focus on the first ~2 minutes of this video.**

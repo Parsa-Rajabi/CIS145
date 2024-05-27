@@ -2,6 +2,35 @@
 
 This week, we'll learn more about the background of how internet came to be and the various protocals associated with it.
 
+## Table of Contents
+
+- [Introduction to the Internet and World Wide Web](#introduction-to-the-internet-and-world-wide-web)
+  - [Table of Contents](#table-of-contents)
+  - [The Internet](#the-internet)
+  - [Web Standards and Accessibility](#web-standards-and-accessibility)
+    - [W3C Recommendations](#w3c-recommendations)
+  - [Network Overview](#network-overview)
+  - [Client/Server Model](#clientserver-model)
+  - [Internet Protocols](#internet-protocols)
+    - [Hypertext Transfer Protocol (HTTP)](#hypertext-transfer-protocol-http)
+    - [File Transfer Protocol (FTP)](#file-transfer-protocol-ftp)
+    - [E-mail Protocols](#e-mail-protocols)
+    - [Transmission Control Protocol/Internet Protocol (TCP/IP)](#transmission-control-protocolinternet-protocol-tcpip)
+      - [TCP](#tcp)
+      - [IP](#ip)
+  - [Domain Name System (DNS)](#domain-name-system-dns)
+  - [Uniform Resource Identifiers and Domain Names](#uniform-resource-identifiers-and-domain-names)
+    - [URIs and URLs](#uris-and-urls)
+    - [Top-Level Domain Name (TLD)](#top-level-domain-name-tld)
+      - [Generic top-level domain (gTLD)](#generic-top-level-domain-gtld)
+      - [Country code top-level domain](#country-code-top-level-domain)
+    - [Markup Languages](#markup-languages)
+      - [Standard Generalized Markup Language (SGML)](#standard-generalized-markup-language-sgml)
+      - [Hypertext Markup Language (HTML)](#hypertext-markup-language-html)
+      - [XHMTML (eXtensible Hypertext Markup Language)](#xhmtml-extensible-hypertext-markup-language)
+      - [HTML5](#html5)
+
+
 Here is a video that provides an overview:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/guvsH5OFizE?si=czfM5UtarVW-9C6y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

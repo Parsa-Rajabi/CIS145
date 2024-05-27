@@ -2,7 +2,32 @@
 
 As part of this section, we'll learn more HTML tags and how we can apply them to our websites.:
 
-<!-- TODO: List all the ## headings here -- there must be a code way to do this -->
+## Table of Contents
+
+- [HTML Basics](#html-basics)
+  - [Table of Contents](#table-of-contents)
+  - [Phrase Elements](#phrase-elements)
+    - [Nesting Elements](#nesting-elements)
+  - [Special Characters](#special-characters)
+  - [HTML Lists](#html-lists)
+    - [Ordered Lists](#ordered-lists)
+      - [Type Attribute](#type-attribute)
+    - [Unordered Lists](#unordered-lists)
+    - [Description List](#description-list)
+    - [Nested List](#nested-list)
+  - [HTML Links (hyperlinks)](#html-links-hyperlinks)
+  - [Absolute and Relative Hyperlinks](#absolute-and-relative-hyperlinks)
+    - [Relative Links](#relative-links)
+    - [Absolute Links](#absolute-links)
+    - [Other Links](#other-links)
+      - [Email Hyperlink](#email-hyperlink)
+      - [Phone Number Hyperlink](#phone-number-hyperlink)
+  - [HTML Images](#html-images)
+  - [HTML Figures](#html-figures)
+  - [HTML5 Structural Elements](#html5-structural-elements)
+    - [HTML `<div>` (division)](#html-div-division)
+
+
 
 The video(s) below provide an overview of the topics for this week. Please watch the video(s) before proceeding with the content for this week.
 
