@@ -1,3 +1,14 @@
+# Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Course Schedule](#course-schedule)
+- [Lab Schedule](#lab-schedule)
+  - [Lab 1](#lab-1)
+  - [Lab 2](#lab-2)
+- [Assignment Schedule](#assignment-schedule)
+  - [A1](#a1)
+
+
 # Course Schedule
 
 All course slides are password protected. Visit course info page (on left navigation bar) to get the password.
@@ -19,7 +30,6 @@ All course slides are password protected. Visit course info page (on left naviga
 11 | Jul 15 + Jul 18 | CSS Page Layout | | |
 12 | Jul 22 + Jul 25 | HTML Tables +HTML Forms | | |
 13 | Jul 29 + Aug 1 | Intro to JS + jQuery  | | |
-
 
 # Lab Schedule
 
@@ -121,7 +131,6 @@ Refer to [lab details](labs.md#submission-process) page for submission instructi
 2. Challenge: The dinner table
 3. Project: Recipe book -->
 
-
 # Assignment Schedule
 
 All deadlines are at 11:59pm PST.
@@ -139,6 +148,7 @@ Refer to [assignment details page](assignments.md#submission-process) for submis
 | [A4](#A4)    | July 31  | -->
 
 ## A1
+
 - Learn HTML by Building a Cat Photo App
 - Learn Typography by Building a Nutrition Label
 
