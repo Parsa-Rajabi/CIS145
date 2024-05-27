@@ -53,23 +53,23 @@ Refer to [lab details](labs.md#submission-process) page for submission instructi
 3. Quick tip: HTML tags
 4. Challenge: Write a Peom
 5. HTML: Text emphasis
-
+6. Challenge: You can learn text tags 
+ 
 ## Lab 2
 
 **Intro to HTML**
-1. Challenge: You can learn text tags 
-2. HTML: Lists
-3. Challenge: Wishlist
-4. HTML: Images
-5. Challenge: A picture-perfect trip
+1. HTML: Lists
+2. Challenge: Wishlist
+3. HTML: Images
+4. Challenge: A picture-perfect trip
    
 **More HTML tags**
 
-6. HTML links
-7. Challenge: Links for learning
-8. HTML internal links
-9. Challenge: Jump around
-10. HTML comments
+5. HTML links
+6. Challenge: Links for learning
+7. HTML internal links
+8. Challenge: Jump around
+9. HTML comments
 
 <!-- ## Lab 3
 
