@@ -27,13 +27,17 @@ As part of this section, we'll learn more HTML tags and how we can apply them to
   - [HTML5 Structural Elements](#html5-structural-elements)
     - [HTML `<div>` (division)](#html-div-division)
 
-
-
 The video(s) below provide an overview of the topics for this week. Please watch the video(s) before proceeding with the content for this week.
 
 - **This video provides a high level overview of what we'll learn in this course. For this module, please focus on the first ~2 minutes of this video.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mbeT8mpmtHA?si=Ju2oUeHTtNQ5bwBa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D9I_dJDiIu0?si=kHeqNzCiBwfJII8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rPblWCqOgWs?si=AwOk-BeP1n9Ctkop" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AxC1yzzPm5Q?si=zsvaKvEEoXt5u8TR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Phrase Elements
 
@@ -41,7 +45,6 @@ The video(s) below provide an overview of the topics for this week. Please watch
 
 Here are some common phrase elements and examples of their use:
 
- 
 |   Purpose   |  Element   |                                            Usage                                             |
 | :---------: | :--------: | :------------------------------------------------------------------------------------------: |
 |    Bold     |   `<b>`    |    Text that has no extra importance, but is styled in bold font by usage and convention     |
@@ -89,25 +92,27 @@ Here is another example:
 
 ![](images/content/W2-2/nesting.png)
 
-
 ## Special Characters
 
 In order to use special symbols such as quotation marks, the greater-than sign `>`, the less-than sign `<`, and the copyright symbol `©` in your web page document, you need to use **special characters**, sometimes called *entity characters*.
 
 Common special characters include:
 
-|          Name           |  Character  |   Code    |
-| :---------------------: | :---------: | :-------: |
-|    `Quot`ation mark     |     `"`     | `&quot;`  |
-|       Apostrophe        |     `’`     |  `&#39;`  |
-|   `Copy`right symbol    |     `©`     | `&copy;`  |
-|       `Amp`ersand       |     `&`     |  `&amp;`  |
-| `N`on`b`reaking `sp`ace | Empty space | `&nbsp;`  |
-|        Long dash        |     `—`     | `&mdash;` |
-|      Vertical Bar       |    `\|`     | `&#124;`  |
-
+|          Name           |   Character   |   Code    |
+| :---------------------: | :-----------: | :-------: |
+|    `Quot`ation mark     |      `"`      | `&quot;`  |
+|       Apostrophe        |      `’`      |  `&#39;`  |
+|   `Copy`right symbol    |      `©`      | `&copy;`  |
+|       `Amp`ersand       |      `&`      |  `&amp;`  |
+| `N`on`b`reaking `sp`ace | (Empty space) | `&nbsp;`  |
+|       Long `dash`       |      `—`      | `&mdash;` |
+|      `L`ess `t`han      |      `<`      |  `&lt;`   |
+|    `G`reater `t`han     |      `>`      |  `&gt;`   |
+|      Vertical Bar       |     `\|`      | `&#124;`  |
+|       Trade Mark        |      `™`      | `&#8482;` |
 
 Here is an example:
+
 ```html
 &copy; Copyright 2020 My Company. All rights reserved.
 ```
@@ -119,8 +124,9 @@ Here is an example:
 Lists are used on web pages to organize information. When writing for the Web, headings, short paragraphs, and lists can make your page more clear and easy to read. HTML can be used to create three types of lists— description lists, ordered lists, and unordered lists. All lists are rendered as **block display** with an empty space above and below.
 
 ### Ordered Lists
-> Collections of items that have a set order. 
- 
+
+> Collections of items that have a set order.
+
 This type of list displays a numbering or lettering system to itemize the information contained in the list. 
 
 - The `<ol>` tag displays an ordered list
@@ -128,6 +134,7 @@ This type of list displays a numbering or lettering system to itemize the inform
 - The `<li>` tag contains a list item starting with a number (by default)
 
 Example:
+
 ```html
 <ol>
     <li>Apply to school</li>
@@ -139,8 +146,7 @@ Example:
 
 ![](images/content/W4/html-list-ordered.png)
 
-
-#### Type Attribute 
+#### Type Attribute
 
 More information about [HTML attributes here](week-2-2.md/#what-are-html-attributes). 
 
@@ -157,6 +163,7 @@ The `type` attribute for `<ol>` can hold various values, depending on the intend
 For example, to create an ordered list organized by uppercase letters, use `<ol type="A">`. 
 
 ### Unordered Lists
+
 > Collections of items that do NOT have a set order.
 
 An unordered list displays a bullet, or list marker, before each entry in the list. This bullet can be one of several types: disc (the default), square, and circle. 
@@ -165,6 +172,7 @@ An unordered list displays a bullet, or list marker, before each entry in the li
 - The `<li>` tag contains a list item starting with a bullet  
 
 Example:
+
 ```html
 <ul>
     <li>TCP</li>
@@ -176,15 +184,15 @@ Example:
 
 ![](images/content/W4/html-list-unordered.png)
 
-
 ### Description List
+
 > Collections of items that come as a pair (e.g. term/definition).
 
 A description list can be used to organize terms and their descriptions. The terms stand out, and their descriptions can be as long as needed to convey your message. 
 
 - The `<dl>` tag displays a description list
-- The `<dt>` tag contains a term 
-- The `<dd>` tag describes each term 
+- The `<dt>` tag contains a term
+- The `<dd>` tag describes each term
 
 Example:
 ```html
@@ -226,11 +234,12 @@ HTML links are hyperlinks and allow users to click their way from one page to an
 
 - The `<a>` tag (commonly called the anchor element) defines a hyperlink
 - The link text is the visible part for the user
-- `href` attribute indicates the link's destination 
+- `href` attribute indicates the link's destination
 - A link can be a URL, text, image, or any other element within the same page.
 
-A link has two main parts: 
-1) destination 
+A link has two main parts:
+
+1) destination
 2) label
   
 ![](images/content/W4/html-link-atonomy.png)
@@ -238,6 +247,7 @@ A link has two main parts:
 ## Absolute and Relative Hyperlinks
 
 ### Relative Links
+
 When you need to link to web pages within your site, use a **relative hyperlink**. The `href` value for a relative hyperlink does not begin with `https://` and does not include a domain name. For a relative hyperlink, the `href` value will contain only the **file name** or **file name and folder of the web page you want to display**. The hyperlink location is **relative** to the page currently being displayed. 
 
 Here is a diagram to explain this:
@@ -251,55 +261,64 @@ Here is a diagram to explain this:
 5. `Sibling Directory` Use `../` to move up to the appropriate level, and then use the same technique as for child or grandchild directories.
 6. `Root Reference` In this approach, begin the reference with the root reference (the `/`), and then use the same technique as for child or grandchild directories.
 
-
 **Example of relative links**
 
 Link to a page in the **same folder** as the current page. Only the word `Home` is displayed to the user.
+
 ```html
 <a href="index.html">Home</a>
 ```
+
 Link to a page in the **parent folder** of the current page
 
 ```html
 <a href="../index.html">Home</a>
-```    
+```
 
 Link to a page in the **grandparent folder** of the current page
+
 ```html
 <a href="../../index.html">Home</a>
 ```
-    
+
 Link to a page in the **subfolder (child folder)** of the current page
+
 ```html
 <a href="pages/index.html">Home</a>	
 ```
-    
+
 Link to a page in the **grandchild folder** of the current page
+
 ```html
 <a href="main/pages/index.html">Home</a>
 ```
-    
+
 Link to a page **anywhere on the same website** (a combination of the above may be used)
+
 ```html
 <a href="../pages/index.html">Home</a>
 ```
-    
-### Absolute Links
-An absolute hyperlink indicates the **absolute location** of a resource on the Web. Use absolute hyperlinks when you need to link to **resources on other websites**. The `href` value for an absolute hyperlink to the page of a website includes the `https://` protocol and the domain name.
 
+### Absolute Links
+
+An absolute hyperlink indicates the **absolute location** of a resource on the Web. Use absolute hyperlinks when you need to link to **resources on other websites**. The `href` value for an absolute hyperlink to the page of a website includes the `https://` protocol and the domain name.
 
 **Example of absolute links**
 
 Link to apple website
+
 ```html
 <a href="https://www.apple.com">Apple</a>
 ```
 
 Link to a file called `ex.html` located within the folder `def` which is located in a folder called `abc` in the domain `example.com`.
+
 ```html
 <a href="https://www.example.com/abc/def/ex1.html">Example 1</a>
 ```
+
 The file strucutre for the link above is as the following:
+
 - `www.example.com` (domain)
   - abc (folder)
     - def (folder)
@@ -307,17 +326,20 @@ The file strucutre for the link above is as the following:
 
 Notice how `def` folder is nested within the `abc` folder.
 
-
 ### Other Links
 
 #### Email Hyperlink
+
 Link to the **default email program** configured for the browser and let the user send an email
+
 ```html
 <a href="mailto:me@gmail.com">me@gmail.com</a>
 ```
 
 #### Phone Number Hyperlink
+
 Link to a **phone number** will initiate a phone call in a Mobile browser
+
 ```html
 <a href="tel:123-456-7890">Call 123-456-7890</a>
 ```
@@ -337,19 +359,19 @@ By default, links open in the same browser window
 The target attribute of an anchor tag is used to open links in a new browser window or tab
   <a href="http://google.ca" target="_blank">Google</a> -->
 
-
 ## HTML Images
 
 The `<img>` element (often referred to as the image element) configures graphics on a web page.
 
 The `<img>` tag is [empty/void](week-2-2.md/#emptyvoid-element) and has two required attributes:
-  - `src` – specifies the path to the image
-    - The path for src should be [relative](#relative-links) if the images are saved locally on the computer. The path can be [absolute](#absolute-links) if it a URL to an image hosted on a remote computer (e.g. on the internet).
-  - `alt` – specifies an alternative text for the image
-    - Use the `alt` attribute to provide accessibility. The alt attribute configures an alternative text description of the image. This alt text is used by the browser in two ways: 
-    1) The browser will display the alt text in the image area before the graphic is downloaded and displayed. Some browsers will also display the alt text as a tool tip whenever a visitor to the web page places the mouse cursor over the image area. 
-    2) Applications such as screen readers will read the text in the alt attribute out loud. A mobile browser may display the alt text instead of the image.
-  - width and height attributes specifies the size of the image in pixels (this should ideally be done using CSS, which will learn in the coming weeks, however, for the time being, it will work.)
+
+- `src` – specifies the path to the image
+  - The path for src should be [relative](#relative-links) if the images are saved locally on the computer. The path can be [absolute](#absolute-links) if it a URL to an image hosted on a remote computer (e.g. on the internet).
+- `alt` – specifies an alternative text for the image
+  - Use the `alt` attribute to provide accessibility. The alt attribute configures an alternative text description of the image. This alt text is used by the browser in two ways:
+  1) The browser will display the alt text in the image area before the graphic is downloaded and displayed. Some browsers will also display the alt text as a tool tip whenever a visitor to the web page places the mouse cursor over the image area. 
+  2) Applications such as screen readers will read the text in the alt attribute out loud. A mobile browser may display the alt text instead of the image.
+- width and height attributes specifies the size of the image in pixels (this should ideally be done using CSS, which will learn in the coming weeks, however, for the time being, it will work.)
 
 Examples:
 
@@ -361,22 +383,23 @@ Examples:
 
 ![](images/content/W4/html-img-example.png)
   
-
 Other considerations:
 The W3C recommends that alt text be no longer than `100 characters`. **Avoid using the file name or words like picture, image, and graphic as the value of the alt attribute**. Instead, use a brief phrase that describes the image. If the purpose of an image, such as a logo, is to display text, then configure the text as the value of the alt attribute.
 
 ## HTML Figures
+
 The `<figure>` element can be used not just for images but for any type of essential content that could be moved to a different location in the page or document, and the rest of the document would still make sense.
 
 ![](images/content/W4/html-figure-explained.png)
 
 ## HTML5 Structural Elements
 
-HTML5 structural elements can be used to define different parts of a web page. They clearly describe their meaning to both the browser and the developer (semantic elements). 
+HTML5 structural elements can be used to define different parts of a web page. They clearly describe their meaning to both the browser and the developer (semantic elements).
 
 ![](images/content/W4/html-structure.png)
 
 Some semantic elements include:
+
 - `<header>`...`</header>`  
   - specifies a header for a document or section
 - `<nav>`...`</nav>`  
@@ -388,12 +411,14 @@ Some semantic elements include:
 - `<section>`...`</section>`  
   - defines a section in a document
 - `<aside>`...`</aside>`  
-  - defines content aside from the page content 
-- `<footer>`...`<footer>`   
+  - defines content aside from the page content
+- `<footer>`...`<footer>`
   - specifies a footer for a document or section
 
+![](images/content/W4/html-semantic-elements.png)
 
 ### HTML `<div>` (division)
+
 The `<div>` element has been used for many years to configure a generic structural area or “division” on a web page as a block display with empty space above and below.
 
 - A div element begins with a `<div>` tag and ends with a `</div>` tag
