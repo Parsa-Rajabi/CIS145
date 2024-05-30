@@ -74,7 +74,9 @@ website-folder/
     └── CSS-Validation.pdf
 ```
 
-Here is a great resource for learning more about [file management and pathing](https://learntheweb.courses/topics/paths-folders/).
+Here area 2 great resources for learning more about file management and pathing:
+- [https://learntheweb.courses/topics/paths-folders](https://learntheweb.courses/topics/paths-folders/).
+- [https://www.kirupa.com/html5/all_about_file_paths](https://www.kirupa.com/html5/all_about_file_paths.htm)
 
 > [!ATTENTION|iconVisibility:hidden]
 > For your quizzes, you'll be required to submit a zip file containing your HTML, CSS, and Image files. Make sure to organize your files properly before submission.
