@@ -7,7 +7,6 @@
   - [Lab 1](#lab-1)
   - [Lab 2](#lab-2)
   - [Lab 3](#lab-3)
-  - [Lab X](#lab-x)
 - [Assignment Schedule](#assignment-schedule)
   - [A1](#a1)
 
@@ -133,11 +132,11 @@ Under each lab, you will find the list of Khan Academy modules that you need to 
 12. CSS specificity  -->
 
 
-## Lab X 
+<!-- ## Lab X 
 **More HTML tags**
 1. HTML tables
 2. Challenge: The dinner table
-3. Project: Recipe book -->
+3. Project: Recipe book  -->
 
 # Assignment Schedule
 
