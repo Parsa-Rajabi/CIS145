@@ -1,3 +1,4 @@
+<!-- markdownlint-disable -->
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
@@ -5,6 +6,8 @@
 - [Lab Schedule](#lab-schedule)
   - [Lab 1](#lab-1)
   - [Lab 2](#lab-2)
+  - [Lab 3](#lab-3)
+  - [Lab X](#lab-x)
 - [Assignment Schedule](#assignment-schedule)
   - [A1](#a1)
 
@@ -44,8 +47,8 @@ Refer to [lab details](labs.md#submission-process) page for submission instructi
 | :-------------: | :------: |
 | [Lab 1](#lab-1) |  May 23  |
 | [Lab 2](#lab-2) |  May 30  |
-<!-- | [Lab 3](#lab-3) |  June 6  |
-|        -        | June 13  |
+| [Lab 3](#lab-3) |  June 6  |
+<!-- |        -        | June 13  |
 | [Lab 4](#lab-4) | June 20  |
 | [Lab 5](#lab-5) | June 27  |
 | [Lab 6](#lab-6) |  July 4  |
@@ -55,24 +58,28 @@ Refer to [lab details](labs.md#submission-process) page for submission instructi
 | [Lab 9](#lab-9) |  Aug 1   | -->
 
 
+Under each lab, you will find the list of Khan Academy modules that you need to complete for that lab. The headings are the titles of the modules and the subheadings are the individual exercises within each module.
+
 ## Lab 1
 
 **Intro to HTML**
+
 1. Welcome to the Web!
 2. HTML baiscs
 3. Quick tip: HTML tags
 4. Challenge: Write a Peom
 5. HTML: Text emphasis
-6. Challenge: You can learn text tags 
- 
+6. Challenge: You can learn text tags
+
 ## Lab 2
 
 **Intro to HTML**
+
 1. HTML: Lists
 2. Challenge: Wishlist
 3. HTML: Images
 4. Challenge: A picture-perfect trip
-   
+
 **More HTML tags**
 
 5. HTML links
@@ -81,31 +88,32 @@ Refer to [lab details](labs.md#submission-process) page for submission instructi
 8. Challenge: Jump around
 9. HTML comments
 
-<!-- ## Lab 3
+## Lab 3
 
 **Further learning**
 
 1. Webpage design
 2. HTML validation
+3. Validating HTML
    
-## Lab 4
-
 **CSS text properties**
-1. CSS Zen Garden
-2. CSS font-family property 
-3. Challenge: Fancy font families
-4. CSS font-size property
-5. Challenge: Great big font sizes
-6. CSS font style and shorthand
-7. Challenge: Famous font formats
-8. More CSS text properties 
+
+4. CSS Zen Garden
+5. CSS font-family property
+6. Challenge: Fancy font families
+7. CSS font-size property
+8. Challenge: Great big font sizes
+9. CSS font style and shorthand
+10. Challenge: Famous font formats
+11. More CSS text properties
+12. Using CSS text properties
 
 **Other ways to embed CSS**
 
-9. Using inline CSS styles
-10. Using external stylesheets
+13. Using inline CSS styles
+14. Using external stylesheets
 
-## Lab 5
+<!-- ## Lab 5
 
 **CSS text properties**
 1. CSS inheritance
@@ -122,7 +130,7 @@ Refer to [lab details](labs.md#submission-process) page for submission instructi
 9. Grouping CSS selectors
 10. CSS dynamic pseudo-classes
 11. Challenge: Grouped animals
-12. CSS specificity 
+12. CSS specificity  -->
 
 
 ## Lab X 
