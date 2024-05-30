@@ -1,13 +1,13 @@
 <!-- markdownlint-disable MD032 -->
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD045 -->
-# Intro to CSS
+# CSS Basics 1
 
 As part of this lesson, we'll start our journey into CSS (Cascading Style Sheets), a language used to style web pages. CSS allows you to control the layout, colors, fonts, and other visual aspects of your web pages.
 
 ## Table of Contents
 
-- [Intro to CSS](#intro-to-css)
+- [CSS Basics 1](#css-basics-1)
   - [Table of Contents](#table-of-contents)
   - [What is CSS?](#what-is-css)
   - [Benefits of CSS](#benefits-of-css)

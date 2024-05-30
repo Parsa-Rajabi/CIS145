@@ -1,10 +1,10 @@
-# HTML Basics
+# HTML Basics 1
 
 As part of this section, we'll learn more HTML tags and how we can apply them to our websites.:
 
 ## Table of Contents
 
-- [HTML Basics](#html-basics)
+- [HTML Basics 1](#html-basics-1)
   - [Table of Contents](#table-of-contents)
   - [Phrase Elements](#phrase-elements)
     - [Nesting Elements](#nesting-elements)

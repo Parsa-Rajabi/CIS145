@@ -20,10 +20,10 @@ All course slides are password protected. Visit course info page (on left naviga
 | 1 | May 6 + May 9 | Syllabus + Introduction | |[Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiZ0d2QzZ6aFVWcVBDcjJUekRXRlMvV3BhRlJ3UkxvYWxqNCtrV0VTbXVlT2ZsOWREZ2oralplYzlVSWxBNjNidWRaa1M1Z3FJa3BYSVNWSWpGalh0YmRCS1Z4TmN5L2R1Z1JXVlczdDUwTHhpMTlmZlcvcEk3VVNHV2RDRm52ZHJJK3dQQXdSTlZ2S3Z3Tnk4L2VxMFcyNGdMU3M9IiwicyI6ImlMVkRQZzYzM3U3YXdCZ0g5b2JsUEE9PSIsImkiOiJZbjdsaVN5MTAwK0drd2dvIn0=) |
 | 2 | May 13 + May 16 | Intro to WWW + HTML | Part 1: <a href="https://parsa-rajabi.github.io/CIS145/#/week-2-1">Intro to WWW</a><br> Part 2: <a href="https://parsa-rajabi.github.io/CIS145/#/week-2-2">Intro to HTML</a> |[Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiNmk5QVB4bUE0QzM2bCtRWXBGUmRLTjZBaGVvczdBV0NUZmNwRy94aVlTaURhSGVVbVdLTU5aL0RWWG82TGZxRnM3MTB3OUNVaCtaWDJEZlZlQ2hWS1BhU3NtbUFFd24xYXpzWWpQeXgvTlhybllwaHZUUEROYWZuY0p5b0tFMnNXMFIxRUxRRmNJWElEWXU4SjQ2UW5yUDFTT1E9IiwicyI6IjJnNE4rdGdpSk9qTUlnaWQxeGVqSlE9PSIsImkiOiJ4ZVpGSm9aY0x2VFEvcnVOIn0=) |
 3 | May 20 + May 23 | No Class | - | - |
-4 | May 27 + May 30 | HTML Basics | <a href="https://parsa-rajabi.github.io/CIS145/#/week-4">HTML Basics</a> | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiQnJhZ1dwY012Nk1SSWVxZ3pRQ1JzajZ2YVhaV3c1ODAwazkwM1BoN0NQS05HL2paanIybXY2ME1EcW5Xc3pSMFptZEZtUlF3eUtRb0Y5MENTQXJOTHdaTExHSWpseFJxRXFwT2tKYmVCVml3YWNJT2JDdysxYWdWd1B3TlNsVTlSL2l5eWRRZ2Z0RjN0N0pQdE1yWndIWW0wc0U9IiwicyI6ImkwaVJDa1FEVDFDUnhIUkxpS29YYWc9PSIsImkiOiJvMTM3OVd0Ri9ITThobmtTIn0=) |
-5 | Jun 3 + Jun 6 | More HTML | | |
+4 | May 27 + May 30 | HTML Basics 1 | <a href="https://parsa-rajabi.github.io/CIS145/#/week-4">HTML Basics 1</a> | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiQnJhZ1dwY012Nk1SSWVxZ3pRQ1JzajZ2YVhaV3c1ODAwazkwM1BoN0NQS05HL2paanIybXY2ME1EcW5Xc3pSMFptZEZtUlF3eUtRb0Y5MENTQXJOTHdaTExHSWpseFJxRXFwT2tKYmVCVml3YWNJT2JDdysxYWdWd1B3TlNsVTlSL2l5eWRRZ2Z0RjN0N0pQdE1yWndIWW0wc0U9IiwicyI6ImkwaVJDa1FEVDFDUnhIUkxpS29YYWc9PSIsImkiOiJvMTM3OVd0Ri9ITThobmtTIn0=) |
+5 | Jun 3 + Jun 6 | HTML Basics 2 + CSS Basics 1 | Part 1: <a href="https://parsa-rajabi.github.io/CIS145/#/week-5-1">HTML Basics 2</a><br> Part 2: <a href="https://parsa-rajabi.github.io/CIS145/#/week-5-2">CSS Basics 1</a> | |
 6 | Jun 10 + Jun 13 | Quiz #1 (In-class, no lecture) | - | - |
-7 | Jun 17 + Jun 20 | CSS Basics | | |
+7 | Jun 17 + Jun 20 | CSS Basics 2 | | |
 8 | Jun 24 + Jun 27 | CSS Class/ID | | |
 9 | Jul 1 + Jul 4 | No Class | - | - |
 10 | Jul 8 + Jul 11 | Quiz #2 (In-class, no lecture) | - | - |
