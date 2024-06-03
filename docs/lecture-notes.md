@@ -23,14 +23,14 @@ All course slides are password protected. Visit course info page (on left naviga
 | 2 | May 13 + May 16 | Intro to WWW + HTML | Part 1: <a href="https://parsa-rajabi.github.io/CIS145/#/week-2-1">Intro to WWW</a><br> Part 2: <a href="https://parsa-rajabi.github.io/CIS145/#/week-2-2">Intro to HTML</a> |[Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiNmk5QVB4bUE0QzM2bCtRWXBGUmRLTjZBaGVvczdBV0NUZmNwRy94aVlTaURhSGVVbVdLTU5aL0RWWG82TGZxRnM3MTB3OUNVaCtaWDJEZlZlQ2hWS1BhU3NtbUFFd24xYXpzWWpQeXgvTlhybllwaHZUUEROYWZuY0p5b0tFMnNXMFIxRUxRRmNJWElEWXU4SjQ2UW5yUDFTT1E9IiwicyI6IjJnNE4rdGdpSk9qTUlnaWQxeGVqSlE9PSIsImkiOiJ4ZVpGSm9aY0x2VFEvcnVOIn0=) |
 3 | May 20 + May 23 | No Class | - | - |
 4 | May 27 + May 30 | HTML Basics 1 | <a href="https://parsa-rajabi.github.io/CIS145/#/week-4">HTML Basics 1</a> | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiQnJhZ1dwY012Nk1SSWVxZ3pRQ1JzajZ2YVhaV3c1ODAwazkwM1BoN0NQS05HL2paanIybXY2ME1EcW5Xc3pSMFptZEZtUlF3eUtRb0Y5MENTQXJOTHdaTExHSWpseFJxRXFwT2tKYmVCVml3YWNJT2JDdysxYWdWd1B3TlNsVTlSL2l5eWRRZ2Z0RjN0N0pQdE1yWndIWW0wc0U9IiwicyI6ImkwaVJDa1FEVDFDUnhIUkxpS29YYWc9PSIsImkiOiJvMTM3OVd0Ri9ITThobmtTIn0=) |
-5 | Jun 3 + Jun 6 | HTML Basics 2 + CSS Basics 1 | Part 1: <a href="https://parsa-rajabi.github.io/CIS145/#/week-5-1">HTML Basics 2</a><br> Part 2: <a href="https://parsa-rajabi.github.io/CIS145/#/week-5-2">CSS Basics 1</a> | |
+5 | Jun 3 + Jun 6 | HTML Basics 2 + CSS Basics 1 | Part 1: <a href="https://parsa-rajabi.github.io/CIS145/#/week-5-1">HTML Basics 2</a><br> Part 2: <a href="https://parsa-rajabi.github.io/CIS145/#/week-5-2">CSS Basics 1</a> | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiTm5IaWhzOXJQM0tpcURGVHZjVUJTb21yZ3R1MGxyZFRvdDZmZDlibW9FcUw3aVBXTWhNcWd5Smg0QVVvQ0xBTnNWNnFQVFZKcEZNSWc0NFVESHZZa0kweWRlMExUdHJJbkNqR0drOS9KNWJMWjB4amJXV2pCQVNwOUtrSlo3b1U5bzRGOUZKaGFIVGN0UFR5YXlNTlJKNUlmZTQ9IiwicyI6InVZOU5pc2luQlMra0l5WDFRNGgrYlE9PSIsImkiOiJLQlUrRE45L0ljT2gxRzFOIn0=) |
 6 | Jun 10 + Jun 13 | Quiz #1 (In-class, no lecture) | - | - |
 7 | Jun 17 + Jun 20 | CSS Basics 2 | | |
 8 | Jun 24 + Jun 27 | CSS Class/ID | | |
 9 | Jul 1 + Jul 4 | No Class | - | - |
 10 | Jul 8 + Jul 11 | Quiz #2 (In-class, no lecture) | - | - |
 11 | Jul 15 + Jul 18 | CSS Page Layout | | |
-12 | Jul 22 + Jul 25 | HTML Tables +HTML Forms | | |
+12 | Jul 22 + Jul 25 | HTML Tables + HTML Forms | | |
 13 | Jul 29 + Aug 1 | Intro to JS + jQuery  | | |
 
 # Lab Schedule

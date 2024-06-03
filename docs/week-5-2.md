@@ -182,7 +182,7 @@ This is like including a style guide at the top of a document.
 > [!TIP]
 > The `CSS` tab shows the external CSS file that is linked to the HTML document
 
-<iframe width="100%" height="300" src="//jsfiddle.net/parsar/wjc0k8po/6/embedded/html,css,result/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+<iframe width="100%" height="300" src="//jsfiddle.net/parsar/wjc0k8po/8/embedded/html,css,result/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
 This is like having a separate manual for styling that can be referenced by multiple documents.
 
@@ -218,6 +218,10 @@ This sets the text color of all `<p>` elements to pink.
 
 ### RGB and RGBa values
 
+The RGB color model (Red Green Blue) relies on the fact that human visible color spectrum can be displayed using a combination of red, green, and blue lights. Each pixel is composed of tiny red, green, and blue subpixels. Because he RGB colors combine to create white, they are also called additive colors.
+
+![](images/content/W5/css-rgb.png)
+
 - Uses a combination of red, green, and blue values to create colours
 - Each value can range from 0 to 255 and represents the intensity of the colour
 - For example:
@@ -238,9 +242,14 @@ This sets the text color of all `<p>` elements to yellow (since it's a combinati
 
 #### RGBa
 
-- The `a` stands for alpha, which is the opacity of the colour
+- The `a` stands for alpha transparency, which is the opacity of the colour
 - The RGBa format includes an additional value for the opacity of the colour, which ranges from 0 to 1
+  - 0 means that the element is fully transparent
+  - 100 means that the element is fully opaque—that is, it has no transparency
 - For example, `rgba(255, 0, 0, 0.5)` represents a semi-transparent red colour
+
+![](images/content/W5/css-rgb-opacity.png)
+
 
 ### HSL values
 
@@ -248,6 +257,10 @@ This sets the text color of all `<p>` elements to yellow (since it's a combinati
 - Hue represents the type of colour (e.g., red, blue, green)
 - Saturation represents the intensity of the colour (e.g., how vivid the colour is)
 - Lightness represents the brightness of the colour (e.g., how light or dark the colour is)
+
+
+![](images/content/W5/css-hsl.png)
+
 - For example:
   - `hsl(0, 100%, 50%)` represents red
   - `hsl(120, 100%, 50%)` represents green

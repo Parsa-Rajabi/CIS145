@@ -90,9 +90,13 @@ Understanding different graphics formats and compression techniques is important
 ### Graphics Format
 
 - **JPEG** (.jpg): Best for photographs. Uses lossy compression which reduces file size by removing some data. Think of it as shrinking a file by taking out less important details.
+
 - **PNG** (.png): Ideal for images with transparency. Uses lossless compression, preserving quality. Like a clear box that shows exactly what’s inside.
 - **GIF** (.gif): Suitable for simple animations. Also uses lossless compression. Imagine a flipbook with simple moving images.
 - **SVG** (.svg): Scalable vector graphics. Uses lossless compression and is resolution-independent. It’s like a vector image that can be zoomed in or out without losing quality.
+
+
+
 
 ### Lossy vs Lossless Compression
 
