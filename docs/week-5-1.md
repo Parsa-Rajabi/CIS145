@@ -139,6 +139,8 @@ Within web development, there are two types of element boxes: [1] block level an
 
 Understanding the difference between block and inline elements helps in structuring your HTML content effectively. Think of block elements as large boxes that take up a whole row and inline elements as small boxes that fit within a line of text.
 
+
+
 ### Block Elements
 
 - Block elements take up the full width available and start on a new line, like a large piece of furniture that occupies an entire row.
