@@ -3,6 +3,7 @@
 - [Code Demo Files](https://github.com/Parsa-Rajabi/CIS145/tree/main/code-demo)
 - [Labs](labs.md)
 - [Assignments](assignments.md)
+- [Quizzes](quiz.md)
 - [Resources](resources.md)
 <!-- * [Schedule](schedule.md)
 * [Topics](topics.md)

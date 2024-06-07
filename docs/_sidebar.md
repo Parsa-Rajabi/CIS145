@@ -1,8 +1,14 @@
 - [Syllabus](syllabus.md)
 - [Course Notes](lecture-notes.md)
+  - [Week 2 - Part 1](week-2-1.md)
+  - [Week 2 - Part 2](week-2-2.md)
+  - [Week 4](week-4.md)
+  - [Week 5 - Part 1](week-5-1.md)
+  - [Week 5 - Part 2](week-5-2.md)
 - [Code Demo Files](https://github.com/Parsa-Rajabi/CIS145/tree/main/code-demo)
 - [Labs](labs.md)
 - [Assignments](assignments.md)
+- [Quizzes](quiz.md)
 - [Resources](resources.md)
 
 <!-- <form action="https://github.com/hibbitts-design/docsify-open-course-starter-kit/generate" target="_blank">
