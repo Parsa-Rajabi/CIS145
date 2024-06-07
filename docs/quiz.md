@@ -35,7 +35,8 @@
 - You must complete the test BY YOURSELF (no friends, no tutors, no classmates, no humans - cats and dogs in the room are fine).
 - Any form of communication with other humans, terrestrial or extraterrestrial is not allowed (Discord, Slack, WhatsApp, Terminal, Signal, iMessage, SMS, MMS, etc…)
 - The test is open-book, open-notes, open-IDE (e.g. VSCode) EXCEPT websites and plugins that help you cheat such as ChatGPT, BingAI, Chegg, Course Hero, Slader and other similar websites that have tutors answering questions you upload 
-- W3Schools, Khan Academy or freeCodeCamp are permissible as long as they are explicitly cited/references in the code using HTML/CSS comments
+> [!TIP]
+> W3Schools, Khan Academy or freeCodeCamp are permissible as long as they are explicitly cited/references in the code using HTML/CSS comments
 - Copying the question text and googling **IS CHEATING**
 - Posting the question text and asking someone to solve it for you **IS CHEATING**
 - Using google to search for concepts is NOT cheating (however using any AI-based search engine i.e. BingAI **IS CHEATING**).
