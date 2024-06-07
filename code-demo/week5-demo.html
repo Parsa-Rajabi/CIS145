@@ -5,7 +5,7 @@
     <!-- Common Mistake: -->
     <!-- <meta name="viewport" content="width=device-width", "initial-scale=1.0"> -->
 
-    <!-- favicon; source: https://favicon.io/emoji-favicons/bread -->
+    <!-- favicon; citation/source: https://favicon.io/emoji-favicons/bread -->
     <link rel="icon" href="Images/favicon.ico" type="image/x-icon">
 
     <!-- external CSS linking -->
@@ -16,8 +16,23 @@
 
     <!-- internal/emebedded styling -->
     <style>
+        /* This a CSS comment */
+
+        /*  CSS syntax/strucutre
+        
+        selector {
+            css proprty: css value;
+        }
+        
+        */
+        
         body {
             font-size: 1.25em;
+            font-style: italic;
+        }
+
+        p {
+            color: darkgreen;
         }
     </style>
 
@@ -25,7 +40,8 @@
 
 <body>
     <header>
-        <h1>Delicious Banana Bread Recipe</h1>
+        <!-- inline CSS example: -->
+        <h1 style="color: orange;">Delicious Banana Bread Recipe</h1>
     </header>
 
     <p>This is a <strong>recipe</strong> of a great and <b>yummy</b> banana <i>bread</i>!</p>
@@ -70,12 +86,15 @@
         <!-- <img src="banana-bread.jpg"> -->
         <!-- <img src="Windows/Parsa/CIS 145/Assignment/banana-bread.jpg"> -->
         <p>Image with link to Banana bread on wikipedia:</p>
-        <a href="https://en.wikipedia.org/wiki/Banana_bread">
-            <img src="Images/banana-bread.jpg" alt="A loaf of banana bread" >        
+        
+        <a href="https://en.wikipedia.org/wiki/Banana_bread"> 
+            <img src="Images/banana-bread.jpg" alt="A loaf of banana bread">        
         </a>
 
 
         <p>Image without a figure:</p>
+        <!-- Source, I check W3Schools for this code:
+         https://www.w3schools.com/html/html_images.asp-->
         <img src="Images/banana-bread.jpg" alt="A loaf of banana bread" >
 
         <p>Image with a figure (notice the gap on the left/indentation):</p>
