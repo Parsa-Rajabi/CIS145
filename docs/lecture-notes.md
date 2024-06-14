@@ -7,8 +7,10 @@
   - [Lab 1](#lab-1)
   - [Lab 2](#lab-2)
   - [Lab 3](#lab-3)
+  - [Lab 4](#lab-4)
 - [Assignment Schedule](#assignment-schedule)
   - [A1](#a1)
+  - [A2](#a2)
 
 
 # Course Schedule
@@ -25,7 +27,7 @@ All course slides are password protected. Visit course info page (on left naviga
 4 | May 27 + May 30 | HTML Basics 1 | <a href="https://parsa-rajabi.github.io/CIS145/#/week-4">HTML Basics 1</a> | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiQnJhZ1dwY012Nk1SSWVxZ3pRQ1JzajZ2YVhaV3c1ODAwazkwM1BoN0NQS05HL2paanIybXY2ME1EcW5Xc3pSMFptZEZtUlF3eUtRb0Y5MENTQXJOTHdaTExHSWpseFJxRXFwT2tKYmVCVml3YWNJT2JDdysxYWdWd1B3TlNsVTlSL2l5eWRRZ2Z0RjN0N0pQdE1yWndIWW0wc0U9IiwicyI6ImkwaVJDa1FEVDFDUnhIUkxpS29YYWc9PSIsImkiOiJvMTM3OVd0Ri9ITThobmtTIn0=) |
 5 | Jun 3 + Jun 6 | HTML Basics 2 + CSS Basics 1 | Part 1: <a href="https://parsa-rajabi.github.io/CIS145/#/week-5-1">HTML Basics 2</a><br> Part 2: <a href="https://parsa-rajabi.github.io/CIS145/#/week-5-2">CSS Basics 1</a> | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiTm5IaWhzOXJQM0tpcURGVHZjVUJTb21yZ3R1MGxyZFRvdDZmZDlibW9FcUw3aVBXTWhNcWd5Smg0QVVvQ0xBTnNWNnFQVFZKcEZNSWc0NFVESHZZa0kweWRlMExUdHJJbkNqR0drOS9KNWJMWjB4amJXV2pCQVNwOUtrSlo3b1U5bzRGOUZKaGFIVGN0UFR5YXlNTlJKNUlmZTQ9IiwicyI6InVZOU5pc2luQlMra0l5WDFRNGgrYlE9PSIsImkiOiJLQlUrRE45L0ljT2gxRzFOIn0=) |
 6 | Jun 10 + Jun 13 | Quiz #1 (In-class, no lecture) | [Quiz Details](quiz.md) | - |
-7 | Jun 17 + Jun 20 | CSS Basics 2 | | |
+7 | Jun 17 + Jun 20 | CSS Basics 2 |<a href="https://parsa-rajabi.github.io/CIS145/#/week-7">CSS Basics 2</a> | |
 8 | Jun 24 + Jun 27 | CSS Class/ID | | |
 9 | Jul 1 + Jul 4 | No Class | - | - |
 10 | Jul 8 + Jul 11 | Quiz #2 (In-class, no lecture) | - | - |
@@ -47,9 +49,9 @@ Refer to [lab details](labs.md#submission-process) page for submission instructi
 | [Lab 1](#lab-1) |  May 23  |
 | [Lab 2](#lab-2) |  May 30  |
 | [Lab 3](#lab-3) |  June 6  |
-<!-- |        -        | June 13  |
+|     No Lab      | June 13  |
 | [Lab 4](#lab-4) | June 20  |
-| [Lab 5](#lab-5) | June 27  |
+<!-- | [Lab 5](#lab-5) | June 27  |
 | [Lab 6](#lab-6) |  July 4  |
 |        -        | July 11  |
 | [Lab 7](#lab-7) | July 18  |
@@ -112,24 +114,42 @@ Under each lab, you will find the list of Khan Academy modules that you need to 
 13. Using inline CSS styles
 14. Using external stylesheets
 
-<!-- ## Lab 5
+## Lab 4
+
+**Intro to CSS**
+
+1. CSS Basics
+2. Quick tip: Selecting by tag name
+3. Challenge: Colorful creature
+4. CSS: Selecting by id
+5. Challenge: Seasonal ids
+6. CSS: Selecting by class
+7. Challenge: Apples and bananas classes
+8. Using simple CSS selectors
+9. Project: Travel webpage
 
 **CSS text properties**
-1. CSS inheritance
-2. Project: Blog
+
+10. CSS inheritance
+11. Project: Blog
+
+**Web development tools**
+12. Using the browser developer tools
+
+<!-- ## Lab 5
 
 **More CSS selectors**
 
-3. Using multiple CSS classes
-4. Challenge: A classy gallery
-5. Combining CSS class and element selectors
-6. Challenge: Classes of elements
-7. CSS descendant selectors
-8. Challenge: Decendants of Khan
-9. Grouping CSS selectors
-10. CSS dynamic pseudo-classes
-11. Challenge: Grouped animals
-12. CSS specificity  -->
+1. Using multiple CSS classes
+2. Challenge: A classy gallery
+3. Combining CSS class and element selectors
+4. Challenge: Classes of elements
+5. CSS descendant selectors
+6. Challenge: Decendants of Khan
+7. Grouping CSS selectors
+8.  CSS dynamic pseudo-classes
+9.  Challenge: Grouped animals
+10. CSS specificity   -->
 
 
 <!-- ## Lab X 
@@ -150,19 +170,22 @@ Refer to [assignment details page](assignments.md#submission-process) for submis
 | Assignment # | Deadline |
 | :----------: | :------: |
 |      A1      |  June 5  |
-<!-- | [A2](#A2)    |  July 3  |
-| [A3](#A3)    | July 24  |
+|      A2      |  July 3  |
+<!--| [A3](#A3)    | July 24  |
 | [A4](#A4)    | July 31  | -->
 
 ## A1
 
-- Learn HTML by Building a Cat Photo App
-- Learn Typography by Building a Nutrition Label
+- Learn HTML by Building a Cat Photo App [69 Steps]
+- Learn Typography by Building a Nutrition Label [67 Steps]
 
-<!-- ## A2
-- Learn Basic CSS by Building a Cafe Menu
-- Learn CSS Colors by Building a Set of Colored Markers
+## A2
+- Learn Basic CSS by Building a Cafe Menu [91 Steps]
+- Learn CSS Colors by Building a Set of Colored Markers [94 Steps]
+- Learn Internal CSS by Building a Cat Painting [80 Steps]
 
+
+<!-- 
 ## A3
 - Learn the CSS Box Model by Building a Rothko Painting
 - Learn CSS Flexbox by Building a Photo Gallery
