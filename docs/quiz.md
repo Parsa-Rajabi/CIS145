@@ -3,11 +3,12 @@
 
 ## Quiz 1
 
-- Duration: 2 hours and 50 minutes (as specified, class time: 8:30 - 11:20 am PST) 
-  - You will have 10 minutes of buffer time to submit your quiz
-  - As per late policy, a 1% penalty will be applied for every minute late. 
-  - No other form of submission will be accepted (i.e. email, etc.) 
-  - Follow the quiz rules listed below
+- **What:** Quiz 1 will cover all the concepts covered from the beginning of the course until end week 5 (the quiz will include both HTML and CSS). Refer to course schedule for more details.
+- **When:** Week of June 10
+- **Duration:** 8:30 - 11:20am PST + 10 minutes of submission buffer (11:30am)
+- **Where:** The quiz will be available on Blackboard, via the quiz tab (left hand side)
+- **How:** The quiz will be a take-home, *open-book\** quiz. There will NO zoom session during the quiz. 
+*note: refer to [quiz rules](#quiz-rules) to understand what open-book means
 - Generally, your instructor will not be able to answer questions during the quiz - do your best with your best interpretation.
 
 ### Preparation: 
