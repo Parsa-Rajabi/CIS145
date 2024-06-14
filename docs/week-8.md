@@ -4,6 +4,8 @@
 As part of this lesson, we'll continue our lesson on CSS and discuss advance ways to apply CSS to our web pages.
 ## Table of Contents
 
+<!-- toc -->
+
 - [CSS Basics 2](#css-basics-2)
   - [Table of Contents](#table-of-contents)
   - [CSS Selectors](#css-selectors)
@@ -20,17 +22,9 @@ As part of this lesson, we'll continue our lesson on CSS and discuss advance way
 
 The videos below provide an overview of the topics for this week. You can watch the videos before or after reading the content for this week.
 
-<!-- Inline CSS -->
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/TZTaGTQKl2I?si=hpIpHAJxFQg1kLBz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+<!-- Margin Collapse -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eZJJPMwG5ec?si=4pPT7w1s3OphwVud" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<!-- All 3 ways of adding CSS -->
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/WF8Ai6-JsNI?si=fz5Dsu_tivSYTFM-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
-
-<!-- External CSS -->
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/4OMdzHnys9o?si=p4uqupI0eRTqK2-K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
-
-<!-- CSS Validation -->
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/5tzE2Je3Y10?si=4rpndp3NUMJezgNf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
 ## CSS Layout
 
@@ -66,3 +60,10 @@ The videos below provide an overview of the topics for this week. You can watch 
 In CSS, all HTML elements exist within an element box (also known as the box model):
 
 <!-- TODO: Add box model picture from slides here -->
+
+### CSS Padding
+
+- The padding property configures empty space between the content of the HTML element (such as text) and the border (0px by default).
+- Related properties
+  - `padding-top`, `padding-right`, `padding-bottom`, `padding-left`
+  - `padding` is a shorthand property with values in the above order
