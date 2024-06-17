@@ -27,7 +27,7 @@ All course slides are password protected. Visit course info page (on left naviga
 4 | May 27 + May 30 | HTML Basics 1 | <a href="https://parsa-rajabi.github.io/CIS145/#/week-4">HTML Basics 1</a> | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiQnJhZ1dwY012Nk1SSWVxZ3pRQ1JzajZ2YVhaV3c1ODAwazkwM1BoN0NQS05HL2paanIybXY2ME1EcW5Xc3pSMFptZEZtUlF3eUtRb0Y5MENTQXJOTHdaTExHSWpseFJxRXFwT2tKYmVCVml3YWNJT2JDdysxYWdWd1B3TlNsVTlSL2l5eWRRZ2Z0RjN0N0pQdE1yWndIWW0wc0U9IiwicyI6ImkwaVJDa1FEVDFDUnhIUkxpS29YYWc9PSIsImkiOiJvMTM3OVd0Ri9ITThobmtTIn0=) |
 5 | Jun 3 + Jun 6 | HTML Basics 2 + CSS Basics 1 | Part 1: <a href="https://parsa-rajabi.github.io/CIS145/#/week-5-1">HTML Basics 2</a><br> Part 2: <a href="https://parsa-rajabi.github.io/CIS145/#/week-5-2">CSS Basics 1</a> | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiTm5IaWhzOXJQM0tpcURGVHZjVUJTb21yZ3R1MGxyZFRvdDZmZDlibW9FcUw3aVBXTWhNcWd5Smg0QVVvQ0xBTnNWNnFQVFZKcEZNSWc0NFVESHZZa0kweWRlMExUdHJJbkNqR0drOS9KNWJMWjB4amJXV2pCQVNwOUtrSlo3b1U5bzRGOUZKaGFIVGN0UFR5YXlNTlJKNUlmZTQ9IiwicyI6InVZOU5pc2luQlMra0l5WDFRNGgrYlE9PSIsImkiOiJLQlUrRE45L0ljT2gxRzFOIn0=) |
 6 | Jun 10 + Jun 13 | Quiz #1 (In-class, no lecture) | [Quiz Details](quiz.md) | - |
-7 | Jun 17 + Jun 20 | CSS Basics 2 |<a href="https://parsa-rajabi.github.io/CIS145/#/week-7">CSS Basics 2</a> | |
+7 | Jun 17 + Jun 20 | CSS Basics 2 |<a href="https://parsa-rajabi.github.io/CIS145/#/week-7">CSS Basics 2</a> | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiTzJaVTNoa0w3dG9Tc2tIUXZQaS9ST2hiL0lJeVQ1cDhkRG1QVCtOb0lRUm9mZ1dDUUs2MVcwNmdtdHVxTXFnOC9vZFdRS3ZnQ0hMd3RYSzhrSTluMWRGdlJWQU1WVzhCQ0g3WVlvVXd6YStxTXo0SzNpSmZVeU5xS1JZUVBZbFJGanhROEo1MHgwNDF6Q1haRnpWdkF6cEQ0ZG89IiwicyI6IktuYjJTM3RzMkZYRmxTWmMxTXRUUmc9PSIsImkiOiIzV1U0M0xJcHJtRE1tdy9YIn0=) |
 8 | Jun 24 + Jun 27 | CSS Class/ID | | |
 9 | Jul 1 + Jul 4 | No Class | - | - |
 10 | Jul 8 + Jul 11 | Quiz #2 (In-class, no lecture) | - | - |
@@ -66,9 +66,9 @@ Under each lab, you will find the list of Khan Academy modules that you need to 
 **Intro to HTML**
 
 1. Welcome to the Web!
-2. HTML baiscs
+2. HTML Basics
 3. Quick tip: HTML tags
-4. Challenge: Write a Peom
+4. Challenge: Write a Poem
 5. HTML: Text emphasis
 6. Challenge: You can learn text tags
 
@@ -134,6 +134,7 @@ Under each lab, you will find the list of Khan Academy modules that you need to 
 11. Project: Blog
 
 **Web development tools**
+
 12. Using the browser developer tools
 
 <!-- ## Lab 5
@@ -145,7 +146,7 @@ Under each lab, you will find the list of Khan Academy modules that you need to 
 3. Combining CSS class and element selectors
 4. Challenge: Classes of elements
 5. CSS descendant selectors
-6. Challenge: Decendants of Khan
+6. Challenge: Descendants of Khan
 7. Grouping CSS selectors
 8.  CSS dynamic pseudo-classes
 9.  Challenge: Grouped animals
