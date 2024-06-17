@@ -241,7 +241,7 @@ Borders and shadows provide a way to visually separate elements. You can put bor
 
 <iframe width="100%" height="300" src="//jsfiddle.net/parsar/orywe5q0/4/embedded/html,css,result/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
-> ![!TIP]
+> [!TIP]
 > You may also specify the border properties individually. But `border-width` and `border-color` do not work without `border-style`.
 
 The `box-shadow` property provides a way to add shadow effects around an element’s box. To set the shadow, you specify x and y offsets, along with optional blur, spread, inset, and color settings.
@@ -280,7 +280,7 @@ The border-style property specifies the type of border to display. It may have
   - 4 values configure each corner separately – ordered by top left, top right, bottom right, bottom left (clockwise)
 
 
-> ![!TIP]
+> [!TIP]
 > Recall from the previous lesson that [block-level elements](week-5-1.md#block-elements) have a width of 100% by default. This means that the border will extend the full width of the parent element. Similarly, [inline elements](week-5-1.md#inline-elements) have a width that is determined by the content, so the border will only be as wide as the content.
 
 
