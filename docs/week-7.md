@@ -7,7 +7,7 @@ As part of this lesson, we'll continue our lesson on CSS and discuss advance way
 - [CSS Basics 2](#css-basics-2)
   - [Table of Contents](#table-of-contents)
   - [CSS Selectors](#css-selectors)
-    - [Element selectors](#element-selectors)
+    - [Element selector](#element-selector)
     - [Descendant Selector](#descendant-selector)
     - [Class Selector](#class-selector)
     - [ID Selector](#id-selector)
@@ -65,7 +65,7 @@ The videos below provide an overview of the topics for this week. You can watch 
   - [Class Selectors](#class-selector)
   - [ID Selectors](#id-selector)
 
-### Element selectors
+### Element selector
 - Element selectors select all instances of a given HTML element.
 - You can also select all elements by using the universal element selector `*`
 - You can select a group of elements by separating the different element names with commas.
