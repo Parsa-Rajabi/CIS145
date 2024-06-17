@@ -11,7 +11,7 @@ As part of this lesson, we'll continue our lesson on CSS and discuss advance way
     - [Descendant Selector](#descendant-selector)
     - [Class Selector](#class-selector)
     - [ID Selector](#id-selector)
-    - [Class \& ID in Action](#class--id-in-action)
+    - [Class and ID in Action](#class-and-id-in-action)
   - [Cascade in CSS](#cascade-in-css)
     - [Inheritance](#inheritance)
     - [Specificity](#specificity)
@@ -20,7 +20,7 @@ As part of this lesson, we'll continue our lesson on CSS and discuss advance way
     - [Background colors](#background-colors)
     - [Background Properties: Explained](#background-properties-explained)
     - [Multiple Background Images](#multiple-background-images)
-  - [Borders \& Box Shadows](#borders--box-shadows)
+  - [Borders and Box Shadows](#borders-and-box-shadows)
     - [CSS Border](#css-border)
     - [CSS Border-style](#css-border-style)
     - [CSS Border-radius](#css-border-radius)
@@ -107,7 +107,7 @@ The videos below provide an overview of the topics for this week. You can watch 
 
 <iframe width="100%" height="400" src="//jsfiddle.net/parsar/sywam4ej/embedded/html,css,result/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
-### Class & ID in Action
+### Class and ID in Action
 
 Example: The original HTML can be modified to add class and id values, which are then styled in CSS.
   - Id selector `#first` matches the `div` with id `first`
@@ -235,7 +235,7 @@ body {
 
 <iframe width="100%" height="300" src="//jsfiddle.net/parsar/mtqs6avu/3/embedded/html,css,result/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
-## Borders & Box Shadows
+## Borders and Box Shadows
 
 Borders and shadows provide a way to visually separate elements. You can put borders around all 4 sides of an element, or just 1, 2, or 3 of the sides. The CSS `border` properties allow you to specify the `border-width`, `border-style`, and `border-color` of an element. 
 
