@@ -8,7 +8,7 @@ As part of this lesson, we'll continue our lesson on CSS and discuss advance way
   - [Table of Contents](#table-of-contents)
   - [CSS Selectors](#css-selectors)
     - [Element selectors](#element-selectors)
-    - [Decendant Selector](#decendant-selector)
+    - [Descendant Selector](#descendant-selector)
     - [Class Selector](#class-selector)
     - [ID Selector](#id-selector)
     - [Class \& ID in Action](#class--id-in-action)
@@ -18,7 +18,7 @@ As part of this lesson, we'll continue our lesson on CSS and discuss advance way
     - [Location](#location)
   - [Background CSS](#background-css)
     - [Background colors](#background-colors)
-    - [Background Prperties: Explained](#background-prperties-explained)
+    - [Background Properties: Explained](#background-properties-explained)
     - [Multiple Background Images](#multiple-background-images)
   - [Borders \& Box Shadows](#borders--box-shadows)
     - [CSS Border](#css-border)
@@ -72,7 +72,7 @@ The videos below provide an overview of the topics for this week. You can watch 
 
 <iframe width="100%" height="400" src="//jsfiddle.net/parsar/8veu679w/3/embedded/html,css,result/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
-### Decendant Selector
+### Descendant Selector
 
 - A descendant selector targets elements that are nested within specific elements in the HTML document tree.
 - It is used to apply styles to elements that are descendants of another specified element, not just direct children.
@@ -88,7 +88,7 @@ The videos below provide an overview of the topics for this week. You can watch 
 - A class selector allows you to simultaneously target different HTML elements regardless of their position in the document tree.
 - HTML elements labeled with the same class attribute value, can be targeted for styling by using a class selector, which takes the form: 
   - period `.` followed by the class name: `.blue-circle`
-- Class selectors should not have any spaces, instead, you can use the following to concactinate 2 words together:
+- Class selectors should not have any spaces, instead, you can use the following to concatenate 2 words together:
   - Dash: `.blue-circle`
   - Underscore: `.blue_cricle`
   - Camelcase: `.blueCircle` 
@@ -111,7 +111,7 @@ The videos below provide an overview of the topics for this week. You can watch 
 
 Example: The original HTML can be modified to add class and id values, which are then styled in CSS.
   - Id selector `#first` matches the `div` with id `first`
-  - Class selectors `.orange` and `.circle`, match all divs with those class values
+  - Class selectors `.orange` and `.circle`, match all `div`s with those class values
   - Notice that an element can be tagged with multiple classes. 
 
 ![](images/content/W7/css-selectors.png)
@@ -175,7 +175,7 @@ Example: `<body>` color and font-weight properties are overridden by the more sp
   - [background-attachment](https://www.w3schools.com/cssref/pr_background-attachment.php)
   - [background-color](https://www.w3schools.com/cssref/pr_background-color.php)
   - [background-image](https://www.w3schools.com/cssref/pr_background-image.php)
-  - [background-orgin](https://www.w3schools.com/cssref/css3_pr_background-origin.php)
+  - [background-origin](https://www.w3schools.com/cssref/css3_pr_background-origin.php)
   - [background-position](https://www.w3schools.com/cssref/pr_background-position.php)
   - [background-repeat](https://www.w3schools.com/cssref/pr_background-repeat.php)
   - [background-size](https://www.w3schools.com/cssref/css3_pr_background-size.php)
@@ -189,7 +189,7 @@ Example: `<body>` color and font-weight properties are overridden by the more sp
 <iframe width="100%" height="300" src="//jsfiddle.net/parsar/mtvL2sjh/3/embedded/html,css,result/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
 
-### Background Prperties: Explained
+### Background Properties: Explained
 
 - The `background` property sets different background properties in one declaration. For example:
 
