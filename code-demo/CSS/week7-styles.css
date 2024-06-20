@@ -4,7 +4,7 @@ body {
     /* Relative path:
     ../Images/icon.png 
 
-    */
+    */ 
     background-repeat: repeat;
     background-color: lightgray;
 }
@@ -27,6 +27,7 @@ div ul {
 
 img {
     width: 50%;
+    /* slide scale of 0 to 1 */
     opacity: 0.75;
 }
 
@@ -36,7 +37,20 @@ p {
 
 ol {
     border: 3px solid brown;
-    border-radius: 25px;
+    
+    /* all sides have the same border-radius */
+    /* border-radius:  25px; */
+
+    /* border-radius alternates sides starting from top left */
+    /* border-radius:  10px 25px; */
+
+    /* each side of the border can have it's own radius */
+    border-radius:  10px 25px 35px 45px;
+
     /* h-offset, v-offset, color */
-    box-shadow: 5px 20px brown;
+    /* box-shadow: -5px -15px red;
+
+    box-shadow: 5px 25px green; */
+
+    box-shadow: -10px 35px brown;
 }
