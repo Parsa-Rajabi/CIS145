@@ -8,6 +8,8 @@
   - [Lab 2](#lab-2)
   - [Lab 3](#lab-3)
   - [Lab 4](#lab-4)
+  - [Lab 5](#lab-5)
+  - [Lab 6](#lab-6)
 - [Assignment Schedule](#assignment-schedule)
   - [A1](#a1)
   - [A2](#a2)
@@ -28,10 +30,10 @@ All course slides are password protected. Visit course info page (on left naviga
 5 | Jun 3 + Jun 6 | HTML Basics 2 + CSS Basics 1 | Part 1: <a href="https://parsa-rajabi.github.io/CIS145/#/week-5-1">HTML Basics 2</a><br> Part 2: <a href="https://parsa-rajabi.github.io/CIS145/#/week-5-2">CSS Basics 1</a> | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiTm5IaWhzOXJQM0tpcURGVHZjVUJTb21yZ3R1MGxyZFRvdDZmZDlibW9FcUw3aVBXTWhNcWd5Smg0QVVvQ0xBTnNWNnFQVFZKcEZNSWc0NFVESHZZa0kweWRlMExUdHJJbkNqR0drOS9KNWJMWjB4amJXV2pCQVNwOUtrSlo3b1U5bzRGOUZKaGFIVGN0UFR5YXlNTlJKNUlmZTQ9IiwicyI6InVZOU5pc2luQlMra0l5WDFRNGgrYlE9PSIsImkiOiJLQlUrRE45L0ljT2gxRzFOIn0=) |
 6 | Jun 10 + Jun 13 | Quiz #1 (In-class, no lecture) | [Quiz Details](quiz.md) | - |
 7 | Jun 17 + Jun 20 | CSS Basics 2 |<a href="https://parsa-rajabi.github.io/CIS145/#/week-7">CSS Basics 2</a> | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiTzJaVTNoa0w3dG9Tc2tIUXZQaS9ST2hiL0lJeVQ1cDhkRG1QVCtOb0lRUm9mZ1dDUUs2MVcwNmdtdHVxTXFnOC9vZFdRS3ZnQ0hMd3RYSzhrSTluMWRGdlJWQU1WVzhCQ0g3WVlvVXd6YStxTXo0SzNpSmZVeU5xS1JZUVBZbFJGanhROEo1MHgwNDF6Q1haRnpWdkF6cEQ0ZG89IiwicyI6IktuYjJTM3RzMkZYRmxTWmMxTXRUUmc9PSIsImkiOiIzV1U0M0xJcHJtRE1tdy9YIn0=) |
-8 | Jun 24 + Jun 27 | CSS Class/ID | | |
+8 | Jun 24 + Jun 27 | CSS Page Layout |<a href="https://parsa-rajabi.github.io/CIS145/#/week-7">CSS Page Layout</a> | |
 9 | Jul 1 + Jul 4 | No Class | - | - |
-10 | Jul 8 + Jul 11 | Quiz #2 (In-class, no lecture) | - | - |
-11 | Jul 15 + Jul 18 | CSS Page Layout | | |
+10 | Jul 8 + Jul 11 | Quiz #2 (In-class, no lecture) | [Quiz Details](quiz.md) | - |
+11 | Jul 15 + Jul 18 | CSS Responsive Layouts | | |
 12 | Jul 22 + Jul 25 | HTML Tables + HTML Forms | | |
 13 | Jul 29 + Aug 1 | Intro to JS + jQuery  | | |
 
@@ -51,10 +53,10 @@ Refer to [lab details](labs.md#submission-process) page for submission instructi
 | [Lab 3](#lab-3) |  June 6  |
 |     No Lab      | June 13  |
 | [Lab 4](#lab-4) | June 20  |
-<!-- | [Lab 5](#lab-5) | June 27  |
+| [Lab 5](#lab-5) | June 27  |
 | [Lab 6](#lab-6) |  July 4  |
-|        -        | July 11  |
-| [Lab 7](#lab-7) | July 18  |
+|     No Lab      | July 11  |
+<!--| [Lab 7](#lab-7) | July 18  |
 | [Lab 8](#lab-8) | July 25  |
 | [Lab 9](#lab-9) |  Aug 1   | -->
 
@@ -137,7 +139,26 @@ Under each lab, you will find the list of Khan Academy modules that you need to 
 
 12. Using the browser developer tools
 
-<!-- ## Lab 5
+## Lab 5
+
+**CSS layout**
+
+1. CSS group elements
+2. Challenge: Grouping elements
+3. CSS width and height and overflow
+4. Challenge: The overflowing ocean
+5. CSS box model
+6. Challenge: The box model
+7. CSS position
+8. Challenge: Position planet
+9. CSS in the wild: Google Maps
+10. CSS floating elements
+11. Challenge: Floating clouds
+12. Using CSS layout properties
+13. Planning your webpage
+14. Project Event invite
+
+## Lab 6
 
 **More CSS selectors**
 
@@ -150,15 +171,16 @@ Under each lab, you will find the list of Khan Academy modules that you need to 
 7. Grouping CSS selectors
 8.  CSS dynamic pseudo-classes
 9.  Challenge: Grouped animals
-10. CSS specificity   -->
+10. CSS specificity
+11. CSS specificity rules
 
 
 <!-- ## Lab X 
 **More HTML tags**
 1. HTML tables
 2. Challenge: The dinner table
-3. Project: Recipe book  -->
-
+3. Project: Recipe book 
+--->
 # Assignment Schedule
 
 All deadlines are at 11:59pm PST.
