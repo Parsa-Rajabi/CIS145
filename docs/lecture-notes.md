@@ -144,7 +144,7 @@ Under each lab, you will find the list of Khan Academy modules that you need to 
 **CSS layout**
 
 1. CSS group elements
-2. Challenge: Grouping elements
+2. Challenge: Group the elements
 3. CSS width and height and overflow
 4. Challenge: The overflowing ocean
 5. CSS box model
