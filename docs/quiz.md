@@ -1,10 +1,10 @@
 <!-- markdownlint-disable -->
 # Quizzes
 
-## Quiz 1
+## Quiz 2
 
-- **What:** Quiz 1 will cover all the concepts covered from the beginning of the course until end week 5 (the quiz will include both HTML and CSS). Refer to course schedule for more details.
-- **When:** Week of June 10
+- **What:** Quiz 2 will cover all the concepts covered from the beginning of the course until end week 8 (the quiz will include both HTML and CSS). Refer to course schedule for more details.
+- **When:** Week of July 8
 - **Duration:** 8:30 - 11:20am PST + 10 minutes of submission buffer (11:30am)
 - **Where:** The quiz will be available on Blackboard, via the quiz tab (left hand side)
 - **How:** The quiz will be a take-home, *open-book\** quiz. There will NO zoom session during the quiz. 
@@ -12,7 +12,7 @@
 - Generally, your instructor will not be able to answer questions during the quiz - do your best with your best interpretation.
 
 ### Preparation: 
-- The quiz will cover all concepts from the first 5 weeks of the class (until end of week 5)
+- The quiz will cover all concepts from the first 8 weeks of the class (until end of week 8)
 - Review the following videos to make sure you understand the submission process and sort out any issues with server connectivity:
   - [How to connect to CIS Web Server/video instruction](resources.md)
 
@@ -47,7 +47,7 @@
 
 ## Submission Process
 
-The submission process for the quiz includues 2 parts:
+The submission process for the quiz includes 2 parts:
 1. Upload your files/folders to CIS Web Server
 2. Submit your quiz on Blackboard
 
