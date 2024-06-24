@@ -6,6 +6,7 @@
   - [HTML Basics 2](week-5-1.md)
   - [CSS Basics 1](week-5-2.md)
   - [CSS Basics 2](week-7.md)
+  - [CSS Page Layout](week-8.md)
 - [Code Demo Files](https://github.com/Parsa-Rajabi/CIS145/tree/main/code-demo)
 - [Labs](labs.md)
 - [Assignments](assignments.md)

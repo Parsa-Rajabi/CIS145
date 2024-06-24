@@ -30,7 +30,7 @@ All course slides are password protected. Visit course info page (on left naviga
 5 | Jun 3 + Jun 6 | HTML Basics 2 + CSS Basics 1 | Part 1: <a href="https://parsa-rajabi.github.io/CIS145/#/week-5-1">HTML Basics 2</a><br> Part 2: <a href="https://parsa-rajabi.github.io/CIS145/#/week-5-2">CSS Basics 1</a> | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiTm5IaWhzOXJQM0tpcURGVHZjVUJTb21yZ3R1MGxyZFRvdDZmZDlibW9FcUw3aVBXTWhNcWd5Smg0QVVvQ0xBTnNWNnFQVFZKcEZNSWc0NFVESHZZa0kweWRlMExUdHJJbkNqR0drOS9KNWJMWjB4amJXV2pCQVNwOUtrSlo3b1U5bzRGOUZKaGFIVGN0UFR5YXlNTlJKNUlmZTQ9IiwicyI6InVZOU5pc2luQlMra0l5WDFRNGgrYlE9PSIsImkiOiJLQlUrRE45L0ljT2gxRzFOIn0=) |
 6 | Jun 10 + Jun 13 | Quiz #1 (In-class, no lecture) | [Quiz Details](quiz.md) | - |
 7 | Jun 17 + Jun 20 | CSS Basics 2 |<a href="https://parsa-rajabi.github.io/CIS145/#/week-7">CSS Basics 2</a> | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiTzJaVTNoa0w3dG9Tc2tIUXZQaS9ST2hiL0lJeVQ1cDhkRG1QVCtOb0lRUm9mZ1dDUUs2MVcwNmdtdHVxTXFnOC9vZFdRS3ZnQ0hMd3RYSzhrSTluMWRGdlJWQU1WVzhCQ0g3WVlvVXd6YStxTXo0SzNpSmZVeU5xS1JZUVBZbFJGanhROEo1MHgwNDF6Q1haRnpWdkF6cEQ0ZG89IiwicyI6IktuYjJTM3RzMkZYRmxTWmMxTXRUUmc9PSIsImkiOiIzV1U0M0xJcHJtRE1tdy9YIn0=) |
-8 | Jun 24 + Jun 27 | CSS Page Layout |<a href="https://parsa-rajabi.github.io/CIS145/#/week-7">CSS Page Layout</a> | |
+8 | Jun 24 + Jun 27 | CSS Page Layout |<a href="https://parsa-rajabi.github.io/CIS145/#/week-8">CSS Page Layout</a> | |
 9 | Jul 1 + Jul 4 | No Class | - | - |
 10 | Jul 8 + Jul 11 | Quiz #2 (In-class, no lecture) | [Quiz Details](quiz.md) | - |
 11 | Jul 15 + Jul 18 | CSS Responsive Layouts | | |

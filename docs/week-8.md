@@ -179,8 +179,8 @@ selector:pseudo-class {
 - Some of the display property values are as follows:
   - `none`: The element will not be displayed
   - `block`: The element is rendered as a block element – even if it is actually an inline element, such as a hyperlink
-  - `inline`: The element will be rendered as an inline element – even if it is actually a block element, such as a <li>
-  - inline-block`: The element will display as an inline display element adjacent to other inline display elements but also can be configured with properties of block display elements including width and height
+  - `inline`: The element will be rendered as an inline element – even if it is actually a block element, such as a `<li>`
+  - `inline-block`: The element will display as an inline display element adjacent to other inline display elements but also can be configured with properties of block display elements including width and height
 
 
 ## Position Element
