@@ -6,6 +6,7 @@ body {
 
 #cyan-color {
     color: darkcyan;
+    border: 2px solid tomato;
 }
 
 .purple-text {
@@ -39,6 +40,10 @@ nav ul {
     list-style-type: none;
 }
 
+/* 
+nav ul li a  
+alternative selector 
+*/
 nav a {
     color: darkblue;
     padding: 10px;

@@ -205,7 +205,7 @@ Refer to [assignment details page](assignments.md#submission-process) for submis
 ## A2
 - Learn Basic CSS by Building a Cafe Menu [91 Steps]
 - Learn CSS Colors by Building a Set of Colored Markers [94 Steps]
-- Learn Internal CSS by Building a Cat Painting [80 Steps]
+- Learn Intermediate CSS by Building a Cat Painting [80 Steps]
 
 
 <!-- 
