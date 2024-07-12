@@ -33,9 +33,10 @@ All course slides are password protected. Visit course info page (on left naviga
 8 | Jun 24 + Jun 27 | CSS Page Layout |<a href="https://parsa-rajabi.github.io/CIS145/#/week-8">CSS Page Layout</a> | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiT2ZQK0JqSCtEaXQ0cWh6aExCWXZKN1dEbmJvbVB5N2dhS2RnTVJNZXJnUVRiOGNuczNCVlU2THFYT2oxWjRTQi9iaHpENFhQNU1qRGVMUEg1VndkL2Y4TDZPM1VURXUxRzVDejh1eEJZS09ibnVCT1plVXdEU3h0UXRqa0VUM29sWGtpSHRCbTMwL3dRWFhyRldlTk1sZWJFc3c9IiwicyI6IlRHQ3FWcE44L1dvMTBkcmZ2ZitLUkE9PSIsImkiOiJOK2x0bmdYYmtGU1BDaVl1In0=) |
 9 | Jul 1 + Jul 4 | No Class | - | - |
 10 | Jul 8 + Jul 11 | Quiz #2 (In-class, no lecture) | [Quiz Details](quiz.md) | - |
-11 | Jul 15 + Jul 18 | CSS Responsive Layouts | | |
+11 | Jul 15 + Jul 18 | CSS Responsive Layouts | <a href="https://parsa-rajabi.github.io/CIS145/#/week-11">CSS Responsive Layout</a> | |
 12 | Jul 22 + Jul 25 | HTML Tables + HTML Forms | | |
 13 | Jul 29 + Aug 1 | Intro to JS + jQuery  | | |
+**14** | **Wednedsay, Aug 7** | **Final Exam 9am - 12pm PST** | [Final Exam Details](final.md)| |
 
 # Lab Schedule
 
