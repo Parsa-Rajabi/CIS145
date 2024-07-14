@@ -10,6 +10,7 @@ As part of this week's lesson, we will understand the importance of responsive w
 - [Responsive Web Design](#responsive-web-design)
   - [Table of Contents](#table-of-contents)
   - [Responsiveness of Web Pages](#responsiveness-of-web-pages)
+  - [Multi-Column Layouts](#multi-column-layouts)
   - [Flexbox Layout](#flexbox-layout)
     - [Flex Containers and Items](#flex-containers-and-items)
     - [Flexbox Properties](#flexbox-properties)
@@ -23,9 +24,10 @@ As part of this week's lesson, we will understand the importance of responsive w
 
 The videos below provide an overview of the topics for this week. You can watch the videos before or after reading the content for this week.
 
+- [CSS Media Queries [6:53]](https://youtu.be/XAchqU1-PWI?si=UELf_3cspFWg5UTi)
 - [CSS Flexboxes [26:52]](https://youtu.be/-DNLYk5uzl8?si=41O9UEsZlnTIHwws) 
 - [CSS Grid [43:12]](https://youtu.be/RhUuMl3R1PE?si=T2sv6JcXtGKXUHo8)
-- [CSS Media Queries [6:53]](https://youtu.be/XAchqU1-PWI?si=UELf_3cspFWg5UTi)
+
 
 Additional Resources:
 - https://www.w3.org/TR/css-flexbox-1/
@@ -36,6 +38,8 @@ Additional Resources:
 Responsive web design refers to enhancing a web page for different viewing contexts (such as smartphones and tablets) through the use of coding techniques including fluid layouts, flexible images, and media queries. Here is an example of a web page configured to display differently, depending on the viewport size detected by media queries.
 
 ![alt text](images/content/W11/responsive-layouts.png)
+
+## Multi-Column Layouts
 
 In our previous lessons, you learned that complex multi-column layouts could be created with floats and/or positioning, but it was a bit of a hack in the sense that neither the `float` nor `position` property were designed to achieve that outcome.
 
