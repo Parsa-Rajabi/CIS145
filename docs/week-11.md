@@ -10,6 +10,8 @@ As part of this week's lesson, we will understand the importance of responsive w
 - [Responsive Web Design](#responsive-web-design)
   - [Table of Contents](#table-of-contents)
   - [Responsiveness of Web Pages](#responsiveness-of-web-pages)
+  - [Media Queries](#media-queries)
+  - [Scaling Images](#scaling-images)
   - [Multi-Column Layouts](#multi-column-layouts)
   - [Flexbox Layout](#flexbox-layout)
     - [Flex Containers and Items](#flex-containers-and-items)
@@ -38,6 +40,40 @@ Additional Resources:
 Responsive web design refers to enhancing a web page for different viewing contexts (such as smartphones and tablets) through the use of coding techniques including fluid layouts, flexible images, and media queries. Here is an example of a web page configured to display differently, depending on the viewport size detected by media queries.
 
 ![alt text](images/content/W11/responsive-layouts.png)
+
+## Media Queries
+
+Media queries are a CSS technique introduced in CSS3 that allow you to apply styles based on the device characteristics. Media queries are used to determine the width and height of a viewport to ensure that the content is displayed correctly on all devices. 
+
+The diagram below illustrates the syntax of a typical media query. These queries are Boolean expressions and can be added to your CSS files or to the <link> element to conditionally use a different external CSS file based on the capabilities of the device.
+
+![alt text](images/content/W11/media-query.png)
+
+Here is a partial list of the browser features you can examine with media queries. Many of these features have min- and max- versions.
+
+![alt text](images/content/W11/media-query-features.png)
+
+Contemporary responsive sites will typically provide CSS rules for phone dis- plays first, then tablets, then desktop monitors, an approach called **progressive enhancement**, in which a design is adapted to progressively more advanced devices, an approach you will also see in the JavaScript chapter. This example demonstrates how a responsive site might use media queries to provide progressive enhancement.
+
+![alt text](images/content/W11/media-query-in-action.png)
+
+Notice that the smallest device is described first, while the largest device is described last. Since later rules in the source code override earlier rules, this provides progressive enhancement, meaning that as the display grows you can have CSS rules that take advantage of the larger space. Notice as well that these media queries can be within your CSS file or within the `<link>` element.
+
+## Scaling Images
+
+Making images scale in size is actually quite straightforward, in that you simply need to specify the following rule:
+
+```css
+img {
+  max-width: 100%;
+}
+```
+
+Of course this does not change the downloaded size of the image; it only shrinks or expands its visual display to fit the size of the containing parent element (or the browser window if no parent), never expanding beyond its actual dimensions. Students are often tempted to define a height, which usually changes the aspect ratio distorting the image. Using `height:auto`, though not necessary, satisfies the inclination to add height. 
+
+HTML5.1 defines the new `<picture>` element as an elegant way to do this task via markup. The `<picture>` element is a container that lets the designer specify multiple `<img>` elements; the browser will determine which `<img>` to use based on the viewport size. The diargram below outlines how the `<picture>` element can be used to serve an appropriate-sized image for different device sizes. Notice that each `<source>` child element uses a media query.
+
+![alt text](images/content/W11/responsive-images.png)
 
 ## Multi-Column Layouts
 
