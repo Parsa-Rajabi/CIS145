@@ -10,7 +10,7 @@
 - Generally, your instructor will not be able to answer questions during the exam - do your best with your best interpretation.
 
 ### Preparation: 
-- The exam will cover all concepts from the first 8 weeks of the class (until end of week 8)
+- The exam will cover all concepts covered in the course. Make sure you review all the in-class exercises, labs and assignments.
 - Review the following videos to make sure you understand the submission process and sort out any issues with server connectivity:
   - [How to connect to CIS Web Server/video instruction](resources.md)
 
