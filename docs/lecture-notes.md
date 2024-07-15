@@ -10,9 +10,13 @@
   - [Lab 4](#lab-4)
   - [Lab 5](#lab-5)
   - [Lab 6](#lab-6)
+  - [Lab 7](#lab-7)
+  - [Lab 8](#lab-8)
 - [Assignment Schedule](#assignment-schedule)
   - [A1](#a1)
   - [A2](#a2)
+  - [A3](#a3)
+  - [A4](#a4)
 
 
 # Course Schedule
@@ -57,9 +61,8 @@ Refer to [lab details](labs.md#submission-process) page for submission instructi
 | [Lab 5](#lab-5) | June 27  |
 | [Lab 6](#lab-6) |  July 4  |
 |     No Lab      | July 11  |
-<!--| [Lab 7](#lab-7) | July 18  |
-| [Lab 8](#lab-8) | July 25  |
-| [Lab 9](#lab-9) |  Aug 1   | -->
+| [Lab 7](#lab-7) | July 25  |
+| [Lab 8](#lab-8) | Aug 1  |
 
 
 Under each lab, you will find the list of Khan Academy modules that you need to complete for that lab. The headings are the titles of the modules and the subheadings are the individual exercises within each module.
@@ -175,13 +178,110 @@ Under each lab, you will find the list of Khan Academy modules that you need to 
 10. CSS specificity
 11. CSS specificity rules
 
+## Lab 7
 
-<!-- ## Lab X 
 **More HTML tags**
+
 1. HTML tables
 2. Challenge: The dinner table
-3. Project: Recipe book 
---->
+3. Project: Recipe book
+
+**Get ready to make your webpages interactive**
+
+1. Welcome to making webpages interactive
+2. Review HTML/CSS
+3. HTML/CSS recap
+4. Review JavaScript
+
+**JS and the DOM**
+
+1. Putting JS in a webpage
+2. Challenge: A scripted script tag
+3. The DOM (Document Object Model)
+4. Understanding the DOM
+5. Debugging webpages with the browser console
+
+**DOM access methods**
+
+1. Finding elements by ID
+2. Challenge: ID changer
+3. Finding multiple DOM elements by tag or class name
+4. Challenge: Custom name tags
+5. Finding elements by CSS selector
+6. Challenge: Query modernizer
+7. Summary: DOM access methods
+
+**DOM events**
+
+1. Making webpages interactive with events
+2. Adding event listeners
+3. Challenge: Cat Clicker
+4. DOM event types
+5. Using the event properties
+6. Challenge: Cat-stache
+7. Processing forms with events
+8. Challenge: Mad Libs
+9. Preventing default behavior of events
+10. Summary: DOM events
+
+
+## Lab 8
+
+**[Intro to JS] Variables**
+
+1. Intro to Variables
+2. Using variables
+3. Challenge: Bucktooth Bunny
+4. More on Variables
+5. Challenge: Funky Frog
+6. Review: Variables
+
+**[Intro to JS] Functions**
+
+1. Functions
+2. Challenge: Say Your Name
+3. Function Parameters
+4. Challenge: Moles in Holes
+5. Function Return Values
+6. Challenge: Calculator
+7. Review: Functions
+8. Project: Fish tank
+
+**[Intro to JS] Logic and if Statements**
+
+1. If Statements
+2. Challenge: Bouncy Ball
+3. More Mouse Interaction
+4. Challenge: Your First Painting App
+5. Booleans
+6. Challenge: Number Analyzer
+7. Logic Operators
+8. Challenge: Your First Button
+9. Challenge: Smarter Button
+10. If/Else - Part 1
+11. Challenge: Flashy Flash Card
+12. If/Else - Part 2
+13. Review: Logic and if Statements
+
+**Welcome to jQuery**
+
+1. From the inventor: Welcome!
+2. What is jQuery?
+3. Get ready to learn jQuery
+4. Getting started with jQuery
+5. Challenge: Your first jQuery
+
+<!-- **DOM access with jQuery**
+
+1. Finding elements with jQuery
+2. Challenge: Unicorn-ify a page with jQuery
+3. Getting info on elements with jQuery
+4. Challenge: Famous discoveries
+5. Review: DOM access with jQuery
+6. Project: DOM detective
+7. Histroy break: How did John build jQuery? -->
+
+
 # Assignment Schedule
 
 All deadlines are at 11:59pm PST.
@@ -195,8 +295,8 @@ Refer to [assignment details page](assignments.md#submission-process) for submis
 | :----------: | :------: |
 |      A1      |  June 5  |
 |      A2      |  July 3  |
-<!--| [A3](#A3)    | July 24  |
-| [A4](#A4)    | July 31  | -->
+|      A3      | July 24  |
+|      A4      | July 31  |
 
 ## A1
 
@@ -208,13 +308,12 @@ Refer to [assignment details page](assignments.md#submission-process) for submis
 - Learn CSS Colors by Building a Set of Colored Markers [94 Steps]
 - Learn Intermediate CSS by Building a Cat Painting [80 Steps]
 
-
-<!-- 
 ## A3
-- Learn the CSS Box Model by Building a Rothko Painting
-- Learn CSS Flexbox by Building a Photo Gallery
-- Learn CSS Grid by Building a Magazine
+- Learn CSS Box Model by Building a Rothko Painting [45 Steps]
+- Learn CSS Flexbox by Building a Photo Gallery [24 Steps]
+- Learn CSS Grid by Building a Magazine [80 Steps]
 
 ## A4
-- Learn HTML Forms by Building a Registration Form
-- Learn Accessibility by Building a Quiz -->
+- Learn Responsive Web Design by Building a Piano [33 Steps]
+- Learn HTML Forms by Building a Registration Form [65 Steps]
+- Learn Accessibility by Building a Quiz [68 Steps]
