@@ -4,6 +4,7 @@
 - [Labs](labs.md)
 - [Assignments](assignments.md)
 - [Quizzes](quiz.md)
+- [Final Exam](final.md)
 - [Resources](resources.md)
 <!-- * [Schedule](schedule.md)
 * [Topics](topics.md)
