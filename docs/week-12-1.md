@@ -17,10 +17,8 @@ As part of this lesson, we'll continue our lesson on CSS and discuss advance way
 
 The videos below provide an overview of the topics for this week. You can watch the videos before or after reading the content for this week.
 
-- [CSS Media Queries [6:53]](https://youtu.be/XAchqU1-PWI?si=UELf_3cspFWg5UTi)
-- [CSS Flexboxes [26:52]](https://youtu.be/-DNLYk5uzl8?si=41O9UEsZlnTIHwws) 
-- [CSS Grid [43:12]](https://youtu.be/RhUuMl3R1PE?si=T2sv6JcXtGKXUHo8)
-
+- [HTML Tables [8:10]](https://youtu.be/x7AAFwX6UOY?si=TiyKnJEDHhAWCMmD)
+- [Table row & col spans [3:08]](https://youtu.be/XtDnmZ8lfbs?si=yEWlkIzsqZNOcoMC)
 
 
 ## Tables
