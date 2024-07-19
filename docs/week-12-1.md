@@ -5,18 +5,14 @@ As part of this lesson, we'll continue our lesson on CSS and discuss advance way
 
 ## Table of Contents
 
-- [CSS Basics 2](#css-basics-2)
+- [HTML Tables](#html-tables)
   - [Table of Contents](#table-of-contents)
-  - [CSS Selectors](#css-selectors)
-    - [Element selectors](#element-selectors)
-    - [Decendant Selector](#decendant-selector)
-    - [Class Selector](#class-selector)
-    - [ID Selector](#id-selector)
-    - [Class \& ID in Action](#class--id-in-action)
-  - [Cascade in CSS](#cascade-in-css)
-    - [Inheritance](#inheritance)
-    - [Specificity](#specificity)
-    - [Location](#location)
+  - [Tables](#tables)
+    - [Spanning Rows and Columns](#spanning-rows-and-columns)
+    - [Additional Table Elements](#additional-table-elements)
+  - [Styling Tables](#styling-tables)
+    - [Table Borders](#table-borders)
+    - [Boxes](#boxes)
 
 
 The videos below provide an overview of the topics for this week. You can watch the videos before or after reading the content for this week.
@@ -46,7 +42,7 @@ The main reason you should use the `<th>` element is not, however, due to presen
 
 ![alt text](images/content/W12/html-table-headings.png)
 
-## Spanning Rows and Columns
+### Spanning Rows and Columns
 
 So far, we've learned two key concepts about tables:
 1) All content must appear within the `<td>` or `<th>` container. 
@@ -61,7 +57,7 @@ Spanning rows is a little less common and perhaps a little more complicated beca
 ![alt text](images/content/W12/html-table-spanning-row.png)
 
 
-## Additional Table Elements
+### Additional Table Elements
 
 The `<caption>` element is used to provide a brief title or description of the table, which improves the accessibility of the table, and is strongly recommended. You can use the `caption-side` CSS property to change the position of the caption below the table.
 
@@ -82,3 +78,9 @@ As shown below, borders can be assigned to both the `<table>` and the `<td>` ele
 Notice as well the `border-collapse` property. This property selects the table’s border model. The default, shown in the second section of the example, is the separated model or value. In this approach, each cell has its own unique borders. You can adjust the space between these adjacent borders via the `border-spacing` property, as shown in the final section of the example. In the last section, the `collapsed border` model is being used; in this model adjacent cells share a single border.
 
 ![alt text](images/content/W12/html-table-style-border.png)
+
+### Boxes
+
+While there is almost no end to the different ways one can style a table, there is a number of pretty common approaches. We will look at two of them here. The first of these is a box format, in which we simply apply background colors and borders in various ways, as shown below.
+
+![alt text](images/content/W12/html-table-box.png)
