@@ -8,6 +8,8 @@
   - [W7: CSS Basics 2](week-7.md)
   - [W8: CSS Page Layout](week-8.md)
   - [W11: Responsive Design](week-11.md)
+  - [W12: HTML Tables](week-12-1.md)
+  - [W12: HTML Forms](week-12-2.md)
 - [Code Demo Files](https://github.com/Parsa-Rajabi/CIS145/tree/main/code-demo)
 - [Labs](labs.md)
 - [Assignments](assignments.md)
