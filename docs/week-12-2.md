@@ -34,6 +34,9 @@ As part of this lesson, we'll continue our lesson on CSS and discuss advance way
 
 The videos below provide an overview of the topics for this week. You can watch the videos before or after reading the content for this week.
 
+- [HTML Forms - Part 1 [23:15]](https://youtu.be/xzoW4P6VZ20?si=JXAvOsS4SDNXW3NU)
+- [HTML Forms - Part 2 [15:32]](https://youtu.be/k-QncEsANp8?si=jFrt5WmMpZuvc1Yk) 
+
 
 ## Forms
 - Forms provide the user with an alternative way to interact with a web server.

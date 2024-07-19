@@ -20,7 +20,6 @@ The videos below provide an overview of the topics for this week. You can watch 
 - [HTML Tables [8:10]](https://youtu.be/x7AAFwX6UOY?si=TiyKnJEDHhAWCMmD)
 - [Table row & col spans [3:08]](https://youtu.be/XtDnmZ8lfbs?si=yEWlkIzsqZNOcoMC)
 
-
 ## Tables
 
 - A table in HTML is created using the `<table>` element and can be used to represent information that exists in a two-dimensional grid. 
@@ -31,7 +30,6 @@ The videos below provide an overview of the topics for this week. You can watch 
 
 
 ![alt text](images/content/W12/html-table-example.png)
-
 
 
 Many tables will contain some type of headings in the first row. In HTML, you indicate header data by using the `<th>` instead of the `<td>` element, as shown below. Browsers tend to make the content within a `<th>` element bold, but you could style it anyway you would like via CSS.
