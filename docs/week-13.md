@@ -37,10 +37,10 @@ As part of this lesson, we'll cover the baiscs of JavaScript and jQuery. JavaScr
     - [Selection Methods](#selection-methods)
     - [Element Node Object](#element-node-object)
   - [JavaScript Events](#javascript-events)
-  - [Event Types](#event-types)
-    - [Pop-up Events](#pop-up-events)
-    - [Mouse Event](#mouse-event)
-    - [Keyboard Event](#keyboard-event)
+    - [Event Types](#event-types)
+      - [Pop-up Events](#pop-up-events)
+      - [Mouse Event](#mouse-event)
+      - [Keyboard Event](#keyboard-event)
     - [Event Handlers](#event-handlers)
       - [Assigning Event Handlers](#assigning-event-handlers)
       - [HTML Event Attributes](#html-event-attributes)
@@ -582,15 +582,15 @@ document.querySelector("#btn").addEventListener("click", () => {
 
 
 
-## Event Types
+### Event Types
 
 There are many different types of events that can be triggered in the browser. Perhaps the most obvious event is the click event, but JavaScript and the DOM support several others. In actuality, there are several classes of event, with several types of events within each class specified by the W3C. Some of the most commonly used **event types** are mouse events, keyboard events, touch events, form events, and frame events.
 
-### Pop-up Events
+#### Pop-up Events
 
 JavaScript provides three types of pop-up boxes: `alert`, `confirm`, and `prompt`. These pop-ups are used to interact with the user, gather input, and display information. They are simple to use and provide basic ways to communicate with the user.
 
-### Mouse Event
+#### Mouse Event
 
 Mouse events are defined to capture a range of interactions driven by the mouse. These can be further categorized as mouse click and mouse move events. The table below lists some of the possible events one can listen for from the mouse.
 
@@ -599,7 +599,7 @@ Interestingly, many mouse events can be sent at a time. The user could be moving
 ![alt text](images/content/W13/JS-event-mouse.png)
 
 
-### Keyboard Event
+#### Keyboard Event
 
 Keyboard events are often overlooked by novice web developers, but are important tools for power users. The table below lists the most common keyboard events.
 
