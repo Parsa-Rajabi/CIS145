@@ -10,6 +10,7 @@
   - [W11: Responsive Design](week-11.md)
   - [W12: HTML Tables](week-12-1.md)
   - [W12: HTML Forms](week-12-2.md)
+  - [W13: Intro to JS + DOM](week-13.md)
 - [Code Demo Files](https://github.com/Parsa-Rajabi/CIS145/tree/main/code-demo)
 - [Labs](labs.md)
 - [Assignments](assignments.md)

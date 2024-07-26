@@ -16,6 +16,9 @@ As part of this lesson, we'll cover the baiscs of JavaScript and jQuery. JavaScr
   - [JavaScript Basics](#javascript-basics)
     - [Variables](#variables)
     - [JavaScript Output](#javascript-output)
+      - [Alert Box](#alert-box)
+      - [Confirm Box](#confirm-box)
+      - [Prompt Box](#prompt-box)
     - [Data Types](#data-types)
     - [Concatenation](#concatenation)
   - [Conditional Statements](#conditional-statements)
@@ -36,10 +39,6 @@ As part of this lesson, we'll cover the baiscs of JavaScript and jQuery. JavaScr
   - [JavaScript Events](#javascript-events)
   - [Event Types](#event-types)
     - [Pop-up Events](#pop-up-events)
-      - [Alert Box](#alert-box)
-      - [Confirm Box](#confirm-box)
-      - [Prompt Box](#prompt-box)
-    - [Example: Using Alert, Confirm, and Prompt Together](#example-using-alert-confirm-and-prompt-together)
     - [Mouse Event](#mouse-event)
     - [Keyboard Event](#keyboard-event)
     - [Event Handlers](#event-handlers)
@@ -148,6 +147,48 @@ document.write("<h1>Title</h1>");
 // this uses the concatenate operator (+)
 document.write("Hello " + name + " and welcome");
 ```
+
+#### Alert Box
+
+An `alert` box is used to display a message to the user. When an alert box pops up, the user must click "OK" to proceed. The `alert` method is straightforward and looks like this:
+
+```javascript
+alert('This is an alert message.');
+```
+
+When this code is executed, a pop-up box with the message "This is an alert message." will be displayed. The user cannot interact with the rest of the page until they click "OK".
+
+#### Confirm Box
+
+A `confirm` box is used to get a yes/no response from the user. When a confirm box pops up, the user must click either "OK" or "Cancel" to proceed. The `confirm` method returns `true` if the user clicks "OK" and `false` if the user clicks "Cancel":
+
+```javascript
+let userConfirmed = confirm('Do you want to proceed?');
+
+if (userConfirmed) {
+  console.log('User chose OK');
+} else {
+  console.log('User chose Cancel');
+}
+```
+
+In this example, a confirm box with the message "Do you want to proceed?" will be displayed. The user's response will be logged to the console.
+
+#### Prompt Box
+
+A `prompt` box is used to get input from the user. When a prompt box pops up, the user must enter some text and click "OK" or click "Cancel" to proceed. The `prompt` method returns the input value if the user clicks "OK" and `null` if the user clicks "Cancel":
+
+```javascript
+let userName = prompt('Please enter your name:');
+
+if (userName !== null) {
+  console.log('Hello, ' + userName);
+} else {
+  console.log('User cancelled the prompt.');
+}
+```
+
+In this example, a prompt box with the message "Please enter your name:". The user's input will be logged to the console based on their response.
 
 ### Data Types
 
@@ -548,84 +589,6 @@ There are many different types of events that can be triggered in the browser. P
 ### Pop-up Events
 
 JavaScript provides three types of pop-up boxes: `alert`, `confirm`, and `prompt`. These pop-ups are used to interact with the user, gather input, and display information. They are simple to use and provide basic ways to communicate with the user.
-
-#### Alert Box
-
-An `alert` box is used to display a message to the user. When an alert box pops up, the user must click "OK" to proceed. The `alert` method is straightforward and looks like this:
-
-```javascript
-alert('This is an alert message.');
-```
-
-When this code is executed, a pop-up box with the message "This is an alert message." will be displayed. The user cannot interact with the rest of the page until they click "OK".
-
-#### Confirm Box
-
-A `confirm` box is used to get a yes/no response from the user. When a confirm box pops up, the user must click either "OK" or "Cancel" to proceed. The `confirm` method returns `true` if the user clicks "OK" and `false` if the user clicks "Cancel":
-
-```javascript
-let userConfirmed = confirm('Do you want to proceed?');
-
-if (userConfirmed) {
-  console.log('User chose OK');
-} else {
-  console.log('User chose Cancel');
-}
-```
-
-In this example, a confirm box with the message "Do you want to proceed?" will be displayed. The user's response will be logged to the console.
-
-#### Prompt Box
-
-A `prompt` box is used to get input from the user. When a prompt box pops up, the user must enter some text and click "OK" or click "Cancel" to proceed. The `prompt` method returns the input value if the user clicks "OK" and `null` if the user clicks "Cancel":
-
-```javascript
-let userName = prompt('Please enter your name:');
-
-if (userName !== null) {
-  console.log('Hello, ' + userName);
-} else {
-  console.log('User cancelled the prompt.');
-}
-```
-
-In this example, a prompt box with the message "Please enter your name:". The user's input will be logged to the console based on their response.
-
-### Example: Using Alert, Confirm, and Prompt Together
-
-Here’s an example that demonstrates how to use `alert`, `confirm`, and `prompt` together:
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Pop-Up Example</title>
-  <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      alert('Welcome to the site!');
-
-      let proceed = confirm('Do you want to enter your name?');
-      if (proceed) {
-        let name = prompt('Please enter your name:');
-        if (name !== null) {
-          alert('Hello, ' + name + '!');
-        } else {
-          alert('You cancelled the prompt.');
-        }
-      } else {
-        alert('You chose not to enter your name.');
-      }
-    });
-  </script>
-</head>
-<body>
-</body>
-</html>
-```
-
-In this example, when the page loads, an alert box welcomes the user. Then a confirm box asks if the user wants to enter their name. If the user clicks "OK", a prompt box asks for their name, and a personalized greeting is displayed in an alert box. If the user clicks "Cancel" at any point, appropriate messages are shown.
 
 ### Mouse Event
 
