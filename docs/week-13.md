@@ -15,9 +15,19 @@ As part of this lesson, we'll cover the baiscs of JavaScript and jQuery. JavaScr
     - [External JavaScript](#external-javascript)
   - [JavaScript Basics](#javascript-basics)
     - [Variables](#variables)
-  - [JavaScript Output](#javascript-output)
-  - [Data Types](#data-types)
-  - [Concatenation](#concatenation)
+    - [JavaScript Output](#javascript-output)
+    - [Data Types](#data-types)
+    - [Concatenation](#concatenation)
+  - [Conditional Statements](#conditional-statements)
+    - [The `if` Statement](#the-if-statement)
+    - [The `else` Statement](#the-else-statement)
+    - [The `else if` Statement](#the-else-if-statement)
+    - [The `switch` Statement](#the-switch-statement)
+    - [Comparison and Logical Operators](#comparison-and-logical-operators)
+      - [Comparison Operators](#comparison-operators)
+      - [Logical Operators](#logical-operators)
+  - [Functions](#functions)
+    - [Defining a Function](#defining-a-function)
 
 
 The videos below provide an overview of the topics for this week. You can watch the videos before or after reading the content for this week.
@@ -25,7 +35,7 @@ The videos below provide an overview of the topics for this week. You can watch 
 
 ## JavaScript
 
-JavaScript is a programming language that is used to create interactive effects within web browsers. JavaScript is is an object-oriented, dynamically typed scripting language. In the context of this course, we will be primarily using JavaScript as a client-side language (although it can also be used on the server-side with Node.js).
+So, what is JavaScript? It’s an object-based, client-side scripting language interpreted by a web browser. JavaScript is considered to be object-based because it’s used to work with the objects associated with a web page document: the browser window, the document itself, and elements such as forms, images, and links. Because JavaScript is interpreted by a browser, it is considered to be a client-side scripting language. A scripting language is a type of programming language, but no need to worry! You don’t have to be a computer programmer to understand this. 
 
 ## Client-Side Scripting
 
@@ -92,7 +102,7 @@ Second, notice that whitespace around variables, keywords, and other symbols has
 
 ![alt text](images/content/W13/JS-Var-keyword-table.png)
 
-## JavaScript Output
+### JavaScript Output
 
 One of the first things one learns with a new programming language is how to output information. For JavaScript that is running within a browser, there are several options, as shown in the table below.
 
@@ -117,7 +127,7 @@ document.write("<h1>Title</h1>");
 document.write("Hello " + name + " and welcome");
 ```
 
-## Data Types
+### Data Types
 
 JavaScript has two basic data types: **reference types** (usually referred to as objects) and **primitive types** (i.e., nonobject, simple types). What makes things a bit confusing for new JavaScript developers is that the language lets you use **primitive types** as if they are objects. The reason for this slipperiness is that objects in JavaScript are absolutely crucial. Almost everything within the language is an object, so the language provides easy ways to use primitives as if they were objects.
 
@@ -125,7 +135,7 @@ Primitive types represent simple forms of data. ES2015 (a version of JavaScript)
 
 ![alt text](images/content/W13/JS-data-types.png)
 
-## Concatenation
+### Concatenation
 
 One of the most basic programming tasks in JavaScript is to combine string literals together with other variables. This is accomplished using the concatenate operator `+`. For instance, the example below demonstrates several simple uses of the concatenate operator.
 
@@ -144,7 +154,6 @@ let msg2 = population + count;
 console.log(msg);
 console.log(msg2);
 ```
-
 
 In JavaScript the meaning of the `+` operator will depend on whether the values on either side of the operator are both numbers or not. If the `+` operator is being used on numbers, then it will perform **arithmetic addition**; if being used on a non-number, then it will perform **string concatenation** instead.
 
@@ -175,3 +184,212 @@ let msg = `${city} is the capital of ${country}`;
 ```
 
 Notice that the literal character in this example is the back-tick ` (located to the left of the 1 key on most North American keyboards). The key benefit of template literals is that you can include variable references within the literal, thereby avoiding using the concatenate operator.
+
+
+## Conditional Statements
+
+In programming, conditional statements are used to perform different actions based on different conditions. JavaScript supports several types of conditional statements that you can use to make decisions in your code: `if`, `else`, `else if`, and `switch`.
+
+### The `if` Statement
+
+The `if` statement is used to execute a block of code only if a specified condition is true. If the condition evaluates to true, the block of code inside the `if` statement is executed. If the condition is false, the code block is skipped. Here’s an example:
+
+```javascript
+let price = 20;
+
+if (price >= 19) {
+  console.log("This item costs greater than $19.");
+}
+```
+
+In this example, the console.log statement will execute because the condition `price >= 19` is true.
+
+### The `else` Statement
+
+The else statement is used to execute a block of code if the condition in the if statement is **false**. It provides an alternative path of execution. Here’s how it works:
+
+```javascript
+let speed = 15;
+
+if (speed > 20) {
+  console.log("You are speeding because your speed is faster than 20 km/hr.");
+} else {
+  console.log("Your are not speeding.");
+}
+```
+
+In this case, the `console.log` statement within the else block will execute because the condition `speed > 15` is **false**.
+
+### The `else if` Statement
+
+The else if statement is used to specify a new condition if the first condition is false. You can chain multiple else if statements together to check for various conditions:
+
+```javascript
+let score = 85;
+
+if (score >= 90) {
+  console.log("Grade: A");
+} else if (score >= 80) {
+  console.log("Grade: B");
+} else if (score >= 70) {
+  console.log("Grade: C");
+} else {
+  console.log("Grade: F");
+}
+```
+
+In this example, the `console.log("Grade: B")` statement will execute because the score falls within the range specified by the else if condition `score >= 80`.
+
+
+Another example of the `else if` statement is shown below:
+
+```javascript
+let hourOfDay; // variable to hold hour of day, set it later ... 
+let greeting; // variable to hold the greeting message
+if (hourOfDay > 4 && hourOfDay < 12) {
+  greeting = "Good Morning";
+}
+else if (hourOfDay >= 12 && hourOfDay < 18)  {
+  greeting = "Good Afternoon";
+}
+else {
+  greeting = "Good Evening";
+}
+```
+
+### The `switch` Statement
+
+The `switch` statement is used to perform different actions based on different conditions, but it is often more convenient than multiple `else if` statements. Here’s how you can use a `switch` statement:
+
+```javascript
+let day = 3;
+let dayName;
+
+switch (day) {
+  case 1:
+    dayName = "Monday";
+    break;
+  case 2:
+    dayName = "Tuesday";
+    break;
+  case 3:
+    dayName = "Wednesday";
+    break;
+  case 4:
+    dayName = "Thursday";
+    break;
+  case 5:
+    dayName = "Friday";
+    break;
+  case 6:
+    dayName = "Saturday";
+    break;
+  case 7:
+    dayName = "Sunday";
+    break;
+  default:
+    dayName = "Invalid day";
+}
+
+console.log(dayName);
+```
+
+In this example, the `console.log(dayName)` statement will output "Wednesday" because the value of `day` is 3.
+
+Here is another example of the `switch` statement in comparison to the `if-else` statement:
+
+```javascript
+switch (artType) {
+  case  "PT":
+     output = "Painting";
+     break;
+  case  "SC":
+     output = "Sculpture";
+     break;
+  default:
+     output = "Other";
+}
+// equivalent
+if (artType == "PT") {
+   output = "Painting";
+} else if (artType == "SC") {
+   output = "Sculpture";
+} else {
+   output = "Other";
+}
+```
+
+### Comparison and Logical Operators
+
+In JavaScript, comparison and logical operators are used to create conditions in your code. Understanding these operators is crucial for effectively using conditional statements.
+
+#### Comparison Operators
+
+Comparison operators are used to compare two values. They return a boolean value (`true` or `false`). Here are some common comparison operators:
+
+![alt text](images/content/W13/JS-comparator-operations.png)
+
+```javascript
+let x = 10;
+let y = "10";
+
+console.log(x == y);  // true
+console.log(x === y); // false
+```
+
+In this example, `x == y` evaluates to true because the values are equal, but `x === y` evaluates to false because the types are different (number vs. string).
+
+#### Logical Operators
+
+Logical operators are used to combine multiple conditions. They return a boolean value and are essential for constructing more complex conditions:
+
+- `&&` Logical `AND`
+- `||` Logical `OR`
+- `!` Logical `NOT`
+
+```javascript
+let age = 25;
+let hasLicense = true;
+
+if (age >= 18 && hasLicense) {
+console.log("You can drive.");
+} else {
+console.log("You cannot drive.");
+}
+```
+
+In this example, the `console.log("You can drive.")` statement will execute because both conditions `age >= 18` and hasLicense are true.
+
+
+## Functions
+
+Functions are a fundamental concept in JavaScript. They allow you to define reusable blocks of code that can be executed with different inputs. Functions help you organize your code, reduce repetition, and improve readability.
+
+### Defining a Function
+
+You can define a function using the `function` keyword, followed by a `name`, parentheses `()`, and a block of code `{}`. Here’s an example of a simple function that adds two numbers:
+
+```javascript
+function add(a, b) {
+return a + b;
+}
+
+let result = add(5, 3);
+console.log(result); // Output: 8
+```
+
+In this example, the add function takes **two parameters**, `a` and `b`, and **returns** their `sum`. The function is called with the **arguments** `5` and `3`, and the result is stored in the `result` variable.
+
+```javascript
+function add(a, b) {
+return a + b;
+}
+```
+
+The above is formally called a **function declaration**. Such a declared function can be called or invoked by using the `()` operator.
+
+```javascript
+let result = add(5, 3);
+```
+
+With new programmers there is often confusion between **defining a function** and **invoking the function**. Remember that when you use the keyword `function`, you are defining what the function does. Later, you can use or invoke that function by using its given name without the function keyword but with the brackets `()`. While the function declaration above returns a value, your functions can simply perform actions and not return any value.
