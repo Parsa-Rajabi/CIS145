@@ -220,13 +220,13 @@ console.log(msg2);
 
 In JavaScript the meaning of the `+` operator will depend on whether the values on either side of the operator are both numbers or not. If the `+` operator is being used on numbers, then it will perform **arithmetic addition**; if being used on a non-number, then it will perform **string concatenation** instead.
 
-In the example above, the first `console.log` will output `Paris is the capital of France Population of France is 67`, while the second console.log will output `69` (because both sides of the + operator are numbers).
+In the example above, the first `console.log` will output `Paris is the capital of France Population of France is 67`, while the second console.log will output `70` (because both sides of the + operator are numbers).
 
 ```javascript
 const country = "France";
 const city = "Paris";
 const population = 67;
-const count = 2;
+const count = 3;
 
 let msg = city + " is the capital of " + country;
 msg += " Population of " + country + " is " + population;
@@ -518,7 +518,7 @@ Selectors are a powerful mechanism for selecting elements in CSS. `querySelector
 
 The type of object returned by the methods `getElementById()` and `querySelector()` described in the previous section is an **Element Node object**. This represents an HTML element in the hierarchy, contained between the opening `<>` and closing `</>` tags for this element. As you may already have figured out, an element can itself contain more elements. Every element node has the node properties shown below. It also has a variety of additional properties, the most important of which are shown in the following tables:
 
-```javascript
+```html
 <p id="here">hello <span>there</span></p>
 <ul>
     <li>France</li>
@@ -650,7 +650,7 @@ Event handlers can be assigned in three main ways:
 
 You can assign an event handler directly in the HTML element using an attribute. Here’s an example:
 
-```javascript
+```html
 <button onclick="alert('Button clicked!')">Click me</button>
 ```
 
@@ -669,18 +669,18 @@ button.onclick = function() {
 
 The `addEventListener` method allows you to assign multiple event handlers to the same event on the same element. It’s the most versatile and recommended approach:
 
-``javascript
+```javascript
 let button = document.getElementById('myButton');
 button.addEventListener('click', function() {
   alert('Button clicked!');
 });
-``
+```
 
 ### Example: Handling a Button Click
 
 Here’s a complete example of handling a button click event using the `addEventListener` method:
 
-```javascript
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
