@@ -13,7 +13,11 @@ As part of this lesson, we'll cover the baiscs of JavaScript and jQuery. JavaScr
     - [Inline JavaScript](#inline-javascript)
     - [Embedded JavaScript](#embedded-javascript)
     - [External JavaScript](#external-javascript)
-  - [](#)
+  - [JavaScript Basics](#javascript-basics)
+    - [Variables](#variables)
+  - [JavaScript Output](#javascript-output)
+  - [Data Types](#data-types)
+  - [Concatenation](#concatenation)
 
 
 The videos below provide an overview of the topics for this week. You can watch the videos before or after reading the content for this week.
@@ -60,4 +64,114 @@ The recommended way to use JavaScript is to place it in an external file. You do
 In the example above, the links to the external JavaScript file appear both in the `<head>` and in the `<body>` elements. Generally speaking, for maintainability reasons, `<script>` elements are usually placed within the `<head>` element (and for performance reasons, after any CSS `<link>` elements). For performance reasons, some scripts are placed at the end of the document, just before the `</body>` closing tag.
 Some of the initial examples in this section place the `<script>` tag right before the `</body>` tag for a different reason. Those examples are performing DOM manipulation, which can only occur after the body/document is completely read in. However, once event handling is covered, the `<script>` tag will move back to the `<head>`.
 
-## 
+## JavaScript Basics
+
+### Variables
+
+When one learns a new programming language, it is conventional to begin with variables and data types. We will begin with these topics as well.
+Variables in JavaScript are **dynamically typed**, meaning that you do not have to declare the type of a variable before you use it. This means that a variable can be a number, and then later a string, then later an object, if so desired. This simplifies variable declarations, since we do not require the familiar data-type identifiers (such as int, char, and String) of programming languages like Java or C#.
+
+> [!TIP]
+> JavaScript is a **case-sensitive** language. Thus, these two lines declare and initialize two different variables:
+> ```javascript
+> let count = 5;
+> let Count = 9;
+> ```
+
+The example below shows that to declare a variable in JavaScript, as discussed shortly, you can use either the `var`, `const`, or `let` keywords (a keyword is a reserved word with a special meaning within a programming language). If you do not specify an initial value its initial value will be `undefined`. For instance, in the example, the variable `abc` has a value of `undefined`.
+
+![alt text](images/content/W13/JS-Variables.png)
+
+Variables should always be defined using either the `var`, `const`, or `let` keywords. While you can, in fact, define variables without using one of these keywords, doing so may give that variable global scope. As we will discover later, when we discuss functions and scope, this is almost always a mistake. For this reason, get in the practice of always declaring variables with one of these keywords.
+
+You may wonder why there are three different keywords for declaring variables. The `let` and `const` keywords were added in ES6 (a version of JavaScript) and are now usually to be preferred over `var`. The table below provides overview of how these three keywords differ.
+
+**Assignment** can happen at declaration time by appending the value to the declaration, or at runtime with a simple right-to-left assignment, as illustrated in the declartion example above. This syntax should be familiar to those who have programmed in languages like C and Java.
+There are several additional things worth noting and expanding upon in th example above. First, notice that each line of JavaScript is terminated with a semicolon. If you forget to add the semicolons, the JavaScript engine will still automatically insert them. While opinions on this vary, we advise you to not rely on this feature and instead get in the habit of always terminating your JavaScript lines with a semicolon.
+Second, notice that whitespace around variables, keywords, and other symbols has no meaning. Indeed a single line of JavaScript can span multiple lines.
+
+![alt text](images/content/W13/JS-Var-keyword-table.png)
+
+## JavaScript Output
+
+One of the first things one learns with a new programming language is how to output information. For JavaScript that is running within a browser, there are several options, as shown in the table below.
+
+![alt text](images/content/W13/JS-output-methods.png)
+
+When first learning JavaScript, one often uses the `alert()` function. It instructs the browser to display a pop-up or modal dialog window (that is, the user cannot interact with the page until dismissing the dialog) displaying the string passed to the function. There are two other modal dialog options for outputting data, as can be seen below.
+
+![alt text](images/content/W13/JS-output-method-ex.png)
+
+These pop-ups may appear different to each user depending on their browser configuration. What is universal is that the pop-up obscures the underlying web page, and no actions can be done until the pop-up is dismissed.
+
+Alerts are generally not used in production code but provide a quick way to temporarily display or gather simple information. However, using pop-ups can get tedious quickly. The user has to click `OK` to dismiss the pop-up, and if you use it in a loop, you may spend more time clicking OK than doing meaningful debugging. As an alternative, the examples in this section will often use the `console.log()` method (or one of its related cousins, such as `console.warn()` or `console.dir()`) since console output doesn’t interfere with the display of HTML content 
+
+![alt text](images/content/W13/JS-console.png)
+
+Finally, the `document.write()` method can be a useful way to output markup content from within JavaScript. This method is often used to output markup or to combine markup with JavaScript variables, as shown in the following example:
+
+```javascript
+let name = "Alex";
+document.write("<h1>Title</h1>");
+// this uses the concatenate operator (+)
+document.write("Hello " + name + " and welcome");
+```
+
+## Data Types
+
+JavaScript has two basic data types: **reference types** (usually referred to as objects) and **primitive types** (i.e., nonobject, simple types). What makes things a bit confusing for new JavaScript developers is that the language lets you use **primitive types** as if they are objects. The reason for this slipperiness is that objects in JavaScript are absolutely crucial. Almost everything within the language is an object, so the language provides easy ways to use primitives as if they were objects.
+
+Primitive types represent simple forms of data. ES2015 (a version of JavaScript) defines six primitives, which can be seen in the table below. JavaScript also has object representations of these primitives, which can be confusing!
+
+![alt text](images/content/W13/JS-data-types.png)
+
+## Concatenation
+
+One of the most basic programming tasks in JavaScript is to combine string literals together with other variables. This is accomplished using the concatenate operator `+`. For instance, the example below demonstrates several simple uses of the concatenate operator.
+
+```javascript
+const country = "France";
+const city = "Paris";
+const population = 67;
+const count = 2;
+
+let msg = city + " is the capital of " + country;
+msg += " Population of " + country + " is " + population;
+
+let msg2 = population + count;
+
+// what is displayed in the console?
+console.log(msg);
+console.log(msg2);
+```
+
+
+In JavaScript the meaning of the `+` operator will depend on whether the values on either side of the operator are both numbers or not. If the `+` operator is being used on numbers, then it will perform **arithmetic addition**; if being used on a non-number, then it will perform **string concatenation** instead.
+
+In the example above, the first `console.log` will output `Paris is the capital of France Population of France is 67`, while the second console.log will output `69` (because both sides of the + operator are numbers).
+
+```javascript
+const country = "France";
+const city = "Paris";
+const population = 67;
+const count = 2;
+
+let msg = city + " is the capital of " + country;
+msg += " Population of " + country + " is " + population;
+
+let msg2 = population + count;
+
+// what is displayed in the console?
+console.log(msg);
+console.log(msg2);
+```
+
+Newer versions of JavaScript have added an alternative technique for concatenation, namely, **template literals**, which can be seen demonstrated below:
+
+```javascript
+const country = "France";
+const city = "Paris";
+let msg = `${city} is the capital of ${country}`;
+```
+
+Notice that the literal character in this example is the back-tick ` (located to the left of the 1 key on most North American keyboards). The key benefit of template literals is that you can include variable references within the literal, thereby avoiding using the concatenate operator.
