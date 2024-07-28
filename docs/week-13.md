@@ -53,6 +53,14 @@ As part of this lesson, we'll cover the baiscs of JavaScript and jQuery. JavaScr
 
 The videos below provide an overview of the topics for this week. You can watch the videos before or after reading the content for this week.
 
+- [What is JavaScript? [4:04]](https://youtu.be/eVVyXoBueb8?si=xuwgsZe1UaWzH-nk)
+- [Adding JavaScript to your Projec [7:49]](https://youtu.be/B_wvzmjWPoE?si=62iQOOB7zyIF2kt6)
+- [JavaScript Syntax and Comments [11:22]](https://youtu.be/y4tWF-wHMCE?si=wN2rftA23twbGpuB)
+- [How to Output JavaScript [11:03]](https://youtu.be/0xShDHwdpas?si=EGd9Yn2lmXKqJfV4)
+- [JavaScript Variables [11:19]](https://youtu.be/QYYyUjbLr5k?si=eKkcj1A_mvAMlG9B)
+- [JavaScript If else Statements [10:49]](https://youtu.be/oUjiIPOZxSk?si=vAp-U4skA422mVFP)
+- [Learn DOM Manipulation [18:36]](https://youtu.be/y17RuWkWdn8?si=UiOnx_TyCTt-L6Q2)
+- [Overview of JavaScript Events [15:11]](https://youtu.be/YiOlaiscqDY?si=APtfG7yJg9CqC5L9)
 
 ## JavaScript
 
