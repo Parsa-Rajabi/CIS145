@@ -271,16 +271,6 @@ Under each lab, you will find the list of Khan Academy modules that you need to 
 4. Getting started with jQuery
 5. Challenge: Your first jQuery
 
-<!-- **DOM access with jQuery**
-
-1. Finding elements with jQuery
-2. Challenge: Unicorn-ify a page with jQuery
-3. Getting info on elements with jQuery
-4. Challenge: Famous discoveries
-5. Review: DOM access with jQuery
-6. Project: DOM detective
-7. Histroy break: How did John build jQuery? -->
-
 
 # Assignment Schedule
 
