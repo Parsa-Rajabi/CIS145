@@ -16,6 +16,7 @@
 - [Assignments](assignments.md)
 - [Quizzes](quiz.md)
 - [Final Exam](final.md)
+- [Final Exam Practice](final-practice.md)
 - [Resources](resources.md)
 
 <!-- <form action="https://github.com/hibbitts-design/docsify-open-course-starter-kit/generate" target="_blank">

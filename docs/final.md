@@ -9,6 +9,9 @@
 **note: refer to [exam rules](#exam-rules) to understand what open-book means*
 - Generally, your instructor will not be able to answer questions during the exam - do your best with your best interpretation.
 
+## Practice
+Refer to the [Final Exam Practice](final-practice.md) page for resources to help you prepare for the final exam.
+
 ### Preparation: 
 - The exam will cover all concepts covered in the course. Make sure you review all the in-class exercises, labs and assignments.
 - Review the following videos to make sure you understand the submission process and sort out any issues with server connectivity:
