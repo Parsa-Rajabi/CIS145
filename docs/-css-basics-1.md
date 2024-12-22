@@ -5,9 +5,16 @@
 
 As part of this lesson, we'll start our journey into CSS (Cascading Style Sheets), a language used to style web pages. CSS allows you to control the layout, colors, fonts, and other visual aspects of your web pages.
 
+## Assigned Lab
+
+Complete the following modules on Khan Academy - for more details refer to the [lab page](labs.md).
+
+[L4](labs/L4.md ':include')
+
 ## Table of Contents
 
 - [CSS Basics 1](#css-basics-1)
+  - [Assigned Lab](#assigned-lab)
   - [Table of Contents](#table-of-contents)
   - [What is CSS?](#what-is-css)
   - [Benefits of CSS](#benefits-of-css)
@@ -29,9 +36,10 @@ As part of this lesson, we'll start our journey into CSS (Cascading Style Sheets
   - [CSS Text Styling](#css-text-styling)
     - [Font Family](#font-family)
     - [Font Size](#font-size)
-    - [Measurenment Units](#measurenment-units)
+    - [Measurement Units](#measurement-units)
     - [Font Weight](#font-weight)
     - [Font Style](#font-style)
+  - [CSS Text Properties](#css-text-properties)
   - [CSS Validation](#css-validation)
 
 
@@ -94,7 +102,7 @@ selector {
 
 ### CSS Syntax: Selectors
 
-Every CSS rule begins with a **selector**. The selector identifies which element or ele-ments in the HTML document will be affected by the declarations in the rule. Another way of thinking of selectors is that they are a pattern that is used by the browser to select the HTML elements that will receive the style. 
+Every CSS rule begins with a **selector**. The selector identifies which element or elements in the HTML document will be affected by the declarations in the rule. Another way of thinking of selectors is that they are a pattern that is used by the browser to select the HTML elements that will receive the style. 
 
 ![](images/content/W5/css-syntax-selectors.png)
 
@@ -108,9 +116,9 @@ Each individual CSS declaration must contain a **property**. These property name
 
 ### CSS Syntax: Values
 
-Each CSS declaration also contains a **value** for a property. The unit of any given value is dependent upon the property. Some property values are from a predefined list of keywords. Others are values such as length measurements, percentages, num-bers without units, color values, and URLs.
+Each CSS declaration also contains a **value** for a property. The unit of any given value is dependent upon the property. Some property values are from a predefined list of keywords. Others are values such as length measurements, percentages, numbers without units, color values, and URLs.
 
-Colours and specifying unit of measurement may seem at first glance to be the clearest of these units. But in reality, the concept of colour and measuremnets can be a complicated concept to describe. More on this later.
+Colours and specifying unit of measurement may seem at first glance to be the clearest of these units. But in reality, the concept of colour and measurements can be a complicated concept to describe. More on this later.
 
 ![](images/content/W5/css-syntax-values.png)
 
@@ -357,7 +365,7 @@ Fonts have various unique elements such as serifs, which are the small lines at 
 
 ![](images/content/W5/css-font-size.png)
 
-### Measurenment Units
+### Measurement Units
 
 Units of measure in CSS are either:
 - **relative units**, in that they are based on the value of something else, or
@@ -399,6 +407,18 @@ This makes the text within `<p>` elements "bolder", like emphasizing words in a 
 <iframe width="100%" height="300" src="//jsfiddle.net/parsar/1j4d3z0L/embedded/html,css,result/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
 This makes the text in all `<p>` elements italic, like *slanting text* for emphasis.
+
+## CSS Text Properties
+
+Similar to fonts, text properties can be set using CSS. Here are some common text properties:
+
+- [letter-spacing](https://www.w3schools.com/cssref/pr_text_letter-spacing.php)
+- [line-height](https://www.w3schools.com/cssref/pr_dim_line-height.php)
+- [text-align](https://www.w3schools.com/cssref/pr_text_text-align.php)
+- [text-decoration](https://www.w3schools.com/cssref/pr_text_text-decoration.php)
+- [text-indent](https://www.w3schools.com/cssref/pr_text_text-indent.php)
+
+<!-- TODO add more context -->
 
 ## CSS Validation
 

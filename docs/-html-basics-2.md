@@ -5,9 +5,16 @@
 
 For this week, we'll focus on how to manage files effectively, understand different graphics formats, and use anchor tags with images. These skills are essential for creating well-organized and visually appealing websites.
 
+## Assigned Lab
+
+Complete the following modules on Khan Academy - for more details refer to the [lab page](labs.md).
+
+[L3](labs/L3.md ':include')
+
 ## Table of Contents
 
 - [HTML Basics 2](#html-basics-2)
+  - [Assigned Lab](#assigned-lab)
   - [Table of Contents](#table-of-contents)
   - [File Management](#file-management)
     - [File Naming](#file-naming)
@@ -74,7 +81,7 @@ website-folder/
     └── CSS-Validation.pdf
 ```
 
-Here area 2 great resources for learning more about file management and pathing:
+Here area 2 great resources for learning more about file management and paths:
 - [https://learntheweb.courses/topics/paths-folders](https://learntheweb.courses/topics/paths-folders/).
 - [https://www.kirupa.com/html5/all_about_file_paths](https://www.kirupa.com/html5/all_about_file_paths.htm)
 

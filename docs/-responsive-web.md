@@ -4,10 +4,17 @@
 
 As part of this week's lesson, we will understand the importance of responsive web design and how to create a responsive web page using HTML and CSS techniques.
 
+## Assigned Lab
+
+Complete the following modules on Khan Academy - for more details refer to the [lab page](labs.md).
+
+[L7](labs/L7.md ':include')
+
 ## Table of Contents
 
 <!-- toc -->
 - [Responsive Web Design](#responsive-web-design)
+  - [Assigned Lab](#assigned-lab)
   - [Table of Contents](#table-of-contents)
   - [Responsiveness of Web Pages](#responsiveness-of-web-pages)
   - [Media Queries](#media-queries)
@@ -71,7 +78,7 @@ img {
 
 Of course this does not change the downloaded size of the image; it only shrinks or expands its visual display to fit the size of the containing parent element (or the browser window if no parent), never expanding beyond its actual dimensions. Students are often tempted to define a height, which usually changes the aspect ratio distorting the image. Using `height:auto`, though not necessary, satisfies the inclination to add height. 
 
-HTML5.1 defines the new `<picture>` element as an elegant way to do this task via markup. The `<picture>` element is a container that lets the designer specify multiple `<img>` elements; the browser will determine which `<img>` to use based on the viewport size. The diargram below outlines how the `<picture>` element can be used to serve an appropriate-sized image for different device sizes. Notice that each `<source>` child element uses a media query.
+HTML5.1 defines the new `<picture>` element as an elegant way to do this task via markup. The `<picture>` element is a container that lets the designer specify multiple `<img>` elements; the browser will determine which `<img>` to use based on the viewport size. The diagram below outlines how the `<picture>` element can be used to serve an appropriate-sized image for different device sizes. Notice that each `<source>` child element uses a media query.
 
 ![alt text](images/content/W11/responsive-images.png)
 

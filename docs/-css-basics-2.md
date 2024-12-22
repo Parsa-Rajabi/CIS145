@@ -2,9 +2,17 @@
 # CSS Basics 2
 
 As part of this lesson, we'll continue our lesson on CSS and discuss advance ways to apply CSS to our web pages.
+
+## Assigned Lab
+
+Complete the following modules on Khan Academy - for more details refer to the [lab page](labs.md).
+
+[L5](labs/L5.md ':include')
+
 ## Table of Contents
 
 - [CSS Basics 2](#css-basics-2)
+  - [Assigned Lab](#assigned-lab)
   - [Table of Contents](#table-of-contents)
   - [CSS Selectors](#css-selectors)
     - [Element selector](#element-selector)
@@ -25,7 +33,6 @@ As part of this lesson, we'll continue our lesson on CSS and discuss advance way
     - [CSS Border-style](#css-border-style)
     - [CSS Border-radius](#css-border-radius)
     - [Border Width Measurements](#border-width-measurements)
-  - [CSS Text Properties](#css-text-properties)
   - [CSS Opacity](#css-opacity)
 
 
@@ -297,19 +304,6 @@ Border radius can also have different values for each corner. Here is an example
 
 Border widths are perhaps the one exception to the general advice against using the pixel measure. Using em units or percentages for border widths can result in unpredictable widths as the different browsers use different algorithms (some round up, some round down) as the zoom level increases or decreases. For this reason, border widths are almost always set to pixel units.
 
-
-<!-- FUTURE TODO: Introduce this in earlier lessons -->
-## CSS Text Properties
-
-Similar to fonts, text properties can be set using CSS. Here are some common text properties:
-
-- [letter-spacing](https://www.w3schools.com/cssref/pr_text_letter-spacing.php)
-- [line-height](https://www.w3schools.com/cssref/pr_dim_line-height.php)
-- [text-align](https://www.w3schools.com/cssref/pr_text_text-align.php)
-- [text-decoration](https://www.w3schools.com/cssref/pr_text_text-decoration.php)
-- [text-indent](https://www.w3schools.com/cssref/pr_text_text-indent.php)
-
-<!-- TODO add more context -->
 
 ## CSS Opacity
 

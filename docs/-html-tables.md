@@ -3,9 +3,16 @@
 
 As part of this lesson, we'll continue our lesson on CSS and discuss advance ways to apply CSS to our web pages.
 
+## Assigned Lab
+
+Complete the following modules on Khan Academy - for more details refer to the [lab page](labs.md).
+
+[L8](labs/L8.md ':include')
+
 ## Table of Contents
 
 - [HTML Tables](#html-tables)
+  - [Assigned Lab](#assigned-lab)
   - [Table of Contents](#table-of-contents)
   - [Tables](#tables)
     - [Spanning Rows and Columns](#spanning-rows-and-columns)

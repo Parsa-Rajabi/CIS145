@@ -2,6 +2,7 @@
 # HTML Forms
 
 As part of this lesson, we'll continue our lesson on CSS and discuss advance ways to apply CSS to our web pages.
+
 ## Table of Contents
 
 - [HTML Forms](#html-forms)

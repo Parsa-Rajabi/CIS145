@@ -2,9 +2,17 @@
 
 As part of this section, we'll learn more about what HTML is and how to write our first Hello World program.
 
+## Assigned Lab
+
+Complete the following modules on Khan Academy - for more details refer to the [lab page](labs.md).
+
+[L1](labs/L1.md ':include')
+
+
 ## Table of Contents
 
 - [Introduction to HTML](#introduction-to-html)
+  - [Assigned Lab](#assigned-lab)
   - [Table of Contents](#table-of-contents)
   - [What is HTML?](#what-is-html)
   - [What is a Web Page?](#what-is-a-web-page)
@@ -113,7 +121,7 @@ The anatomy of our element is:
 
 ## Structure of HTML Document
 
-The following code illustrates one of the simpliest valid HTML5 document you can create:
+The following code illustrates one of the simplest valid HTML5 document you can create:
 
 ![](images/content/W2-2/html-structure.png)
 
@@ -187,7 +195,7 @@ Examples without (left) and with (right) viewport meta tag
 <meta name="author" content="James Bond">
 ```
 
-- Refresh document every `30 seconds` (this can be chagned to a different number):
+- Refresh document every `30 seconds` (this can be changed to a different number):
 ```html
 <meta http-equiv="refresh" content="30">
 ```
