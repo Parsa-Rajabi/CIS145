@@ -11,12 +11,8 @@
   - [W12: HTML Tables](week-12-1.md)
   - [W12: HTML Forms](week-12-2.md)
   - [W13: Intro to JS + DOM](week-13.md)
-- [Code Demo Files](https://github.com/Parsa-Rajabi/CIS145/tree/main/code-demo)
 - [Labs](labs.md)
 - [Assignments](assignments.md)
-- [Quizzes](quiz.md)
-- [Final Exam](final.md)
-- [Final Exam Practice](final-practice.md)
 - [Resources](resources.md)
 
 <!-- <form action="https://github.com/hibbitts-design/docsify-open-course-starter-kit/generate" target="_blank">
