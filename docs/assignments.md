@@ -10,14 +10,15 @@ Below are submissions instructions for all assignments in this course:
 
 1. Assignments should be completed via freeCodeCamp's website and a screenshot of all completed work should be submitted to Blackboard
 2. The screenshot of completed work should include:
-   1. **Your completed assignment:** Make sure ALL assigned components of the assignment are clearly visiable (you may take multiple screenshots if they do not fit) and have a checkmark or say "completed", indicating that they're completed.
+   1. **Your completed assignment:** Make sure ALL assigned components of the assignment are clearly visible (you may take multiple screenshots if they do not fit) and have a checkmark or say "completed", indicating that they're completed.
    2. **A note/word file with your identification information:**
       1. Assignment Name
       2. Your Full Name
       3. Your Student ID
       4. Current Date/Time (this must match your system's date/time)
 
-**Important:** Screenshot submissions without a note that includes the information above will recieve a 50% mark deduction. Failure to submit a screenshot to Blackboard will result in a mark of zero. No exceptions.
+> [!WARNING]
+> Screenshot submissions without a note that includes the information above will receive a 50% mark deduction. Failure to submit a screenshot to Blackboard will result in a mark of zero. No exceptions. Phone pictures will NOT be accepted and will result in a mark of zero.
 
 ### Example Screenshot
 
@@ -40,18 +41,20 @@ Here are the steps to submit your screenshot to Blackboard:
 4. Find the respective assignment
 5. Submit your screenshot before the deadline
 
-**Reminder:** All course elements (inlcuding but limited to) assignments, quizzes, weekly activities and exams are required to be submitted or completed by the specified due dates. Inability to adhere to these deadlines will lead to a score of zero, unless exceptional situations are considered on an individual basis, subject to the approval of the instructor and supported by legitimate documentation.
+> [!INFO]
+> **Reminder:** Labs and assignments can be submitted up to 24 hours after the due date with a `25% penalty`. After 24 hours, the submission will not be accepted and a score of zero will be recorded. 
 
 ### Assignment Auditing
 
-The instructor will audit the assignments to ensure that the work is original and completed by the student. The instructor will also verify that the assignment is completed according to the requirements. Students who submit work that is not their own will receive a mark of zero and will be reported to the academic integrity office. 
+> [!DANGER]
+> The instructor will audit the assignments to ensure that the work is original and completed by the student. The instructor will also verify that the assignment is completed according to the requirements. Students who submit work that is not their own will receive a mark of zero and will undergo the academic integrity process.
 
 ## Get Started - Create an Account
 
 In order to get access to the assignments, you will need to create an account on freeCodeCamp's platform. Follow the instructions below to sign up:
 
 - Go to [freeCodeCamp](https://www.freecodecamp.org/) and sign up for an account
-  - You must use your stuednt `@student.ufv.ca` email account to sign up
+  - You must use your student `@student.ufv.ca` email account to sign up
 - Once you have signed up, you can start working on the assignments by visiting the [Responsive Web Design page](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 
