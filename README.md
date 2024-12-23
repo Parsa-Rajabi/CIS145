@@ -2,7 +2,7 @@
 
 ## Links
 - [Syllabus](./syllabus.md)
-- [Course Schedule and Notes](./lecture-notes.md)
+- [Course Schedule and Notes](./home.md)
 - [Labs](./labs.md)
 - [Assignments](./assignments.md)
 
