@@ -98,10 +98,9 @@ ISBN: 9780135919941
 |              Item               | Weight |
 | :-----------------------------: | :----: |
 | Participation & Professionalism |   5%   |
-|          Learning Logs          |  10%   |
-|           Assignments           |  20%   |
+|           Assignments           |  25%   |
 |              Labs               |  10%   |
-|             Quiz #1             |  10%   |
+|             Quiz #1             |  15%   |
 |             Quiz #2             |  15%   |
 |         Final Component         |  30%   |
 
@@ -116,7 +115,7 @@ Students must attain an overall passing grade (50% or higher) on the weighted av
 
 ### Late Policy and Missed Items
 
-Labs, assignments and learning logs can be submitted up to 24 hours after the due date with a `25% penalty`. After 24 hours, the submission will not be accepted and a score of zero will be recorded. 
+Labs and assignments can be submitted up to 24 hours after the due date with a `25% penalty`. After 24 hours, the submission will not be accepted and a score of zero will be recorded. 
 
 Quizzes and exams are to be completed on the specified date and time. A `1 point penalty` will be applied for **every minute late**. Missed quizzes and exams will result in a score of zero.
 
