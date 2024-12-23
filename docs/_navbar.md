@@ -1,5 +1,5 @@
 - [Syllabus](syllabus.md)
-- [Course Schedule + Notes](lecture-notes.md)
+- [Course Schedule + Notes](home.md)
 - [Labs](labs.md)
 - [Assignments](assignments.md)
 - [Resources](resources.md)
