@@ -5,16 +5,11 @@
 
 As part of this lesson, we'll start our journey into CSS (Cascading Style Sheets), a language used to style web pages. CSS allows you to control the layout, colors, fonts, and other visual aspects of your web pages.
 
-## Assigned Lab
-
-Complete the following modules on Khan Academy - for more details refer to the [lab page](labs.md).
-
 [L4](labs/L4.md ':include')
 
 ## Table of Contents
 
 - [CSS Basics 1](#css-basics-1)
-  - [Assigned Lab](#assigned-lab)
   - [Table of Contents](#table-of-contents)
   - [What is CSS?](#what-is-css)
   - [Benefits of CSS](#benefits-of-css)

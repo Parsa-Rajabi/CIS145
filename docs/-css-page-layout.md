@@ -3,17 +3,12 @@
 
 As part of this week's content, we'll discuss different ways to layout a web page using CSS. We'll cover the following topics:
 
-## Assigned Lab
-
-Complete the following modules on Khan Academy - for more details refer to the [lab page](labs.md).
-
 [L6](labs/L6.md ':include')
 
 ## Table of Contents
 
 <!-- toc -->
 - [CSS Page Layout](#css-page-layout)
-  - [Assigned Lab](#assigned-lab)
   - [Table of Contents](#table-of-contents)
   - [Bookmarks](#bookmarks)
   - [Navigation](#navigation)

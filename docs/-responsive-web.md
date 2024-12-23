@@ -4,17 +4,12 @@
 
 As part of this week's lesson, we will understand the importance of responsive web design and how to create a responsive web page using HTML and CSS techniques.
 
-## Assigned Lab
-
-Complete the following modules on Khan Academy - for more details refer to the [lab page](labs.md).
-
 [L7](labs/L7.md ':include')
 
 ## Table of Contents
 
 <!-- toc -->
 - [Responsive Web Design](#responsive-web-design)
-  - [Assigned Lab](#assigned-lab)
   - [Table of Contents](#table-of-contents)
   - [Responsiveness of Web Pages](#responsiveness-of-web-pages)
   - [Media Queries](#media-queries)
@@ -23,7 +18,7 @@ Complete the following modules on Khan Academy - for more details refer to the [
   - [Flexbox Layout](#flexbox-layout)
     - [Flex Containers and Items](#flex-containers-and-items)
     - [Flexbox Properties](#flexbox-properties)
-    - [Usecases for Flexbox](#usecases-for-flexbox)
+    - [Use cases for Flexbox](#use-cases-for-flexbox)
   - [Grid Layout](#grid-layout)
     - [Grid Structure](#grid-structure)
     - [Grid Placement](#grid-placement)
@@ -140,7 +135,7 @@ The `flex-wrap` property configures whether flex items are displayed on multiple
 The `justify-content` property configures how the browser should display any extra space that may exist in the flex container. The value center will center the flex items with equal amounts of empty space before and after. The value space between evenly distributes the flex items and allocates empty space between them.
 
 
-### Usecases for Flexbox
+### Use cases for Flexbox
 
 Aligning an item horizontally and vertically within a container has always been a tricky problem with CSS; flexbox makes this process much easier. This example illustrates how to center a child within a parent container using flexbox. It also illustrates that flexbox works from the content out. That is, with flexbox, the content decides how much space it needs and its parent decides how to fit it based on space available on that line (or column):
 

@@ -2,17 +2,11 @@
 
 As part of this section, we'll learn more HTML tags and how we can apply them to our websites.
 
-## Assigned Lab
-
-Complete the following modules on Khan Academy - for more details refer to the [lab page](labs.md).
-
 [L2](labs/L2.md ':include')
-
 
 ## Table of Contents
 
 - [HTML Basics 1](#html-basics-1)
-  - [Assigned Lab](#assigned-lab)
   - [Table of Contents](#table-of-contents)
   - [Phrase Elements](#phrase-elements)
     - [Nesting Elements](#nesting-elements)

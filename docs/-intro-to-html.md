@@ -2,17 +2,11 @@
 
 As part of this section, we'll learn more about what HTML is and how to write our first Hello World program.
 
-## Assigned Lab
-
-Complete the following modules on Khan Academy - for more details refer to the [lab page](labs.md).
-
 [L1](labs/L1.md ':include')
-
 
 ## Table of Contents
 
 - [Introduction to HTML](#introduction-to-html)
-  - [Assigned Lab](#assigned-lab)
   - [Table of Contents](#table-of-contents)
   - [What is HTML?](#what-is-html)
   - [What is a Web Page?](#what-is-a-web-page)

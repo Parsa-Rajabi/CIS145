@@ -3,16 +3,12 @@
 
 As part of this lesson, we'll continue our lesson on CSS and discuss advance ways to apply CSS to our web pages.
 
-## Assigned Lab
-
-Complete the following modules on Khan Academy - for more details refer to the [lab page](labs.md).
-
 [L5](labs/L5.md ':include')
 
 ## Table of Contents
 
 - [CSS Basics 2](#css-basics-2)
-  - [Assigned Lab](#assigned-lab)
+  - [](#assigned-lab)
   - [Table of Contents](#table-of-contents)
   - [CSS Selectors](#css-selectors)
     - [Element selector](#element-selector)

@@ -3,6 +3,8 @@
 
 As part of this lesson, we'll cover the basics of JavaScript and jQuery. JavaScript is a programming language that is used to create interactive effects within web browsers. jQuery is a JavaScript library that simplifies the process of writing JavaScript code.
 
+[L9](labs/L9.md ':include')
+
 ## Table of Contents
 
 - [Intro to JavaScript](#intro-to-javascript)
