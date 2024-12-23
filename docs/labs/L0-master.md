@@ -57,15 +57,15 @@ Under each lab, you will find the list of Khan Academy modules that you need to 
 
 **Intro to CSS**
 
-1. CSS Basics
-2. Quick tip: Selecting by tag name
-3. Challenge: Colorful creature
-4. CSS: Selecting by id
-5. Challenge: Seasonal ids
-6. CSS: Selecting by class
-7.  Challenge: Apples and bananas classes
-8.  Using simple CSS selectors
-9.  Project: Travel webpage
+4. CSS Basics
+5. Quick tip: Selecting by tag name
+6. Challenge: Colorful creature
+7. CSS: Selecting by id
+8. Challenge: Seasonal ids
+9. CSS: Selecting by class
+10.  Challenge: Apples and bananas classes
+11.  Using simple CSS selectors
+12.  Project: Travel webpage
 
 **Other ways to embed CSS**
 
@@ -137,9 +137,9 @@ Under each lab, you will find the list of Khan Academy modules that you need to 
 <!-- Responsive Web Design -->
 ## Lab 7
 
-<!-- TODO; frog flexbox game -->
-
-<!-- FUTURE TODO: Add Lab on HTML Forms (currently missing) -->
+1. [Flexbox Froggy](https://codepip.com/games/flexbox-froggy/) - [24 Steps]
+2. [Grid Garden](https://codepip.com/games/grid-garden/) - [28 Steps]
+<!-- FUTURE TODO: Add Lab on HTML Forms (currently missing in labs but exists in A4),  -->
 
 <!-- HTML Tables + Intro to JS -->
 ## Lab 8
