@@ -5,6 +5,9 @@ All course slides are password protected. Visit course info page (on left naviga
 
 *Note: The course schedule is subject to change. Please check back regularly for updates.*
 
+> [!WARNING]
+> The days marked as "Asynchronous" are online learning days. You are expected to complete the assigned tasks on your own time (there will be no Zoom class on those days). 
+
 
 | **Week** | **Date** |        **Modality**         |                  **Topic**                  | **Slides** |            **Lab**            |          **Assignment**          |
 | :------: | :------: | :-------------------------: | :-----------------------------------------: | :--------: | :---------------------------: | :------------------------------: |

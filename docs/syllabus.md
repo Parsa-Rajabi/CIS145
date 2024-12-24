@@ -23,7 +23,7 @@
 
 Note: When emailing, please include the following in your email:
 
-- Subject: `[CIS 145 - ON2 - Your Subject`
+- Subject: `[CIS 145 ON2 - Your Subject`
 - In the body, include your full name, student ID, and your inquiry.
 
 ### Professionalism 
