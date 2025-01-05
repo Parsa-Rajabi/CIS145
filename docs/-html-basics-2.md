@@ -80,8 +80,8 @@ Here area 2 great resources for learning more about file management and paths:
 - [https://learntheweb.courses/topics/paths-folders](https://learntheweb.courses/topics/paths-folders/).
 - [https://www.kirupa.com/html5/all_about_file_paths](https://www.kirupa.com/html5/all_about_file_paths.htm)
 
-> [!ATTENTION|iconVisibility:hidden]
-> For your quizzes, you'll be required to submit a zip file containing your HTML, CSS, and Image files. Make sure to organize your files properly before submission.
+<!-- > [!ATTENTION|iconVisibility:hidden]
+> For your quizzes, you'll be required to submit a zip file containing your HTML, CSS, and Image files. Make sure to organize your files properly before submission. -->
 
 This structure helps in logically separating HTML, CSS, Images, and Report files, making it easier to find and update them.
 
