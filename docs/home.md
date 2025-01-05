@@ -33,5 +33,5 @@ All course slides are password protected. Visit course info page (on left naviga
 
 All deadlines are at 11:59pm PST. Click on the Lab/Assignment link to view the details.
 
-> [!TIP]
+> [!INFO]
 > Labs and assignments can be submitted up to 24 hours after the due date with a `25% penalty`. After 24 hours, the submission will not be accepted and a score of zero will be recorded. 
