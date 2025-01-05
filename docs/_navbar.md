@@ -3,6 +3,7 @@
 - [Labs](labs.md)
 - [Assignments](assignments.md)
 - [Resources](resources.md)
+- [Feedback](feedback.md)
 <!-- * [Schedule](schedule.md)
 * [Topics](topics.md)
 * [Resources](resources.md)
