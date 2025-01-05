@@ -7,7 +7,7 @@
 ---
 **Spring 2025**
 
-**Section ON2 [CRN #]**
+**Section ON2 [CRN 10396]**
 - Wednesdays 16:00-18:50 - via Zoom (link via "course info" page on Blackboard)
 
 ---
@@ -17,22 +17,20 @@
 
 **Email:** parsa.rajabi `[at]` ufv `[dot]` ca
 
-**Office Hours:** Thursdays, 14:30-15:30, Building C, Room 2456 (Abbotsford Campus) + via Zoom
-
-Zoom appointments can be made by email request (a minimum of 24 hours in advance). Request for appointments with less than 24 hours notice may not be accommodated.
+**Office Hours:** TBA
 
 **All inquiries should be sent to the instructor via email. Blackboard Messages are NOT monitored/answered**
 
 Note: When emailing, please include the following in your email:
 
-- Subject: `[CIS 145 - ON2 - Your Subject`
+- Subject: `[CIS 145 ON2 - Your Subject`
 - In the body, include your full name, student ID, and your inquiry.
 
 ### Professionalism 
 
-Students are expected to maintain a high level of professionalism in all course activities and communication with the instructor and peers. This includes proper email etiquette, respectful communication in class, and adherence to deadlines. Before sending an email, please ensure that you have included a subject line, a greeting, a clear message, and a closing. Using AI/ChatGPT to generate emails is not recommended and such emails will be returned for revision.
+Students are expected to maintain a high level of professionalism in all course activities, communication with the instructor and peers, as well as timely responses to instructor emails (e.g. within 2 business days). This includes proper email etiquette, respectful communication in class, and adherence to deadlines. Before sending an email, please ensure that you have included a subject line, a greeting, a clear message, **your full name/student ID#** and a closing. Using AI/ChatGPT to generate emails is **not recommended** and **such emails will be returned for revision**.
 
-Before sending an email, make sure to review this article on [How to email your profs effectively](https://students.ubc.ca/ubclife/inbox-1-email-profs-effectively) for tips on how to effectively communicate with your instructor. Emails that do not follow these guidelines will be returned to the sender for revision.
+Before sending an email, make sure to review this article on [How to email your profs effectively](https://students.ubc.ca/ubclife/inbox-1-email-profs-effectively) for tips on how to effectively communicate with your instructor. **Emails that do not follow these guidelines will be returned to the sender for revision.**
 
 Repeated unprofessional behavior will result in grade deduction from your final grade, with each violation resulting in a 1% deduction. Students will be notified of possible deductions after the first warning.
 
@@ -42,15 +40,15 @@ Repeated unprofessional behavior will result in grade deduction from your final 
 
 **Email:** diana.emal [at] student.ufv [dot] ca
 
-### Weekly Labs/Readings (Flipped Classroom) 
+### Weekly Modules (Flipped Classroom) 
 
-This course will be taught using a pedagogical technique known as the Flipped/Hybrid classroom.  This approach makes the most of our precious class time by eliminating the standard lecturing model, where course material is introduced to the students during class, usually via a lengthy PowerPoint presentation.  In our Flipped/Hybrid classroom, you will come to class having already completed several module tests (and videos) where you will be introduced to the course material.  During class, you will apply your understanding of these core concepts through carefully-chosen problems and activities, which will enable you to solidify your knowledge.  
+This course will be taught using a pedagogical technique known as the [Flipped/Hybrid classroom](https://bokcenter.harvard.edu/flipped-classrooms).  This approach makes the most of our precious class time by eliminating the standard lecturing model, where course material is introduced to the students during class, usually via a lengthy PowerPoint presentation.  In our Flipped/Hybrid classroom, you will come to class having already completed several pre-assigned material (and videos) where you will be introduced to the course material.  During class, you will apply your understanding of these core concepts through carefully-chosen problems and activities, which will enable you to solidify your knowledge.  
 
-Flipped/Hybrid classrooms require much more focus and preparation time, for both the instructor and the students.  After all, it is much easier for the instructor to read a set of pre-prepared slides and for the students to passively observe and listen.  But in our class, we will devote our class time to the computational thinking process: resolving obstacles, developing conceptual understanding, communicating solutions supported by evidence, and creating efficient algorithms that solve our problem.  Through this process, you will better develop your confidence, creativity, and critical-thinking skills, preparing you to become a successful problem-solver in the real world.
+Flipped/Hybrid classrooms require much more focus and preparation time, for both the instructor and the students.  After all, it is much easier for the instructor to read a set of pre-prepared slides and for the students to passively observe and listen.  But in our class, we will devote our class time to the computational thinking process: resolving obstacles, developing conceptual understanding and communicating solutions supported by evidence. Through this process, you will better develop your confidence, creativity, and critical-thinking skills (i.e. Computational Thinking), preparing you to become a successful problem-solver in the real world.
 
-In order for this course to be a meaningful learning experience, you will need to come to each class well-prepared, with all assigned modules and videos complete.  This emphasis on pre-class work is the reason why our class meets every other week. If you do not complete the pre-class work, you will have a hard time following the in-class activities, which will make it that much harder for you to successfully complete the course deliverables.
+In order for this course to be a meaningful learning experience, you will need to come to each class well-prepared, with all assigned modules and videos complete. This emphasis on assigned labs/assignments is the reason why the course is structured as it is. If you do not complete the modules, you will have a hard time following the in-class activities, which will make it that much harder for you to successfully complete the course deliverables.
 
-I have designed this course so that you will be spending approximately 9 to 12 hours per week on all activities relating to this course (i.e., pre-class work, attending class, all assessments).
+I have designed this course so that you will be spending approximately 9 to 12 hours per week on all activities relating to this course (i.e., labs, assignments, attending class, all assessments).
 
 ## Classroom Etiquette
 
@@ -99,26 +97,25 @@ ISBN: 9780135919941
 
 |              Item               | Weight |
 | :-----------------------------: | :----: |
-| Participation & Professionalism |   7%   |
-|          Learning Logs          |   8%   |
-|           Assignments           |  15%   |
+| Participation & Professionalism |   5%   |
+|           Assignments           |  25%   |
 |              Labs               |  10%   |
-|             Quiz #1             |  10%   |
+|             Quiz #1             |  15%   |
 |             Quiz #2             |  15%   |
-|         Final Component         |  35%   |
+|         Final Component         |  30%   |
 
 ### Letter Grade Conversion
 ![](images/grade_letters.png)
 
 ## Passing Criteria
 
-Students must attain an overall passing grade (50% or higher) on the weighted average of quizzes and exams in the course in order to obtain a clear pass (C- or better).
+Students must attain an overall passing grade (50% or higher) on the weighted average of quizzes and final component in the course in order to obtain a clear pass (C- or better).
 
 ## Course and Policies
 
 ### Late Policy and Missed Items
 
-Labs, assignments and learning logs can be submitted up to 24 hours after the due date with a `25% penalty`. After 24 hours, the submission will not be accepted and a score of zero will be recorded. 
+Labs and assignments can be submitted up to 24 hours after the due date with a `25% penalty`. After 24 hours, the submission will not be accepted and a score of zero will be recorded. 
 
 Quizzes and exams are to be completed on the specified date and time. A `1 point penalty` will be applied for **every minute late**. Missed quizzes and exams will result in a score of zero.
 
@@ -132,15 +129,16 @@ In all cases, exceptional situations are considered on an individual basis, subj
 
 If you feel a course item has been significantly incorrectly assessed you may request a re-marking. However, before you do make such request, please follow the steps below:
 
-1. Review the marking rubric and ensure you understand the marking scheme.
-2. Review the marking comments and ensure you understand the feedback.
-3. If you still feel the marking is incorrect, you may request a re-marking.
+1. Review the marking comments and ensure you understand the feedback.
+2. If you still feel the marking is incorrect, you may request a re-marking.
 
 #### Request a Remarking
 
-Requests must include a written case for the re-marking and be submitted to the course instructor within 5 business days from receiving the mark (unless specified otherwise).
+Requests must include a written letter for the re-marking and be submitted to the course instructor within 5 business days from receiving the mark or a deadline specified by the TA/instructor, whichever comes first. The request must be signed and submitted via email.
 
-The item will be re-marked in their entirety and may result in a higher, unchanged, or lower mark overall which will be final. You should exercise caution in submitting a remark request purely on the hope of getting a minor grade bump as this often does not work out the way a student hopes for.
+Course grades are considered final on a rolling basis (e.g. as we progress through the semester). After the regrading request deadline (e.g., 5 business days or deadline set by instructor), grades will be considered final and no further requests will be accepted. Students are encouraged to review their grades and ask questions within the specified time frame. Inquiries after the deadline will not be considered under any circumstances, especially if the student has not reviewed their grades in a timely manner or has not informed the instructor of any issues within the specified time frame.
+
+The re-marking request will be reviewed by the instructor and if the request is accepted, the item will be re-marked in its entirety. This may result in a higher, unchanged, or lower mark overall which will be final. Students should exercise caution in submitting a remark request purely on the hope of getting a minor grade bump as this often does not work out the way one hopes for.
 
 ### Academic Integrity
 
@@ -150,23 +148,27 @@ Academic Integrity is important to me and I know it is to most students. Cheatin
 
 This refers to passing off the work of another as your own. Make sure to cite all your sources if you incorporate the words or ideas of another person. This includes sources from books, journals, the internet, emails, live presentations (e.g. speeches) and even relevant conversations with other people. You can avoid plagiarism by appropriate citation and referencing in your papers, projects and presentations.
 
+#### Unauthorized Sharing of Computers 
+
+Students are also prohibited from sharing computers or using another student’s computer to complete assignments. This includes sharing code, files, or any other content that is to be submitted for grading. Students who have difficulty with their computer (e.g. hardware or software failure) should contact the instructor immediately for assistance. 
+
 #### Inappropriate use of technology in coursework
 
-The use of technology to produce content for your assignments that is not specifically listed in the syllabus as permissible is strictly prohibited. All submissions for grading must be your own work. This specifically includes a prohibition on artificial intelligence writing software such as ChatGPT and translation software as it will interfere with the learning objectives outlined for this course.
+The use of technology to produce content for your assignments that is not specifically listed in the syllabus as permissible is strictly prohibited. **All submissions for grading must be your own work.** This specifically includes a prohibition on artificial intelligence writing software such as ChatGPT and translation software as it will interfere with the learning objectives outlined for this course.
 
 #### Collusion / Unauthorized Collaboration
 
 You are expected to complete all assignments for this course on your own. When assigned individual work, it is unfair to collaborate and gain an unfair advantage over your classmates who complete their work on their own. Collusion includes sharing homework, quiz or test questions and answers with other students. Examples of collusion:
 
 - Working on answers with a friend for a homework assignment or during an open book exam
-- Using “tutoring websites” (e.g. Chegg.com, CourseHero) to find answers to assignment/ exam questions
+- Using “tutoring websites” (e.g. Chegg, CourseHero) to find answers to assignment/ exam questions
 - Assisting others to cheat by answering questions that are posted to a FB/ WhatsApp group
 - Falsifying/ fabricating information
 
 **Do not misrepresent yourself or your work.** The following are examples of prohibited behavior:
 
 - Making up sources or facts
-- Misrepresenting your identity by asking someone else to complete any portion of a course (i.e. make comment on a discussion board, i-clicker quiz, exam)
+- Misrepresenting your identity by asking someone else to complete any portion of a course (i.e. make comment on a discussion board, quiz, exam)
 - Falsifying or altering any documentation required by the University, including (but not limited to) doctors note’s in order to gain an academic advantage
 
 #### Unauthorized use of note-sharing websites
@@ -180,7 +182,7 @@ Note sharing sites expect their users to comply with the Honour Code of their or
 If you plan to use a tutor/editor, be aware that any work that you submit must always be your own. An ethical tutor will always focus on explaining concepts so that you can become an independent learner. You are violating the student academic integrity policy if:
 
 - A private tutoring company coaches you on how to complete an assignment
-- You buy / sell/ swap assignment questions and answers on social media platforms like WeChat, Whatsapp, Facebook, etc.
+- You buy / sell / swap assignment questions and answers on social media platforms like WeChat, Whatsapp, Facebook, etc.
 - Your use an editor (paid or unpaid) without permission of the instructor to revise, correct or alter your work
 
 ## First Class Attendance
