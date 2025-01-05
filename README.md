@@ -1,10 +1,10 @@
 # CIS 145 - Web Publishing
 
 ## Links
-- [Syllabus](./syllabus.md)
-- [Course Schedule and Notes](./home.md)
-- [Labs](./labs.md)
-- [Assignments](./assignments.md)
+- [Syllabus](./docs/syllabus.md)
+- [Course Schedule and Notes](./docs/home.md)
+- [Labs](./docs/labs.md)
+- [Assignments](./docs/assignments.md)
 
 ## Course Description
 
