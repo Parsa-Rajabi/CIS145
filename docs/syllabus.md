@@ -30,7 +30,7 @@ Note: When emailing, please include the following in your email:
 
 Students are expected to maintain a high level of professionalism in all course activities, communication with the instructor and peers, as well as timely responses to instructor emails (e.g. within 2 business days). This includes proper email etiquette, respectful communication in class, and adherence to deadlines. Before sending an email, please ensure that you have included a subject line, a greeting, a clear message, **your full name/student ID#** and a closing. Using AI/ChatGPT to generate emails is **not recommended** and **such emails will be returned for revision**.
 
-Before sending an email, make sure to review this article on [How to email your profs effectively](https://students.ubc.ca/ubclife/inbox-1-email-profs-effectively) for tips on how to effectively communicate with your instructor. **Emails that do not follow these guidelines will be returned to the sender for revision.**
+Before sending an email, make sure to review this article on [email etiquette](email-etiquette.md) and/or [How To Email Your Professor](https://personal.math.ubc.ca/~ilaba/teaching/email.html) for tips on how to effectively communicate with your instructor. **Emails that do not follow these guidelines will be returned to the sender for revision.**
 
 Repeated unprofessional behavior will result in grade deduction from your final grade, with each violation resulting in a 1% deduction. Students will be notified of possible deductions after the first warning.
 
