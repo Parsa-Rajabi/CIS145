@@ -14,6 +14,7 @@
   - [Intro to DOM](-intro-to-dom.md)
 - [Labs](labs.md)
 - [Assignments](assignments.md)
+- [Class Demos](../code-demo/)
 - [Resources](resources.md)
 - [Feedback](feedback.md)
 <!-- <form action="https://github.com/hibbitts-design/docsify-open-course-starter-kit/generate" target="_blank">

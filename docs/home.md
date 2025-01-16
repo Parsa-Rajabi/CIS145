@@ -8,6 +8,9 @@ All course slides are password protected. Visit course info page (on left naviga
 > [!WARNING]
 > The days marked as "Asynchronous" are online learning days. You are expected to complete the assigned tasks on your own time (there will be no Zoom class on those days). 
 
+> [!NOTE]
+> The source code for all in-class demos can be found on [this page](../code-demo/).
+
 
 > [!TIP]
 > Completing the pre-class readings is an essential part of your learning process. The first 30 minutes of each live class will be dedicated to giving you time to independently review the pre-class materials and ensure you are fully prepared for the live session. This 30 minutes is not meant for reading the material for the first time, so please complete the pre-readings beforehand.
