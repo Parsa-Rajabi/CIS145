@@ -8,7 +8,6 @@ As part of this lesson, we'll continue our lesson on CSS and discuss advance way
 ## Table of Contents
 
 - [CSS Basics 2](#css-basics-2)
-  - [](#assigned-lab)
   - [Table of Contents](#table-of-contents)
   - [CSS Selectors](#css-selectors)
     - [Element selector](#element-selector)
@@ -217,7 +216,7 @@ body  {
 }
 ```
 
-<iframe width="100%" height="300" src="//jsfiddle.net/parsar/65byn3dx/11/embedded/html,css,result/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+<iframe width="100%" height="300" src="//jsfiddle.net/parsar/hwg1pv25/embedded/html,css,result/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
 
 ![alt text](images/content/W7/css-background-repeat.png)
