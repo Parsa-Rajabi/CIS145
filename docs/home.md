@@ -25,7 +25,7 @@ All course slides are password protected. Visit course info page (on left naviga
 |    6     |  Feb 12  |    Live Quiz [4-6:50pm]     |             Quiz #1 (tentative)             |            |                               |                                  |
 |    7     |  Feb 19  |          No Class           |                Reading Break                |     -      |                               |                                  |
 |    8     |  Feb 26  | Asynchronous [Drop-in Help] |      [CSS Basics 2](-css-basics-2.md)       |  [Slides]  | [Lab 5](labs/L5.md) (Feb 25)  |                                  |
-|    9     |  Mar 5   | Asynchronous [Drop-in Help] |   [CSS Page Layout](-css-page-layout.md)    |     -      |  [Lab 6](labs/L6.md) (Mar 4)  | [A3](assignments/A3.md) (Mar 6)  |
+|    9     |  Mar 5   | Live - start @ 4:30pm |   [CSS Page Layout](-css-page-layout.md)    |     -      |  [Lab 6](labs/L6.md) (Mar 4)  | [A3](assignments/A3.md) (Mar 6)  |
 |    10    |  Mar 12  |    Live - start @ 4:30pm    |    [HTML Tables + Forms](-html-forms.md)    |  [Slides]  | [Lab 7](labs/L7.md) (Mar 11)  |                                  |
 |    11    |  Mar 19  | Asynchronous [Drop-in Help] | [CSS Responsive Layout](-responsive-web.md) |     -      | [Lab 8](labs/L8.md) (Mar 18)  | [A4](assignments/A4.md) (Mar 20) |
 |    12    |  Mar 26  |    Live Quiz [4-6:50pm]     |            Quiz #2  (tentative)             |            |                               |                                  |
