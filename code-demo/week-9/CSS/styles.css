@@ -54,8 +54,8 @@ nav a:hover {
 }
 
 ol {
-    border: 3px solid brown;
-    box-shadow: 5px 15px brown;
+    border: 3px solid green;
+    box-shadow: -5px 15px brown;
     overflow: auto;
     height: 100px;
 }
@@ -69,7 +69,7 @@ ol {
     display: inline-block;
     border: 3px dotted purple;
     padding: 20px;
-    /* margin: 30px; */
+    margin: 30px;
 }
 
 #optional-ingredients {
