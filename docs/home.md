@@ -30,7 +30,7 @@ All course slides are password protected. Visit course info page (on left naviga
 |    11    |  Mar 19  | Asynchronous [Drop-in Help] | [CSS Responsive Layout](-responsive-web.md) |     -      | [Lab 8](labs/L8.md) (Mar 18)  | [A4](assignments/A4.md) (Mar 20) |
 |    12    |  Mar 26  |    Live Quiz [4-6:50pm]     |            Quiz #2             |            |                               |                                  |
 |    13    |  Apr 2   | Asynchronous [Drop-in Help] |   [Intro to JavaScript](-intro-to-js.md)    |     -      |  [Lab 9](labs/L9.md) (Apr 1)  | [A5](assignments/A5.md) (Apr 3)  |
-|    14    |  Apr 9   |    Live - start @ 4:30pm    |      [Intro to DOM](-intro-to-dom.md)       |  [Slides]  | [Lab 10](labs/L10.md) (Apr 8) |                                  |
+|    14    |  Apr 9   |    Live - start @ 4:30pm    |      [Intro to DOM](-intro-to-dom.md)       |  [Slides](http://tiny.cc/145-SP25-W14)  | [Lab 10](labs/L10.md) (Apr 8) |                                  |
 
 ## Assignment and Lab Schedule
 
