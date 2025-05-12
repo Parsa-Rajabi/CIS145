@@ -1,15 +1,18 @@
-|      Lab #      | Deadline |
-| :-------------: | :------: |
-| [Lab 1](#lab-1) |  May 23  |
-| [Lab 2](#lab-2) |  May 30  |
-| [Lab 3](#lab-3) |  June 6  |
-|     No Lab      | June 13  |
-| [Lab 4](#lab-4) | June 20  |
-| [Lab 5](#lab-5) | June 27  |
-| [Lab 6](#lab-6) |  July 4  |
-|     No Lab      | July 11  |
-| [Lab 7](#lab-7) | July 25  |
-| [Lab 8](#lab-8) | Aug 1  |
+|       Lab #       |            Topic             | Summer - Release | Summer - Due | Spring - Released | Spring Due |
+| :---------------: | :--------------------------: | :--------------: | :----------: | :---------------: | :--------: |
+|  [Lab 1](#lab-1)  |        Intro to HTML         |                  |    May 23    |      Initial      |   Jan 14   |
+|  [Lab 2](#lab-2)  |        HTML Basics 1         |                  |    May 30    |       Jan 8       |   Jan 21   |
+|  [Lab 3](#lab-3)  | HTML Basics 2 + CSS Basics 1 |                  |    June 6    |      Jan 15       |   Jan 28   |
+|      No Lab       |                              |                  |   June 13    |                   |            |
+|  [Lab 4](#lab-4)  |         CSS Basic 1          |                  |   June 20    |      Jan 22       |   Feb 4    |
+|  [Lab 5](#lab-5)  |         CSS Basic 2          |                  |    une 27    |       Feb 5       |   Feb 25   |
+|  [Lab 6](#lab-6)  |       CSS Page Layout        |                  |    July 4    |      Feb 12       |   Mar 4    |
+|      No Lab       |                              |                  |   July 11    |      Feb 26       |   Mar 11   |
+|  [Lab 7](#lab-7)  |    Responsive Web Design     |                  |   July 25    |                   |            |
+|  [Lab 8](#lab-8)  |  HTML Tables + Intro to JS   |                  |    Aug 1     |       Mar 5       |   Mar 18   |
+|  [Lab 9](#lab-9)  |         Intro to JS          |                  |    Aug 8     |      Mar 12       |   Apr 1    |
+| [Lab 10](#lab-10) |         Intro to DOM         |                  |    Aug 15    |      Mar 19       |   Apr 8    |
+
 
 
 Under each lab, you will find the list of Khan Academy modules that you need to complete for that lab. The headings are the titles of the modules and the subheadings are the individual exercises within each module.
