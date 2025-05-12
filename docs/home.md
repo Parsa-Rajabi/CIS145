@@ -18,7 +18,7 @@ All course slides are password protected. Visit course info page (on left naviga
 | **Week** | **Date** |        **Modality**         |                                 **Topic**                                 | **Slides** |            **Lab**            |          **Assignment**           |
 | :------: | :------: | :-------------------------: | :-----------------------------------------------------------------------: | :--------: | :---------------------------: | :-------------------------------: |
 |    1     |  May 12  |         Live [Zoom]         |                Syllabus + [Intro to WWW](-intro-to-www.md)                |  [Slides]  | [Lab 1](labs/L1.md) (May 15)  |                                   |
-|    2     |  May 19  |              -              |                         Holiday; Class Cancelled                          |     -      | [Lab 2](labs/L2.md) (May 22)  |                                   |
+|    2     |  May 19  |              -              |              Holiday; Class Cancelled - Quiz #0 due (May 20)              |     -      | [Lab 2](labs/L2.md) (May 22)  |                                   |
 |    3     |  May 26  |         Live [Zoom]         |  [Intro to HTML](-intro-to-html.md) + [HTML Basics 1](-html-basics-1.md)  |  [Slides]  | [Lab 3](labs/L3.md) (May 29)  |                                   |
 |    4     |  Jun 2   | Asynchronous [Drop-in Help] |                    [HTML Basics 2](-html-basics-2.md)                     |     -      |                               | [A1](assignments/A1.md) (June 3)  |
 |    5     |  Jun 9   |            Quiz             |                            Quiz #1 (tentative)                            |     -      | [Lab 4](labs/L4.md) (June 12) |                                   |
