@@ -5,10 +5,10 @@
 **CIS 145: Web Publishing (3)**
 
 ---
-**Spring 2025**
+**Summer 2025**
 
-**Section ON2 [CRN 10396]**
-- Wednesdays 16:00-18:50 - via Zoom (link via "course info" page on Blackboard)
+**Section ON1 [CRN 50034]**
+- Mondays 8:30-11:20am PST - via Zoom (link via "course info" page on D2L Brightspace)
 
 ---
 ## Course Instructor
@@ -17,13 +17,15 @@
 
 **Email:** parsa.rajabi `[at]` ufv `[dot]` ca
 
-**Office Hours:** TBA
+**Office Hours:** Immediately after lecture via Zoom or by appointment
 
-**All inquiries should be sent to the instructor via email. Blackboard Messages are NOT monitored/answered**
+Zoom appointments can be made by email request (a minimum of 24 hours in advance). Request for appointments with less than 24 hours notice may not be accommodated. 
+
+**All inquiries should be sent to the instructor via email. D2L Brightspace messages are NOT monitored/answered**
 
 Note: When emailing, please include the following in your email:
 
-- Subject: `[CIS 145 ON2 - Your Subject`
+- Subject: `[CIS 145 ON1 - Your Subject`
 - In the body, include your full name, student ID, and your inquiry.
 
 ### Professionalism 
@@ -125,10 +127,10 @@ Students must attain an overall passing grade (50% or higher) on the weighted av
 
 Labs and assignments can be submitted up to 24 hours after the due date with a `25% penalty`. After 24 hours, the submission will not be accepted and a score of zero will be recorded. 
 
-Quizzes and exams are to be completed on the specified date and time. A `1 point penalty` will be applied for **every minute late**. Missed quizzes and exams will result in a score of zero.
+Quizzes and exams are to be completed on the specified date and time. No late submission will be accepted, no exception.
 
-Make-up assessments (including assignments, exams and quizzes) will not be given. Sometimes life gets in the way of schedules. Sickness or other unplanned or extraordinary events happen and will be dealt with individually. It is your responsibility to ensure your situation is known to the instructor as soon as reasonably possible. You are accountable for being heard, which means you need to ensure that the instructor heard you.
- 
+Make-up assessments (including assignments, exams and quizzes) will not be given and a score of zero will be recorded. Sometimes life gets in the way of schedules. Sickness or other unplanned or extraordinary events happen and will be dealt with individually. It is your responsibility to ensure your situation is known to the instructor as soon as reasonably possible. You are accountable for being heard, which means you need to ensure that the instructor heard you. 
+
 While "life happens," poor planning by you does not count. And definitely do not wait to discuss grey areas. For example, an interview opportunity arises (good!): you should not wait until the day before the assignment is due to let us know that you could not complete the assignment because you had to prepare for the interview. That would be considered poor planning. Good planning would be to alert the Lab Monitor or Instructor that you got the interview and, while you hope to finish the assignment, there is a concern. Then when you don’t finish on time, it’s clear that you planned your time and that will be taken into consideration. These "good planning" situations will be considered individually as per the instructor's discretion.
 
 In all cases, exceptional situations are considered on an individual basis, subject to the approval of the instructor and supported by legitimate and verified documentation. 
