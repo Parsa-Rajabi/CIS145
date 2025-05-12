@@ -4,7 +4,7 @@
 - **What:** Final exam will cover all the concepts covered from the beginning of the course until end (including all in-class exercises, labs and assignments). Refer to course schedule for more details.
 - **When:** Wednesday, August 7th, 2024
 - **Duration:** 9am - 12pm PST + 15 minutes of submission buffer (12:15pm)
-- **Where:** The exam will be available on Blackboard, via the `Final Exam` tab (left hand side)
+- **Where:** The exam will be available on D2L Brightspace, via the `Final Exam` tab (left hand side)
 - **How:** The final will be a take-home, *open-book\** exam. There will NO zoom session during the exam. 
 **note: refer to [exam rules](#exam-rules) to understand what open-book means*
 - Generally, your instructor will not be able to answer questions during the exam - do your best with your best interpretation.
@@ -30,8 +30,8 @@ Refer to the [Final Exam Practice](final-practice.md) page for resources to help
 
 ## Exam Details:
 - There will be NO Zoom during the exam. The exam will be considered as a take-home exam.
-- I recommend submitting your exam every hour just to make sure you know how to complete the process and everything is taken care of. Not making a submission on Blackboard will result in a mark of 0.
-- As mentioned before, neither Navneet or I will be answering any questions related to the exam. Do your best with your best interpretation (and note them down in your answers, if needed). 
+- I recommend submitting your exam every hour just to make sure you know how to complete the process and everything is taken care of. Not making a submission on D2L Brightspace will result in a mark of 0.
+- As mentioned before, neither Diana or I will be answering any questions related to the exam. Do your best with your best interpretation (and note them down in your answers, if needed). 
 
 ## Exam Rules
 - You must complete the test BY YOURSELF (no friends, no tutors, no classmates, no humans - cats and dogs in the room are fine).
@@ -50,13 +50,13 @@ Refer to the [Final Exam Practice](final-practice.md) page for resources to help
 
 The submission process for the exam includes 2 parts:
 1. Upload your files/folders to CIS Web Server
-2. Submit your exam on Blackboard
+2. Submit your exam on D2L Brightspace
 
 ### General Overview
 - Validation your HTML files, save them as PDF in a folder called Reports
 - Upload your HTML files, reports folder to CIS Web Server in a folder called Q0
 - Create a zip of your HTML files, report folder using the name formatting detailed below
-- Submit the zip file and the link to your Q0 folder on your CIS Web server as comment on Blackboard
+- Submit the zip file and the link to your Q0 folder on your CIS Web server as comment on D2L Brightspace
 
 ### Detailed Instructions
 - Your HTML files must pass validation at https://validator.w3.org/ with zero errors and no more than 1 warning. 
@@ -72,8 +72,8 @@ The submission process for the exam includes 2 parts:
   - Place both HTML files in the folder
   - Copy the link to your folder on the CIS Web server
     - It should look something like this: https://cisweb.ufv.ca/~rajabip/Q0 (instead of rajabip, it will be your student ID: 30123456)
-    - Save the link as you will be submitting it to Blackboard as a comment
-- Create a zip of your files (including your validation reports) and submit on Blackboard before the due date
+    - Save the link as you will be submitting it to D2L Brightspace as a comment
+- Create a zip of your files (including your validation reports) and submit on D2L Brightspace before the due date
   - [How to zip a file on Mac/Windows](https://www.wikihow.com/Make-a-Zip-File)
   - The name of your zip file should be formatted as the following
     - `FirstName_LastName_StudentID_Q0.zip`
