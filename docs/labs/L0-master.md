@@ -5,7 +5,7 @@
 |  [Lab 3](#lab-3)  | HTML Basics 2 + CSS Basics 1 |                  |    June 6    |      Jan 15       |   Jan 28   |
 |      No Lab       |                              |                  |   June 13    |                   |            |
 |  [Lab 4](#lab-4)  |         CSS Basic 1          |                  |   June 20    |      Jan 22       |   Feb 4    |
-|  [Lab 5](#lab-5)  |         CSS Basic 2          |                  |    une 27    |       Feb 5       |   Feb 25   |
+|  [Lab 5](#lab-5)  |         CSS Basic 2          |                  |   June 27    |       Feb 5       |   Feb 25   |
 |  [Lab 6](#lab-6)  |       CSS Page Layout        |                  |    July 4    |      Feb 12       |   Mar 4    |
 |      No Lab       |                              |                  |   July 11    |      Feb 26       |   Mar 11   |
 |  [Lab 7](#lab-7)  |    Responsive Web Design     |                  |   July 25    |                   |            |
