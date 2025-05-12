@@ -10,7 +10,7 @@ Labs will be assigned via Kha Academy on a regular basis (weekly). Check your em
 
 Below are submissions instructions for all labs in this course:
 
-1. Labs should be completed via Khan Academy's website and a screenshot of all completed work should be submitted to Blackboard
+1. Labs should be completed via Khan Academy's website and a screenshot of all completed work should be submitted to D2L Brightspace
 2. The screenshot of completed work should include:
    1. **Your completed lab:** Make sure ALL assigned components of the lab are clearly visible (you may take multiple screenshots if they do not fit) and have a checkmark or say "completed", indicating that they're completed.
    2. **A note/word file with your identification information:**
@@ -20,7 +20,7 @@ Below are submissions instructions for all labs in this course:
       4. Current Date/Time (this must match your system's date/time)
 
 > [!WARNING]
-> Screenshot submissions without a note that includes the information above will receive a 50% mark deduction. Failure to submit a screenshot to Blackboard will result in a mark of zero. No exceptions. Phone pictures will NOT be accepted and will result in a mark of zero.
+> Screenshot submissions without a note that includes the information above will receive a 50% mark deduction. Failure to submit a screenshot to D2L Brightspace will result in a mark of zero. No exceptions. Phone pictures will NOT be accepted and will result in a mark of zero.
 
 ### Example Screenshot
 
@@ -34,11 +34,11 @@ Here is an example of how your screenshot(s) should look like. Make sure to incl
 
 ![](images/labs/lab-completed-annotated.png)
 
-### Blackboard Submission
+### D2L Brightspace Submission
 
-Here are the steps to submit your screenshot to Blackboard:
+Here are the steps to submit your screenshot to D2L Brightspace:
 
-1. Go to myclasses/blackboard UFV
+1. Go to myclasses/D2L Brightspace UFV
 2. Navigate to CIS 145 Course
 3. On the sidebar, select `Labs`
 4. Find the respective lab
@@ -51,8 +51,8 @@ Here are the steps to submit your screenshot to Blackboard:
 
 In order to get access to the labs, you will need to create an account on Khan Academy's platform. Follow the instructions below to sign up:
 
-- Join the CIS 145 Khan Academy's classroom using [this link](https://www.khanacademy.org/join/57W5XQKA)
-   - If you get prompted, enter `57W5XQKA` as the class code to join CIS 145 Spring 2025
+- Join the CIS 145 Khan Academy's classroom using [this link](https://www.khanacademy.org/join/JKXXM9FN)
+   - If you get prompted, enter `JKXXM9FN` as the class code to join CIS 145 Spring 2025
    - **You must use your `@student.ufv.ca` email account to sign up**
 
 ## Step by step instructions to sign up for Khan Academy:
