@@ -85,7 +85,7 @@ The Learning outcomes for this course are:
 9. Manipulate multimedia and other files for optimal delivery through the Internet
 10. Apply JavaScript to websites
 
-## Textbook Material
+## Textbook Material (optional)
 
 Web Development and Design Foundations with HTML5 - 10th edition
 by Terry Felke-Morris
@@ -94,6 +94,10 @@ Publisher: Pearson
 ISBN: 9780135919941
 
 [Link](https://www.pearson.com/en-us/subject-catalog/p/web-development-and-design-foundations-with-html5/P200000003268/9780136662402)
+
+## Quiz Platform (required)
+
+We will be using **PrarieLearn** for quizzes and final component. You will need to create a paid account ($10 USD) on the platform and link it to your UFV email address. For more information on how to create an account, please refer to the [PrarieLearn guide](quizzes.md).
 
 ## Course Evaluation
 
