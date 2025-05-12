@@ -6,6 +6,15 @@ Quizzes serve as a way to assess your understanding of the material covered in t
 
 Quizzes will be administered through **PrairieLearn**. You will need to purchase a PrairieLearn account to access the quizzes. The cost is $10.00 USD for the entire course (4 months).
 
+## Quiz Dates 
+
+- Quiz #0 (Syllabus): Tuesday, May 20, 2025 at 11:59 PM PST
+  - This quiz is required to ensure you have read the syllabus and course policies. Grading will be based on completion, not correctness and will count towards your participation grade.
+- Quiz #1: Monday, June 9, 2025
+- Quiz #2: Monday, July 7, 2025
+
+Quiz details will be provided closer to the quiz dates.
+
 ## Get Started with PrairieLearn
 
 Follow the instructions below to sign up/purchase PrairieLearn:
@@ -41,5 +50,5 @@ Follow the instructions below to sign up/purchase PrairieLearn:
 
 ### Issues or Questions?
 
-> ![!WARNING]
+> [!WARNING]
 > If you encounter any issues or have questions about PrairieLearn, please reach out to the course instructor or lab monitor via email for assistance. 
