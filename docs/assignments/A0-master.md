@@ -1,9 +1,10 @@
 | Assignment # | Deadline |
 | :----------: | :------: |
 |      A1      |  June 5  |
-|      A2      |  July 3  |
-|      A3      | July 24  |
-|      A4      | July 31  |
+|      A2      | June 24  |
+|      A3      |  July 8  |
+|      A4      | July 22  |
+|      A5      |  Aug 5   |
 
 ## A1
 - Learn HTML by Building a Cat Photo App [69 Steps]
