@@ -25,7 +25,7 @@ host: cisweb.ufv.ca
 port: 22
 protocol: sftp
 username: (your student id - example: 30012345) - note: this should NOT be your name/email. Just numbers.
-password: (your UFV password - same as your Blackboard/UFV student email)
+password: (your UFV password - same as your D2L Brightspace/UFV student email)
 ```
 
 Once you have established a connection, you will see a list of files populated on the right handside of your screen. The left side of the application shows files on your computer while the right side is your dedicted CIS Web server folder.

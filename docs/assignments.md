@@ -8,7 +8,7 @@ Course assignments are intended to be a practical application of the course mate
 
 Below are submissions instructions for all assignments in this course:
 
-1. Assignments should be completed via freeCodeCamp's website and a screenshot of all completed work should be submitted to Blackboard
+1. Assignments should be completed via freeCodeCamp's website and a screenshot of all completed work should be submitted to D2L Brightspace
 2. The screenshot of completed work should include:
    1. **Your completed assignment:** Make sure ALL assigned components of the assignment are clearly visible (you may take multiple screenshots if they do not fit) and have a checkmark or say "completed", indicating that they're completed.
    2. **A note/word file with your identification information:**
@@ -18,7 +18,7 @@ Below are submissions instructions for all assignments in this course:
       4. Current Date/Time (this must match your system's date/time)
 
 > [!WARNING]
-> Screenshot submissions without a note that includes the information above will receive a 50% mark deduction. Failure to submit a screenshot to Blackboard will result in a mark of zero. No exceptions. Phone pictures will NOT be accepted and will result in a mark of zero.
+> Screenshot submissions without a note that includes the information above will receive a 50% mark deduction. Failure to submit a screenshot to D2L Brightspace will result in a mark of zero. No exceptions. Phone pictures will NOT be accepted and will result in a mark of zero.
 
 ### Example Screenshot
 
@@ -31,11 +31,11 @@ Here is an example of how your screenshot(s) should look like. Make sure to incl
 
 ![](images/assignment-example-annotated.jpeg)
 
-### Blackboard Submission
+### D2L Brightspace Submission
 
-Here are the steps to submit your screenshot to Blackboard:
+Here are the steps to submit your screenshot to D2L Brightspace:
 
-1. Go to myclasses/blackboard UFV
+1. Go to myclasses/D2L Brightspace UFV
 2. Navigate to CIS 145 Course
 3. On the sidebar, select `Assignments`
 4. Find the respective assignment
