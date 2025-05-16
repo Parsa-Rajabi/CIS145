@@ -33,3 +33,16 @@ All deadlines are at 11:59pm PST. Click on the Lab/Assignment link to view the d
 
 > [!INFO]
 > Labs and assignments can be submitted up to 24 hours after the due date with a `25% penalty`. After 24 hours, the submission will not be accepted and a score of zero will be recorded. 
+
+## Drop-in Help
+
+Throughout the semester (especially during our asynchronous lectures), our dedicate lab monitor, Diana will be available to provide real-time assistance with any questions or difficulties you might have regarding the course material.
+
+Here’s how the drop-in sessions will work:
+- Book your session via the scheduling tool, calendly: [Diana Drop-in Booking Tool](https://calendly.com/diana-emal-student/diana-s-office-hours)
+- Join the Zoom session (link available via the same booking page) during your specified appointment 
+
+### Cancellation Policy
+- In case you are unable to make your booked appointment for any reason, please contact Diana directly via [email](mailto:Diana.Emal@student.ufv.ca) as soon as possible (ideally, 24 hours in advance)
+- Failure to show up to your booked appointment without informing Diana in advance will be considered a breach of the professionalism policy and penalties will be applied (after 1 official warning).
+
