@@ -7,7 +7,7 @@
 |      A5      |  Aug 5   |
 
 ## A1
-- Learn HTML by Building a Cat Photo App [69 Steps]
+- Learn HTML by Building a Cat Photo App [71 Steps]
 
 ## A2
 - Learn Basic CSS by Building a Cafe Menu [91 Steps]
