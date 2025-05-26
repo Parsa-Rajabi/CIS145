@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- Common Mistake: -->
+    <!-- <meta name="viewport" content="width=device-width", "initial-scale=1.0"> -->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Banana Bread Recipe</title>
+</head>
+<body>
+    <header>
+        <h1>Delicious Banana Bread Recipe</h1>
+    </header>
+
+    <p>This is a <strong>recipe</strong> of a great and <b>yummy</b> banana <i>bread</i>!</p>
+
+    <div>
+        <h2>Ingredients</h2>
+        <!-- unordered list -->
+        <ul>
+            <li>3 ripe bananas</li><li>1/3 cup melted butter</li>
+            <li>1 cup sugar</li>
+            <li>1 beaten egg</li>
+            <li>1 teaspoon vanilla extract</li>
+            <li>1 teaspoon baking soda</li>
+            <li>Pinch of salt</li>
+            <li>1 1/2 cups of all-purpose flour</li>
+        </ul>
+    </div>
+
+    <!-- it's best to stay consistent with our div/section tags, the following is just a demo of how we can use <section> -->
+    <section>
+        <h2>Instructions</h2>
+        <!-- ordered list -->
+        <ol type="1">
+            <li>Preheat the oven to 350°F (175°C).</li>
+            <li>With a wooden spoon, mix butter into the mashed bananas in a large mixing bowl.</li>
+            <li>Mix in the sugar, egg, and vanilla.</li>
+            <li>Sprinkle the baking soda and salt over the mixture and mix in.</li>
+            <li>Add the flour last, mix.</li>
+            <li>Pour mixture into a buttered 4x8 inch loaf pan.</li>
+            <li>Bake for 1 hour. Cool on a rack. Remove from pan and slice to serve.</li>
+        </ol>
+    </section>
+
+    <section>
+        <h2>Additional Information</h2>
+        <p>Enjoy this simple yet delicious banana bread. It’s a great way to use up ripe bananas and makes a perfect snack or breakfast.</p>
+
+        <!-- Common mistakes: -->
+        <!-- <img src="banana-bread.jpg"> -->
+        <!-- <img src="Windows/Parsa/CIS 145/Assignment/banana-bread.jpg"> -->
+        <p>Image without a figure:</p>
+        <!-- rel path -->
+        <img src="Images/banana-bread.jpg" alt="A loaf of banana bread cut into multiple pieces with a butter knife placed on the left side of it." width="400px">
+        <!-- source of image: https://www.simplyrecipes.com/thmb/6NhQKyjhBOmu4y0RXXHipugv0Q8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Easy-Banana-Bread-LEAD-2-66837beab63c495292d89743c6767171.jpg -->
+
+        <p>Image with a figure (notice the gap on the left/indentation):</p>
+        <figure>
+            <img src="Images/banana-bread.jpg" alt="A loaf of banana bread cut into multiple pieces with a butter knife placed on the left side of it." width="400px">
+            <figcaption>A freshly baked loaf of banana bread</figcaption>
+        </figure>
+    </section>
+
+    <footer>
+        <h2>Contact Us</h2>
+        <p>If you have any questions or feedback, feel free to reach out:</p>
+        <ul>
+            <li>Email: <a href="mailto:info@bananabreadrecipe.com">info@bananabreadrecipe.com</a></li>
+            <li>Phone: <a href="tel:+1234567890">+1 (234) 567-890</a></li>
+        </ul>
+        <div>
+            <p>Find more recipes at our <a href="https://www.google.ca">website</a>.</p>
+            <!-- <a href="link to the website OR file">label</a> -->
+             <!-- rel link for navigation -->
+            <p>Visit the intro-to-html demo <a href="../intro-to-html/index.html">code</a>.</p>
+        </div>
+    </footer>
+</body>
+</html>
