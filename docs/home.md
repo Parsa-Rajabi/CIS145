@@ -5,6 +5,9 @@ All course slides are password protected. Visit course info page (on left naviga
 
 *Note: The course schedule is subject to change. Please check back regularly for updates.*
 
+> [!NOTE]
+> The source code for all in-class demos can be found on [this page](../code-demos/).
+
 > [!WARNING]
 > The days marked as "Asynchronous" are online learning days. You are expected to complete the assigned tasks on your own time (there will be no Zoom class on those days). 
 
@@ -15,7 +18,7 @@ All course slides are password protected. Visit course info page (on left naviga
 | :------: | :------: | :-------------------------: | :-----------------------------------------------------------------------: | :--------: | :---------------------------: | :-------------------------------: |
 |    1     |  May 12  |         Live [Zoom]         |                Syllabus + [Intro to WWW](-intro-to-www.md)                |  [Slides](http://tiny.cc/145-SU25-W1)  | [Lab 1](labs/L1.md) (May 15)  |                                   |
 |    2     |  May 19  |              -              |              Holiday; Class Cancelled - Quiz #0 due (May 20)              |     -      | [Lab 2](labs/L2.md) (May 22)  |                                   |
-|    3     |  May 26  |         Live [Zoom]         |  [Intro to HTML](-intro-to-html.md) + [HTML Basics 1](-html-basics-1.md)  |  [Slides](http://tiny.cc/145-SU25-W3)  | [Lab 3](labs/L3.md) (May 29)  |                                   |
+|    3     |  May 26  |         Live [Zoom]         |  [Intro to HTML](-intro-to-html.md) + [HTML Basics 1](-html-basics-1.md)  |  [Slides](http://tiny.cc/145-SU25-W3cd ..)  | [Lab 3](labs/L3.md) (May 29)  |                                   |
 |    4     |  Jun 2   | Asynchronous [Drop-in Help] |                    [HTML Basics 2](-html-basics-2.md)                     |     -      |                               | [A1](assignments/A1.md) (June 3)  |
 |    5     |  Jun 9   |            Quiz             |                            Quiz #1 (tentative)                            |     -      | [Lab 4](labs/L4.md) (June 12) |                                   |
 |    6     |  Jun 16  |         Live [Zoom]         |                     [CSS Basics 1](-css-basics-1.md)                      |  [Slides]  | [Lab 5](labs/L5.md) (June 19) |                                   |
