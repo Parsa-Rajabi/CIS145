@@ -13,7 +13,41 @@ Quizzes will be administered through **PrairieLearn**. You will need to purchase
 - Quiz #1: Monday, June 9, 2025
 - Quiz #2: Monday, July 7, 2025
 
-Quiz details will be provided closer to the quiz dates.
+
+## Quiz 1 
+- **What**: The quiz will cover all concepts from the first 4 weeks of the class (No CSS will be included in Quiz #1).
+- **Date**: Monday, June 9, 2025
+- **Time**: 8:30am - 11:20am PST
+- **Where**: The quiz will be available on PrairieLearn. You can access it by logging into your PrairieLearn account via the link below:
+  - [PrairieLearn - CIS 145](https://us.prairielearn.com/) - make sure to log in using the [instructions provided below](#get-started-with-prairielearn).
+- **How**: The quiz will be a take-home, *open-book\** quiz. There will **NO zoom session** during the quiz. 
+*note: refer to [quiz rules](#quiz-rules) to understand what open-book means
+- Generally, your instructor will not be able to answer questions during the quiz - do your best with your best interpretation (and note them down in your answers, if needed).
+
+> [!ATTENTION]
+> Make sure you're in a place with a good computer and steady internet when taking the quiz. If your computer or internet stops working during the quiz, it is up to you to get back online and finish before the time's up. 
+
+## Before the quiz:
+- Update your computer so it doesn't start updating in the middle of your quiz.
+- Try out your internet before and a few hours before the quiz. If you're using Wi-Fi, think about plugging into the internet with a cable.
+- Make sure other devices aren't using up all the internet while you're on the quiz.
+
+> [!ATTENTION]
+> It's a good idea to have a backup plan, like another computer or different internet, just in case. You may also be able to use the computers located on campus (if you're nearby).
+
+## Quiz Rules
+- You must complete the test BY YOURSELF (no friends, no tutors, no classmates, no humans - cats and dogs in the room are fine).
+- Any form of communication with other humans, terrestrial or extraterrestrial is not allowed (Discord, Slack, WhatsApp, Terminal, Signal, iMessage, SMS, MMS, etc…)
+- The test is open-book, open-notes, open-IDE (e.g. VSCode) EXCEPT websites and plugins that help you cheat such as ChatGPT, BingAI, Chegg, Course Hero, Slader and other similar websites that have tutors answering questions you upload 
+> [!TIP]
+> W3Schools, Khan Academy or freeCodeCamp are permissible as long as they are explicitly cited/references in your answers.
+- Copying the question text and googling **IS CHEATING**
+- Posting the question text and asking someone to solve it for you **IS CHEATING**
+- Using google to search for concepts is NOT cheating (however using any AI-based search engine i.e. BingAI **IS CHEATING**).
+- If you come across the same or similar question on google, resist the temptation to keep reading, and close your browser tab.
+- Do NOT share quiz questions with anyone: that **IS CHEATING**
+- Overall, do not stress! You will be fine.
+
 
 ## Get Started with PrairieLearn
 
