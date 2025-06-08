@@ -35,6 +35,15 @@ Quizzes will be administered through **PrairieLearn**. You will need to purchase
 > [!ATTENTION]
 > It's a good idea to have a backup plan, like another computer or different internet, just in case. You may also be able to use the computers located on campus (if you're nearby).
 
+## Quiz Issues?
+
+In case you run into any issues with PrairieLearn questions, use the "Report an error" button on the question page to report the issue. This includes any problems with the question itself, such as typos, incorrect answers, or unclear instructions.
+
+![](images/quizzes/PL-Report-Error.png)
+![](images/quizzes/PL-Report-Error-Details.png)
+
+
+
 ## Quiz Rules
 - You must complete the test BY YOURSELF (no friends, no tutors, no classmates, no humans - cats and dogs in the room are fine).
 - Any form of communication with other humans, terrestrial or extraterrestrial is not allowed (Discord, Slack, WhatsApp, Terminal, Signal, iMessage, SMS, MMS, etc…)
