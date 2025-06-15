@@ -14,9 +14,9 @@ Quizzes will be administered through **PrairieLearn**. You will need to purchase
 - Quiz #2: Monday, July 7, 2025
 
 
-## Quiz 1 
-- **What**: The quiz will cover all concepts from the first 4 weeks of the class (No CSS will be included in Quiz #1).
-- **Date**: Monday, June 9, 2025
+## Quiz 2 
+- **What**: The quiz will cover all concepts from the course up to and including Week 9. This includes HTML and CSS topics covered in the course. It is recommended to finish Lab 7 and A3 before the quiz, as they will help you prepare for it.
+- **Date**: Monday, July 7, 2025
 - **Time**: 8:30am - 11:20am PST
 - **Where**: The quiz will be available on PrairieLearn. You can access it by logging into your PrairieLearn account via the link below:
   - [PrairieLearn - CIS 145](https://us.prairielearn.com/) - make sure to log in using the [instructions provided below](#get-started-with-prairielearn).
