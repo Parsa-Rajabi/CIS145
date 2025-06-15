@@ -182,9 +182,6 @@ The example below shows how block and inline elements are displayed in HTML:
 - The benefits of validation include improved code quality, better accessibility, and consistent rendering across browsers.
 - W3C HTML Validator tool: [https://validator.w3.org/](https://validator.w3.org/)
 
-> [!WARNING]
-> You'll be required to submit a validation report for your quizzes. Make sure you're familiar with the validation process.
-
 ## Review of HTML Basics
 
 Let's review some of the basic HTML elements and concepts we've covered so far. You should be familiar with these elements to create structured and meaningful web pages.

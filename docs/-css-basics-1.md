@@ -421,5 +421,3 @@ Similar to fonts, text properties can be set using CSS. Here are some common tex
 - Similar to HTML validation, CSS validation checks your code against web standards to ensure it is well-structured and compatible with different browsers.
 - W3C provides a CSS Validator tool that you can use to validate your CSS code: [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validator/)
 
-> [!WARNING]
-> You'll be required to submit a validation report for your quizzes. Make sure you're familiar with the validation process.
