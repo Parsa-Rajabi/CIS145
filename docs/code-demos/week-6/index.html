@@ -12,9 +12,14 @@
     <link rel="stylesheet" href="CSS/styles.css">     
 
     <style>
-        p {
+        /* This is an internal CSS style block, used for quick styling. 
+           It is not recommended for large projects, but useful for small demos. 
+           Remember that internal CSS will override external CSS if there are conflicts. 
+           In-line CSS (style attribute) will override both internal and external CSS.
+        */
+        /* p {
             color: darkgreen;
-        }
+        }  */
     </style>
 </head>
 
@@ -23,7 +28,8 @@
         <h1 class="text-center">Delicious <span id="cyan-color">Banana Bread</span> Recipe</h1>
     </header>
 
-    <p>This is a <strong>recipe</strong> of a great and <b>yummy</b> banana <i>bread</i>!</p>
+    <!-- Demo inline CSS  -->
+    <p style="color: greenyellow">This is a <strong>recipe</strong> of a great and <b>yummy</b> banana <i>bread</i>!</p>
 
     <div>
         <h2 class="purple-text text-center">Ingredients</h2>
@@ -40,6 +46,8 @@
             <li>1 1/2 cups of all-purpose flour</li>
         </ul>
     </div>
+
+    
 
     <h2 class="purple-text text-center">Optional Ingredients</h2>
     <ul>
@@ -63,6 +71,7 @@
     </section>
 
     <section>
+        <!-- inline CSS overrides exteranl CSS -->
         <h2 class="purple-text text-center" style="color: orchid;">Additional Information</h2>
         <p>Enjoy this simple yet delicious banana bread. It’s a great way to use up ripe bananas and makes a perfect snack or breakfast.</p>
 
