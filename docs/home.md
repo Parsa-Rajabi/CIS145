@@ -6,7 +6,7 @@ All course slides are password protected. Visit course info page (on left naviga
 *Note: The course schedule is subject to change. Please check back regularly for updates.*
 
 > [!NOTE]
-> The source code for all in-class demos can be found on [this page](../code-demos/).
+> The source code for all in-class demos can be found on [this page](code-demos/).
 
 > [!WARNING]
 > The days marked as "Asynchronous" are online learning days. You are expected to complete the assigned tasks on your own time (there will be no Zoom class on those days). 
