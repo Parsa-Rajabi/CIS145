@@ -1,0 +1,206 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightyellow;
+    padding-top: 60px;
+}
+
+#cyan-color {
+    color: darkcyan;
+    border: 2px solid tomato;
+}
+
+.purple-text {
+    color: #800080;
+}
+
+.text-center {
+    text-align: center;
+}
+
+img {
+    width: 50%;
+    float: right;
+}
+
+header {
+    margin-top: 80px;
+}
+
+ol {
+    border: 3px solid brown;
+    box-shadow: 5px 15px brown;
+    overflow: auto;
+    height: 100px;
+}
+
+#ingredients-section {
+    margin: auto;
+    width: 50%;
+}
+
+
+
+#contact-us {
+    clear: right;
+}
+
+nav {
+    background: linear-gradient(to right, lightblue, lightgreen);
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    top: 0;  /* Ensure it stays at the top */
+    left: 0;  /* Ensure it stays at the left */
+    opacity: 0.9;
+}
+
+/* Base styles for nav */
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10;
+    padding: 0;
+
+}
+
+
+
+nav a:hover {
+    color: darkgreen;
+}
+
+
+
+/************************************ HTML table ************************************/
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    border: 1px solid blue;
+}
+
+caption {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+th,  td {
+    border: 2px solid purple;
+    padding: 8px;
+    text-align: center;
+}
+
+th, .table-heading {
+    background-color: #f2f2f2;
+}
+
+/************************************ HTML Form ************************************/
+form {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+fieldset {
+    padding: 40px;
+}
+
+legend {
+    font-size: 1.5em;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.radio-button{
+    display: inline;
+    margin-bottom: 10px;
+}
+
+.text-input, .email-input, .select-input, .textarea-input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.checkbox-input {
+    margin-right: 5px;
+}
+
+#newsletter-label {
+    display: inline;
+}
+
+.submit-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.submit-button:hover {
+    background-color: #45a049;
+}
+
+
+
+
+/************************************ Extra CSS for making the site responsive for mobile ************************************/
+
+/* Mobile Styles (up to 767px) */
+@media screen and (max-width: 767px) {
+    nav ul {
+        flex-direction: column;
+        justify-content: center;
+        font-size: 1em;
+    }
+
+    nav a {
+        padding: 10px 5px;
+        color: olive;
+    }
+}
+
+/* Tablet Styles (768px to 1023px) */
+@media screen and (min-width: 767px) and (max-width: 1024px) {
+    nav ul {
+        flex-direction: row;
+        justify-content: space-between;
+        font-size: 1.25em;
+    }
+
+    nav a {
+        padding: 10px 15px;
+        color: orangered;
+    }
+}
+
+/* Desktop Styles (1024px and up) */
+@media screen and (min-width: 1024px) {
+    nav ul {
+        flex-direction: row;
+        justify-content: space-around;
+        font-size: 1.5em;
+    }
+
+    nav a {
+        padding: 10px 20px;
+        color: darkblue;
+    }
+}
